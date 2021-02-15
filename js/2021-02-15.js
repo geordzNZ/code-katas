@@ -13,7 +13,9 @@
 // }
 // printerError("aaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbmmmmmmmmmmmmmmmmmmmxyz")
 // printerError("aaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbmmmmmmmmmmmmmmmmmmm")
+
 // 1) END===============================================================
+
 
 // 2) START===============================================================
 // Title: Function 3 - multiplying two numbers
@@ -23,4 +25,33 @@
 // function multiply(n1,n2){
 //   return n1 * n2
 // }
+
 // 2) END===============================================================
+
+
+// 3) START===============================================================
+// Title: Grasshopper - Variable Assignment Debug
+// https://www.codewars.com/kata/5612e743cab69fec6d000077
+
+// var a = 'dev'
+// var b = 'Lab'
+
+// var name = a + b
+
+// 3) END===============================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
