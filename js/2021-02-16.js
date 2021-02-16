@@ -193,4 +193,29 @@
 // 10) END===============================================================
 
 
-//  11 maybe http://www.codewars.com/kata/56dbed3a13c2f61ae3000bcd
+// 11) START===============================================================
+// Title: Noonerize Me
+// http://www.codewars.com/kata/56dbed3a13c2f61ae3000bcd
+
+function noonerize(numbers) {
+  
+  if (Number.isInteger(numbers[0]) && Number.isInteger(numbers[1])){
+    let num1 = numbers[0].toString().split('')
+    let num2 = numbers[1].toString().split('')
+      
+     let temp = num1[0]
+     num1[0] = num2[0]
+     num2[0] = temp
+    
+    return Math.abs(Number(num1.join('')) - Number(num2.join('')))
+  } else {
+     return 'invalid array'
+  }
+}
+
+noonerize([12, 34])  //18
+noonerize([55, 63])  //12
+noonerize([357, 579])  //178
+noonerize([1000000, 9999999])  //7000001
+
+// 11) END===============================================================
