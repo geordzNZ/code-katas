@@ -2,8 +2,8 @@
 // comment = #X kata for 16/Feb/2021
 
 // 1) START===============================================================
-// Title: Transportation on vacation
-// https://www.codewars.com/kata/568d0dd208ee69389d000016
+// TITLE: Transportation on vacation
+// LINK:  https://www.codewars.com/kata/568d0dd208ee69389d000016
 
 // function rentalCarCost(d) {
 //   return d >= 7 ? (d * 40) - 50 : d >= 3 ? (d * 40) - 20 : (d * 40)
@@ -13,8 +13,8 @@
 
 
 // 2) START===============================================================
-// Title: Grasshopper - Grade book
-// https://www.codewars.com/kata/55cbd4ba903825f7970000f5
+// TITLE: Grasshopper - Grade book
+// LINK:  https://www.codewars.com/kata/55cbd4ba903825f7970000f5
 
 // function getGrade (s1, s2, s3) {
 //   let avg = (s1 + s2 + s3)/3
@@ -39,8 +39,8 @@
 
 
 // 3) START===============================================================
-// Title: get character from ASCII Value
-// https://www.codewars.com/kata/55ad04714f0b468e8200001c
+// TITLE: get character from ASCII Value
+// LINK:  https://www.codewars.com/kata/55ad04714f0b468e8200001c
 
 // function getChar(c){
 //   return String.fromCharCode(c)
@@ -50,8 +50,8 @@
 
 
 // 4) START===============================================================
-// Title: Beginner - Reduce but Grow
-// https://www.codewars.com/kata/57f780909f7e8e3183000078
+// TITLE: Beginner - Reduce but Grow
+// LINK:  https://www.codewars.com/kata/57f780909f7e8e3183000078
 
 // function grow(x){
 //   let total = 1
@@ -65,8 +65,8 @@
 
 
 // 5) START===============================================================
-// Title: L1: Bartender, drinks!
-// https://www.codewars.com/kata/568dc014440f03b13900001d
+// TITLE: L1: Bartender, drinks!
+// LINK:  https://www.codewars.com/kata/568dc014440f03b13900001d
 
 // function getDrinkByProfession(param){
   
@@ -99,8 +99,8 @@
 
 
 // 6) START===============================================================
-// Title: Pre-FizzBuzz Workout #1
-// https://www.codewars.com/kata/569e09850a8e371ab200000b
+// TITLE: Pre-FizzBuzz Workout #1
+// LINK:  https://www.codewars.com/kata/569e09850a8e371ab200000b
 
 // function preFizz(n) {
 //   let output = []
@@ -114,8 +114,8 @@
 
 
 // 7) START===============================================================
-// Title: Switcheroo
-// https://www.codewars.com/kata/57f759bb664021a30300007d
+// TITLE: Switcheroo
+// LINK:  https://www.codewars.com/kata/57f759bb664021a30300007d
 
 // v1
 // function switcheroo(x){
@@ -134,8 +134,8 @@
 
 
 // 8) START===============================================================
-// Title: Beginner - Lost Without a Map
-// https://www.codewars.com/kata/57f781872e3d8ca2a000007e
+// TITLE: Beginner - Lost Without a Map
+// LINK:  https://www.codewars.com/kata/57f781872e3d8ca2a000007e
 
 // function maps(x){
 //   return x.map(x => x*=2)
@@ -145,8 +145,8 @@
 
 
 // 9) START===============================================================
-// Title: Grasshopper - Personalized Message
-// https://www.codewars.com/kata/5772da22b89313a4d50012f7
+// TITLE: Grasshopper - Personalized Message
+// LINK:  https://www.codewars.com/kata/5772da22b89313a4d50012f7
 
 // function greet (name, owner) {
 //   return name === owner ? 'Hello boss' : 'Hello guest'
@@ -156,8 +156,8 @@
 
 
 // 10) START===============================================================
-// Title: Spoonerize Me
-// https://www.codewars.com/kata/56b8903933dbe5831e000c76
+// TITLE: Spoonerize Me
+// LINK:  https://www.codewars.com/kata/56b8903933dbe5831e000c76
 
 // v1 
 // function spoonerize(words) {
@@ -194,8 +194,8 @@
 
 
 // 11) START===============================================================
-// Title: Noonerize Me
-// http://www.codewars.com/kata/56dbed3a13c2f61ae3000bcd
+// TITLE: Noonerize Me
+// LINK:  https://www.codewars.com/kata/56dbed3a13c2f61ae3000bcd
 
 //function noonerize(numbers) {
   
@@ -222,8 +222,8 @@
 
 
 // 12) START===============================================================
-// Title: Do I get a bonus?
-// https://www.codewars.com/kata/56f6ad906b88de513f000d96
+// TITLE: Do I get a bonus?
+// LINK:  https://www.codewars.com/kata/56f6ad906b88de513f000d96
 
 // function bonusTime(salary, bonus) {
 //   return `£${bonus ? salary * 10 : salary}`
@@ -233,8 +233,8 @@
 
 
 // 13) START===============================================================
-// Title: Is he gonna survive?
-// https://www.codewars.com/kata/59ca8246d751df55cc00014c?utm_source=newsletter
+// TITLE: Is he gonna survive?
+// LINK:  https://www.codewars.com/kata/59ca8246d751df55cc00014c?utm_source=newsletter
 
 // v1
 // function hero(bullets, dragons){
