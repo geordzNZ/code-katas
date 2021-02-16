@@ -156,7 +156,41 @@
 
 
 // 10) START===============================================================
-// Title: 
-// 
+// Title: Spoonerize Me
+// https://www.codewars.com/kata/56b8903933dbe5831e000c76
+
+// v1 
+// function spoonerize(words) {
+//   let arrWords = words.split(' ')
+//   let word1 = arrWords[0].split('')
+//   let word2 = arrWords[1].split('')
+  
+  
+//   let temp = word1[0]
+//   word1[0] = word2[0]
+//   word2[0] = temp
+  
+//   let newWord1 = word1.join('')
+//   let newWord2 = word2.join('')
+  
+//   return newWord1 + ' ' + newWord2
+// }
+
+// v2 
+// function spoonerize(words) {
+//   let arrWords = words.split(' ')
+//   let word1 = arrWords[0].split('')
+//   let word2 = arrWords[1].split('')
+  
+  
+//   let temp = word1[0]
+//   word1[0] = word2[0]
+//   word2[0] = temp
+  
+//   return word1.join('') + ' ' + word2.join('')
+// }
 
 // 10) END===============================================================
+
+
+//  11 maybe http://www.codewars.com/kata/56dbed3a13c2f61ae3000bcd
