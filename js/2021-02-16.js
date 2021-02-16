@@ -230,3 +230,18 @@
 // }
 
 // 12) END===============================================================
+
+
+// 13) START===============================================================
+// Title: Is he gonna survive?
+// https://www.codewars.com/kata/59ca8246d751df55cc00014c?utm_source=newsletter
+
+// v1
+// function hero(bullets, dragons){
+//   return (dragons * 2 <= bullets)
+//   }
+
+// v2 (not submitted - copied from answers for a ref)
+// const hero = (bullets, dragons) => dragons * 2 <= bullets;
+
+// 13) END===============================================================
