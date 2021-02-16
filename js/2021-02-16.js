@@ -1,3 +1,6 @@
+//CODE KATAS FOR 16 FEB 2021
+// comment = #X kata for 16/Feb/2021
+
 // 1) START===============================================================
 // Title: Transportation on vacation
 // https://www.codewars.com/kata/568d0dd208ee69389d000016
@@ -36,10 +39,12 @@
 
 
 // 3) START===============================================================
-// Title: 
-//
+// Title: get character from ASCII Value
+// https://www.codewars.com/kata/55ad04714f0b468e8200001c
 
-
+// function getChar(c){
+//   return String.fromCharCode(c)
+// }
 
 // 3) END===============================================================
 
