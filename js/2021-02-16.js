@@ -197,7 +197,7 @@
 // Title: Noonerize Me
 // http://www.codewars.com/kata/56dbed3a13c2f61ae3000bcd
 
-function noonerize(numbers) {
+//function noonerize(numbers) {
   
 //   if (Number.isInteger(numbers[0]) && Number.isInteger(numbers[1])){
 //     let num1 = numbers[0].toString().split('')
@@ -219,3 +219,14 @@ function noonerize(numbers) {
 // noonerize([1000000, 9999999])  //7000001
 
 // 11) END===============================================================
+
+
+// 12) START===============================================================
+// Title: Do I get a bonus?
+// https://www.codewars.com/kata/56f6ad906b88de513f000d96
+
+// function bonusTime(salary, bonus) {
+//   return `£${bonus ? salary * 10 : salary}`
+// }
+
+// 12) END===============================================================
