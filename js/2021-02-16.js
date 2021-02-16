@@ -114,8 +114,21 @@
 
 
 // 7) START===============================================================
-// Title: 
-// 
+// Title: Switcheroo
+// https://www.codewars.com/kata/57f759bb664021a30300007d
+
+// v1
+// function switcheroo(x){
+//     x = x.replace(/a/g,'g')
+//     x = x.replace(/b/g,'a')
+//     x = x.replace(/g/g,'b')
+//     return x 
+//   }
+
+// v2
+// function switcheroo(x){
+//   return  x = x.replace(/a/g,'g').replace(/b/g,'a').replace(/g/g,'b')
+// }
 
 // 7) END===============================================================
 
