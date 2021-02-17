@@ -1,5 +1,5 @@
 // CODE KATAS FOR 17 Feb 2021
-// Rank at start of the day = 132
+// Rank at start of the day = 132 / 6 Kyu
 // comment = #X kata for 17/Feb/2021
 
 
@@ -30,8 +30,59 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Help the bookseller !
+// LINK:  https://www.codewars.com/kata/54dc6f5a224c26032800005c
+
+// v1
+// function stockList(listOfArt, listOfCat){
+//   //   console.log(listOfArt)
+//   //   console.log(listOfArt[0])
+//   //   console.log(listOfArt[0].charAt(0))  
+//     let bookInfo = listOfArt[0].split(' ')
+//   //   console.log(bookInfo)
+//   //   console.log(bookInfo[1])
+//     let msg =  ''
+//     let total = 0
+
+//     if (listOfArt.length === 0 || listOfCat.length === 0) return ''
+//     for (let i = 0; i < listOfCat.length; i++){
+//       let searchCat = listOfCat[i]
+      
+//       for (let j = 0; j < listOfArt.length; j++){
+//         let bookCat = listOfArt[j].charAt(0)
+//         if (searchCat === bookCat){
+//           let bookInfo = listOfArt[j].split(' ')
+//           console.log(`1= ${bookInfo[0]} / ${bookInfo[1]}`)
+//           console.log(Number(bookInfo[1]))
+//           total = total + Number(bookInfo[1])
+//         }
+//       }  
+//       msg = msg + `(${searchCat} : ${total}) - `
+//       total = 0
+//     }
+//     console.log(msg.substring(0, msg.length-3))
+//     return (msg.substring(0, msg.length-3))
+//   }
+  
+// v2
+// function stockList(listOfArt, listOfCat){
+//   let msg =  ''
+//   let total = 0
+
+//   if (listOfArt.length === 0 || listOfCat.length === 0) return ''
+  
+//   for (let i = 0; i < listOfCat.length; i++){
+//     for (let j = 0; j < listOfArt.length; j++){
+//       if (listOfCat[i] === listOfArt[j].charAt(0)){
+//         let bookInfo = listOfArt[j].split(' ')
+//         total = total + Number(bookInfo[1])
+//       }
+//     }  
+//     msg = msg + `(${listOfCat[i]} : ${total}) - `
+//     total = 0
+//   }
+//   return (msg.substring(0, msg.length-3))
+// }
 
 // 2) END===============================================================
 
