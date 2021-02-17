@@ -188,8 +188,12 @@
 
 
 // 6) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Are arrow functions odd?
+// LINK:  https://www.codewars.com/kata/559f80b87fa8512e3e0000f5
+
+// function odds(values){
+//   return values.filter(x => (x % 2 == 1));
+// }
 
 // 6) END===============================================================
 
