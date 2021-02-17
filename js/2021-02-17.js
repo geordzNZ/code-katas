@@ -1,5 +1,9 @@
 // CODE KATAS FOR 17 Feb 2021
+<<<<<<< HEAD
 // Rank at start of the day = 132 / 6 Kyu
+=======
+// Rank at start of the day = 132
+>>>>>>> 451cc1571e5113915e96176cc52c6e2fa6a7ecd9
 // comment = #X kata for 17/Feb/2021
 
 
@@ -30,6 +34,7 @@
 
 
 // 2) START===============================================================
+<<<<<<< HEAD
 // TITLE: Help the bookseller !
 // LINK:  https://www.codewars.com/kata/54dc6f5a224c26032800005c
 
@@ -83,11 +88,16 @@
 //   }
 //   return (msg.substring(0, msg.length-3))
 // }
+=======
+// TITLE: 
+// LINK:  
+>>>>>>> 451cc1571e5113915e96176cc52c6e2fa6a7ecd9
 
 // 2) END===============================================================
 
 
 // 3) START===============================================================
+<<<<<<< HEAD
 // TITLE: Double Trouble
 // LINK:  https://www.codewars.com/kata/57f7796697d62fc93d0001b8
 
@@ -128,6 +138,10 @@
 //   }
 //   return x
 // }
+=======
+// TITLE: 
+// LINK:  
+>>>>>>> 451cc1571e5113915e96176cc52c6e2fa6a7ecd9
 
 // 3) END===============================================================
 
