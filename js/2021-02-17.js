@@ -244,8 +244,16 @@
 
 
 // 9) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: If you can't sleep, just count sheep!!
+// LINK:  https://www.codewars.com/kata/5b077ebdaf15be5c7f000077
+
+// var countSheep = function (num){
+//   let msg = ''
+//   for (let i = 1; i <= num; i ++){
+//     msg = msg + i + ' sheep...'
+//   }
+//   return msg
+// }
 
 // 9) END===============================================================
 
