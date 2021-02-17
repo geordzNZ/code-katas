@@ -1,9 +1,30 @@
 // CODE KATAS FOR 17 Feb 2021
+// Rank at start of the day = 132
 // comment = #X kata for 17/Feb/2021
 
+
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Stringy Strings
+// LINK:  https://www.codewars.com/kata/563b74ddd19a3ad462000054
+
+// v1
+// function stringy(size) {
+//   msg = '1'
+//   for (let i = 1; i < size; i++){
+//     nextChar = (i % 2) === 1 ? 0 : 1
+//     msg = msg + nextChar
+//   }
+//   return msg
+// }
+
+// v2
+// function stringy(size) {
+//   msg = '1'
+//   for (let i = 1; i < size; i++){
+//     msg = msg + `${(i % 2) === 1 ? 0 : 1}`
+//   }
+//   return msg
+// }
 
 // 1) END===============================================================
 
