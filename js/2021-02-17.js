@@ -88,8 +88,46 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Double Trouble
+// LINK:  https://www.codewars.com/kata/57f7796697d62fc93d0001b8
+
+// v1
+// function trouble(x, t){
+//   console.log(x)
+//   console.log(t)
+  
+//   for (let i = 1; i <= x.length; i++){
+//     console.log('= ' + x[i - 1] + ' / ' + x[i] + ' === ' + t)
+    
+//     if ((x[i - 1] + x[i]) === t) {
+//       x.splice(i, 1)
+//     }
+//     if ((x[i - 1] + x[i]) === t) {
+//       x.splice(i, 1)
+//     }
+//     if ((x[i - 1] + x[i]) === t) {
+//       x.splice(i, 1)
+//     }
+//     if ((x[i - 1] + x[i]) === t) {
+//       x.splice(i, 1)
+//     }
+//     if ((x[i - 1] + x[i]) === t) {
+//       x.splice(i, 1)
+//     }
+//   }
+//   console.log(x)
+//   return x
+// }
+
+// v2
+// function trouble(x, t){
+//   for (let i = 1; i <= x.length; i++){    
+//     while ((x[i - 1] + x[i]) === t) {
+//       x.splice(i, 1)
+//     }
+//   }
+//   return x
+// }
 
 // 3) END===============================================================
 
