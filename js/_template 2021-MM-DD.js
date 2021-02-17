@@ -1,3 +1,6 @@
+// CODE KATAS FOR FIXME:DD Mmm 2021
+// comment = #X kata for FIXME:DD/Mmm/2021
+
 // 1) START===============================================================
 // TITLE: 
 // LINK:  
