@@ -1,4 +1,5 @@
 // CODE KATAS FOR FIXME:DD Mmm 2021
+// Rank at start of the day = FIXME:XXX / X Kyu
 // comment = #X kata for FIXME:DD/Mmm/2021
 
 // 1) START===============================================================
