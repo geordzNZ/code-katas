@@ -258,7 +258,16 @@
 // 9) END===============================================================
 
 // 10) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Double Char
+// LINK:  https://www.codewars.com/kata/56b1f01c247c01db92000076
+
+// function doubleChar(str) {
+//   let newStr = []
+//   for (let i = 0; i < str.length; i++){
+//     newStr.push(str[i])
+//     newStr.push(str[i])
+//   }
+//   return newStr.join('')
+// }
 
 // 10) END===============================================================
