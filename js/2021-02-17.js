@@ -171,8 +171,18 @@
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Divide and Conquer
+// LINK:  https://www.codewars.com/kata/57eaec5608fed543d6000021
+
+// function divCon(x){
+//   let nums = 0
+//   let numStrs = 0
+
+//   for (i = 0; i < x.length; i++){
+//     typeof x[i] === 'string' ? numStrs = numStrs + parseInt(x[i]) : nums = nums + Number(x[i])
+//   }
+//   return nums - numStrs
+// }
 
 // 5) END===============================================================
 
