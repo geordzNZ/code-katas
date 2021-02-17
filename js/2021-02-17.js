@@ -1,9 +1,5 @@
 // CODE KATAS FOR 17 Feb 2021
-<<<<<<< HEAD
 // Rank at start of the day = 132 / 6 Kyu
-=======
-// Rank at start of the day = 132
->>>>>>> 451cc1571e5113915e96176cc52c6e2fa6a7ecd9
 // comment = #X kata for 17/Feb/2021
 
 
@@ -137,8 +133,39 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: The old switcheroo
+// LINK:  https://www.codewars.com/kata/55d410c492e6ed767000004f
+
+// v1
+// function vowel2index(str) {
+//   let chars = str.split('')
+//   //console.log(str)
+//   //console.log(str.replace(/[aeiou]/gi,"X"))
+//   //console.log(chars)
+//   for (j = 1; j <= chars.length; j++){
+//     //console.log(`--${j}--`)
+//     //console.log(`${chars[j - 1]}`)
+    
+//     if (/[aeiou]/gi.test(chars[j - 1])){
+//       //console.log(chars[j - 1] + " / " + Number(j))
+//       chars[j - 1] = j
+//       //console.log(chars[j - 1])
+//     }
+//   }
+   
+//   //console.log(chars.join(''))
+//   return chars.join('')
+// }
+
+// v2
+// function vowel2index(str) {
+//   let chars = str.split('')
+//   let newChars = ''
+
+//   chars.forEach((char, j) => (/[aeiou]/gi.test(char)) ? newChars = newChars + Number(j + 1) : newChars = newChars + char)
+
+//   return newChars
+// }
 
 // 4) END===============================================================
 
