@@ -199,15 +199,46 @@
 
 
 // 7) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Lario and Muigi Pipe Problem
+// LINK:  https://www.codewars.com/kata/56b29582461215098d00000f
+
+// function pipeFix(numbers){
+//   let newNums = []
+  
+//   for (let i = numbers[0]; i <= numbers[numbers.length - 1]; i++){
+//     newNums.push(i)
+//   }
+//   return newNums
+// }
+
 
 // 7) END===============================================================
 
 
 // 8) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Grasshopper - Summation
+// LINK:  https://www.codewars.com/kata/55d24f55d7dd296eb9000030
+
+// v1
+// var summation = function (num) {
+//   let total = 0
+//   for (let i = 0; i <= num; i++){
+//     total = total + i
+//   }
+//   return total
+// }
+
+// v2
+// var summation = function (num) {
+//   let total = 0
+//   let i = 0
+  
+//   while (i <= num) {
+//     total = total + i
+//     i++
+//   }
+//   return total
+// }
 
 // 8) END===============================================================
 
