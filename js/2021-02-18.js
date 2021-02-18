@@ -18,8 +18,22 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Filter out the geese
+// LINK:  https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7
+
+// function gooseFilter (birds) {
+//   let geese = ["African", "Roman Tufted", "Toulouse", "Pilgrim", "Steinbacher"];
+//   let newBirds = []
+//   for (let i = 0; i < birds.length; i++){
+//     for (let j = 0; j < geese.length; j++){
+//       if (birds[i]===geese[j]){
+//         birds.splice(i,1)
+//         i--
+//       }
+//     }
+//   }
+//   return birds
+// };
 
 // 2) END===============================================================
 
