@@ -4,12 +4,15 @@
 //   Kyu = 6
 //   Clan = 47
 // Comments:
-//   New JS file = --Create code kata js file for DD/Mmm/2021
-//   Updates to js file = comment = #X kata for 18/Feb/2021
+//   Updates to js file = #X kata for 18/Feb/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Century From Year
+// LINK:  https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097
+
+// function century(year) {
+//   return year%100 === 0 ? Math.floor(year/100) : Math.floor(year/100)+1
+// }
 
 // 1) END===============================================================
 
