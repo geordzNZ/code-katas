@@ -144,8 +144,16 @@
 
 
 // 8) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Parse nice int from char problem
+// LINK:  https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1
+
+// v1
+// function getAge(inputString){
+//   return Number(inputString[0])
+// }
+
+// v2
+// const getAge = inputString => Number(inputString[0])
 
 // 8) END===============================================================
 
