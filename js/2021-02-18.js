@@ -1,6 +1,11 @@
 // CODE KATAS FOR 18 Feb 2021
-// Rank at start of the day = 158 / 6 Kyu
-// comment = #X kata for 18/Feb/2021
+// Rankings at start of the day:
+//   Merit = 158
+//   Kyu = 6
+//   Clan = 47
+// Comments:
+//   New JS file = --Create code kata js file for DD/Mmm/2021
+//   Updates to js file = comment = #X kata for 18/Feb/2021
 
 // 1) START===============================================================
 // TITLE: 
