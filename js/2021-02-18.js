@@ -59,8 +59,30 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: A wolf in sheep's clothing
+// LINK:  https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15
+
+// v1
+// function warnTheSheep(queue) {
+//   let i = queue.length - 2
+//   let sheep = 1
+//   if (queue[queue.length - 1] === 'wolf'){ return "Pls go away and stop eating my sheep"}
+  
+//   while (i >= 0) {
+//     if (queue[i] === 'wolf'){ return `Oi! Sheep number ${sheep}! You are about to be eaten by a wolf!`}
+//     i--
+//     sheep++
+//   } 
+// }
+
+// v2
+// function warnTheSheep(queue) {
+//   if (queue[queue.length - 1] === 'wolf'){ return "Pls go away and stop eating my sheep" }
+  
+//   for (let i = 1; i <= queue.length - 1; i++){
+//     if (queue[i - 1] === 'wolf'){ return `Oi! Sheep number ${queue.length - i}! You are about to be eaten by a wolf!`}
+//   }
+// }
 
 // 4) END===============================================================
 
