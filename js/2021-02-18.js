@@ -227,4 +227,44 @@
 // 11) END===============================================================
 
 
+// 12) START===============================================================
+// TITLE: Find the nth Reverse Number
+// LINK:  https://www.codewars.com/kata/600bfda8a4982600271d6069
 
+// v1  (server timed out, but think this works.)
+// function findReverseNumber(n) {
+//   //   console.log(`-----${n}-----`)
+//     let num = ''
+//     let i = 0
+//     let j = 1
+
+//     while (j <= n){  
+//       //console.log(i.toString() + '  /  ' + i.toString().split('').reverse().join(''))
+//       if (i === parseInt(i.toString().split('').reverse().join(''))){
+//         //console.log(`To push ${i}`)
+//         num = i
+//         //console.log(`logged ${num}`)
+//         j++
+//       }
+//       i++
+//     }
+//     //console.log(num)
+//     return num
+//   }
+
+
+// v2 -- seems to work for lots of options, but times out due to the server
+// function findReverseNumber(n) {
+//   let i = 0
+//   let j = 0
+   
+//   while (j <= n){  
+//     if (i === parseInt(i.toString().split('').reverse().join(''))){
+//       j++
+//       if (j === n){ return i }
+//     }
+//     i++
+//   }
+// }
+
+// 12) END===============================================================
