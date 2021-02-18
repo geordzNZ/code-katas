@@ -88,8 +88,25 @@
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: My head is at the wrong end!
+// LINK:  https://www.codewars.com/kata/56f699cd9400f5b7d8000b55
+
+// v1
+// function fixTheMeerkat(arr) {
+//   let temp = arr[0]
+//   arr[0] = arr[2]
+//   arr[2] = temp
+  
+//   return arr
+// }
+
+// v2
+// function fixTheMeerkat(arr) {
+//   return [arr[0], arr[1], arr[2]] = [arr[2], arr[1], arr[0]]
+// }
+
+// v3
+//const fixTheMeerkat = arr => [arr[0], arr[1], arr[2]] = [arr[2], arr[1], arr[0]]
 
 // 5) END===============================================================
 
