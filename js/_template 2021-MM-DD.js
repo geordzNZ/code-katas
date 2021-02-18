@@ -1,6 +1,11 @@
 // CODE KATAS FOR FIXME:DD Mmm 2021
-// Rank at start of the day = FIXME:XXX / X Kyu
-// comment = #X kata for FIXME:DD/Mmm/2021
+// Rankings at start of the day:
+//   Merit = FIXME:XXX
+//   Kyu = FIXME:X 
+//   Clan = FIXME:XX
+// Comments:
+//   New JS file = --Create code kata js file for FIXME:DD/Mmm/2021
+//   Updates to js file = comment = #X kata for FIXME:DD/Mmm/2021
 
 // 1) START===============================================================
 // TITLE: 
