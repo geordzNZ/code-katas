@@ -254,17 +254,24 @@
 
 
 // v2 -- seems to work for lots of options, but times out due to the server
-// function findReverseNumber(n) {
-//   let i = 0
-//   let j = 0
+function findReverseNumber(n) {
+  console.log('Enter the reverse')
+  let i = 0
+  let j = 0
    
-//   while (j <= n){  
-//     if (i === parseInt(i.toString().split('').reverse().join(''))){
-//       j++
-//       if (j === n){ return i }
-//     }
-//     i++
-//   }
-// }
+  while (j <= n){  
+    if (i === parseInt(i.toString().split('').reverse().join(''))){
+      j++
+      if( j % 10000 === 0) { console.log(j) }
+      
+      if (j === n){ console.log(i) }
+      // if (j === n){ return i }
+    }
+    i++
+  }
+}
 
+//xfindReverseNumber(10000) //90000000009
+//xfindReverseNumber(100000) //90000000009
+//xfindReverseNumber(1000000) //90000000009
 // 12) END===============================================================
