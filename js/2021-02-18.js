@@ -39,8 +39,21 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Fake Binary
+// LINK:  https://www.codewars.com/kata/57eae65a4321032ce000002d
+
+// v1
+// function fakeBin(x){
+//   let newX = x.split('')
+//   newX.forEach((c,i) => (c >= 5) ? newX[i] = 1 : newX[i] = 0)
+//   return newX.join('')
+// }
+
+// v2
+// function fakeBin(x){
+//   let splitX = x.split('')  
+//   return splitX.map((c, i) => (c >= 5) ? splitX[i] = 1 : splitX[i] = 0).join('')
+// }
 
 // 3) END===============================================================
 
