@@ -126,8 +126,19 @@
 
 
 // 7) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Smallest unused ID
+// LINK:  https://www.codewars.com/kata/55eea63119278d571d00006a
+
+// function nextId(ids){
+//   ids.sort(function(a, b){return a - b})
+  
+//   if (ids[0] >= 1) { return 0 }
+  
+//   for (let i = 1; i <= ids.length - 1; i++){ 
+//     if (Math.abs(ids[i] - ids[i-1]) > 1){ return ids[i-1]+1 }
+//   }
+//   return ids[ids.length-1]+1 
+// }
 
 // 7) END===============================================================
 
