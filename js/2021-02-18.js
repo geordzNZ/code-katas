@@ -159,8 +159,32 @@
 
 
 // 9) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: CSV representation of array
+// LINK:  https://www.codewars.com/kata/5a34af40e1ce0eb1f5000036
+
+// v1
+// function toCsvText(arr) {
+//   let msg = ''
+  
+//   for (let i = 0; i < arr.length; i++){
+//     for (let j = 0; j < arr[i].length; j++){
+//       msg = msg + arr[i][j] + ','
+//     }
+//     msg = msg.substring(0, msg.length-1) + '\n'
+//   }
+//   return msg.substring(0, msg.length-1)
+// }
+
+// v2
+// function toCsvText(arr) {
+//   let msg = ''
+  
+//   arr.forEach((arr2) => {
+//     arr2.forEach((num) => msg = msg + num + ',')
+//     msg = msg.substring(0, msg.length-1) + '\n'
+//   })
+//   return msg.substring(0, msg.length-1)
+// }
 
 // 9) END===============================================================
 
