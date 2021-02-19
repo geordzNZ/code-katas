@@ -116,8 +116,16 @@
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Convert a Boolean to a String
+// LINK:  https://www.codewars.com/kata/551b4501ac0447318f0009cd
+
+// variations doing the same thing
+// --mine
+// const booleanToString = b => b ? 'true' : 'false'
+// const booleanToString = b => b.toString()
+// --others
+// const booleanToString = b => `${b}`
+// const booleanToString = b => String(b)
 
 // 5) END===============================================================
 
