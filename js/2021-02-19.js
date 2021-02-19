@@ -245,3 +245,13 @@
 // const usdcny = usd => `${(usd * 6.75).toFixed(2)} Chinese Yuan`
 
 // 12) END===============================================================
+
+// 13) START===============================================================
+// TITLE: Sum The Strings (8 kyu)
+// LINK:  https://www.codewars.com/kata/5966e33c4e686b508700002d
+
+//const sumStr = (a,b) => ((a.length === 0 ? 0 : parseInt(a)) + (b.length === 0 ? 0 : parseInt(b))) + ''
+
+// or someone elses code
+// const sumStr = (a,b) => String(Number(a)+Number(b));
+// 13) END===============================================================
