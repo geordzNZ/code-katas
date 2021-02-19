@@ -52,8 +52,16 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Aspect Ratio Cropping - Part 1 (8 kyu)
+// LINK:  https://www.codewars.com/kata/596e4ef7b61e25981200009f
+
+// v1
+// function aspectRatio(x,y){
+//   return [Math.ceil(y / 9 * 16),y]
+// }
+
+// v2
+// const aspectRatio = (x,y) => [Math.ceil(y / 9 * 16),y]
 
 // 3) END===============================================================
 
