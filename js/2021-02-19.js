@@ -7,7 +7,7 @@
 //   Updates to js file = comment = #X kata for 19/Feb/2021
 
 // 1) START===============================================================
-// TITLE: Decrypt this school cipher
+// TITLE: Decrypt this school cipher (7kyu)
 // LINK:  https://www.codewars.com/kata/5cd48cffaae6e30018943175 
 
 // -- NOT WORKING:  passes first 2 tests, but then fails with numbers ...
@@ -36,8 +36,17 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Grasshopper - Basic Function Fixer (8 kyu)
+// LINK:  https://www.codewars.com/kata/56200d610758762fb0000002
+
+// v1
+// function addFive(num) {
+//   var total = num + 5
+//   return total
+// }
+
+// v2
+// const addFive = num => num + 5
 
 // 2) END===============================================================
 
