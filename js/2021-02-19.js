@@ -116,7 +116,7 @@
 
 
 // 5) START===============================================================
-// TITLE: Convert a Boolean to a String
+// TITLE: Convert a Boolean to a String (8 kyu)
 // LINK:  https://www.codewars.com/kata/551b4501ac0447318f0009cd
 
 // variations doing the same thing
@@ -131,7 +131,7 @@
 
 
 // 6) START===============================================================
-// TITLE: Find the position!
+// TITLE: Find the position! (8 kyu)
 // LINK:  https://www.codewars.com/kata/5808e2006b65bff35500008f
 
 // function position(letter){
@@ -143,15 +143,42 @@
 
 
 // 7) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Sum of differences in array (8 kyu)
+// LINK:  https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e
+
+// v1
+// function sumOfDifferences(arr) {
+//   arr.sort(function(a, b){return b-a})
+//   let total = 0
+  
+//   for (let i = 1; i <= arr.length-1; i++){
+//     total = total + (arr[i-1] - arr[i])
+//   }
+//   return total
+// }
+
+
 
 // 7) END===============================================================
 
 
 // 8) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Deodorant Evaporator (7 kyu)
+// LINK:  https://www.codewars.com/kata/5506b230a11c0aeab3000c1f
+
+// function evaporator(content, evap_per_day, threshold){ 
+//   //console.log(`a = ${content}   /   ${threshold}`)
+//   let limit = content * (threshold/100)
+//   //console.log(limit)
+//   let dur = 0
+//   while (content >= limit){
+//     //console.log(`b = ${content}   /   ${threshold}`)
+//     content = content - (content * (evap_per_day/100))
+//     //console.log(`c = ${content}`)
+//     dur++
+//   }
+//   return dur;
+// }
 
 // 8) END===============================================================
 
