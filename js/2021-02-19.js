@@ -7,8 +7,30 @@
 //   Updates to js file = comment = #X kata for 19/Feb/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Decrypt this school cipher
+// LINK:  https://www.codewars.com/kata/5cd48cffaae6e30018943175 
+
+// -- NOT WORKING:  passes first 2 tests, but then fails with numbers ...
+// const decrypt = (str) => {
+//   console.log(`1 =  ${str}`)
+//   console.log(str)
+//   let msg = ''
+//   let newStr = str.replace(/\'\'/g,"','").replace(/\'/g,'').split(',').reverse()//.join(',')
+//   console.log(`2 =  ${newStr}`)
+//   console.log(newStr)
+//   console.log(`3 =  ${newStr.toString()}`)
+//   console.log(newStr.toString())
+// //   console.log(`4 =  ${String.fromCharCode(newStr.toString())}`)
+// //   console.log(String.fromCharCode(newStr.toString()))
+  
+//   for (let i = 0; i <= newStr.length - 1; i++){
+//     msg = msg + String.fromCharCode(newStr[i])
+//     console.log(msg)
+//   }
+//   console.log(`5 =  ${msg}`)
+//   return msg
+// }
+
 
 // 1) END===============================================================
 
