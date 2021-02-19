@@ -131,8 +131,13 @@
 
 
 // 6) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Find the position!
+// LINK:  https://www.codewars.com/kata/5808e2006b65bff35500008f
+
+// function position(letter){
+//   let alp = 'abcdefghijklmnopqrstuvwxyz'.split('')
+//   return 'Position of alphabet: ' + (alp.indexOf(letter) + 1)
+// }
 
 // 6) END===============================================================
 
