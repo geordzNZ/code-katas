@@ -67,8 +67,50 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Aspect Ratio Cropping - Part 2 (6 kyu)
+// LINK:  https://www.codewars.com/kata/596e9524f24c7e5a7b000430
+
+//My Version, not working for d/a
+// function aspectRatio(x,y,constant){
+//   switch (constant){
+//     case 'height':
+//       return [Math.ceil(y * (16/9)), y]
+//       break
+//     case 'width':
+//       return [x, Math.ceil(x * (9/16))]
+//       break
+//     case 'diagonal':
+//       console.log('diagonal')
+//       d = Math.ceil(Math.sqrt(Math.pow(x,2) + Math.pow(y,2)))
+//*************scale = Math.sqrt((x * x + y * y) / 337);
+//       console.log(d)
+//       //return [Math.ceil(y / 9 * 16), Math.ceil(x * 9 / 16)]
+//       break
+//     case 'area':
+//       console.log('area')
+//       a = x * y
+//       console.log(a)
+      
+//       //return [Math.ceil(y / 9 * 16), Math.ceil(x * 9 / 16)]
+//       break
+//   }
+// }
+
+//WORKING CODE
+// function aspectRatio(x,y,constant){
+//   switch(constant){
+//     case "height" : return [Math.ceil(y/9*16), y]
+//     case "width" : return [x, Math.ceil(x/16*9)]
+//     case "diagonal" : return [Math.ceil(Math.sqrt((x*x+y*y)/337)*16), Math.ceil(Math.sqrt((x*x+y*y)/337)*9)]
+//     case "area" : return [Math.ceil(Math.sqrt(x*y/144)*16), Math.ceil(Math.sqrt(x*y/144)*9)]
+//   }
+// }
+
+// // tests
+// XaspectRatio(374, 280, "height")//, [498 ,280]);
+// XaspectRatio(374, 280, "width")//, [374 ,211]);
+// XaspectRatio(374, 280, "diagonal")//, [408 ,230]);
+// XaspectRatio(374, 280, "area")//, [432 ,243]);
 
 // 4) END===============================================================
 
