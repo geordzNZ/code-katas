@@ -230,6 +230,10 @@
 // TITLE: Filling an array (part 1) (8 kyu)
 // LINK:  https://www.codewars.com/kata/571d42206414b103dc0006a1
 
-
+// function arr(num){
+//   let arrN = []
+//   for (let i = 0; i < num; i++) arrN.push(i)
+//   return arrN
+// }
 
 // 11) END===============================================================
