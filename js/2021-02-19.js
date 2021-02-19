@@ -192,7 +192,44 @@
 // 9) END===============================================================
 
 // 10) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: How much water do I need? (8 kyu)
+// LINK:  https://www.codewars.com/kata/575fa9afee048b293e000287
+
+// rubbish kata
+// function howMuchWater(water, clothes, load){
+  
+//   if (load > (clothes * 2)) return 'Too much clothes'
+//   if (load < clothes) return 'Not enough clothes'
+  
+//   //return (water * 1.1 ^ (load - clothes)).toFixed(2)
+//   console.log(load - clothes)
+//   console.log(1.1 ^ (load - clothes))
+//   console.log((water * 1.1 ^ (load - clothes)).toFixed(2))
+  
+// }
+
+//actual answer from someone else ....
+// function howMuchWater(L,X,N){
+//   if (N > 2 * X) return "Too much clothes";
+//   if (N < X) return "Not enough clothes";
+//   return +(L * 1.1 ** (N - X)).toFixed(2);
+// }
+
+// my adjusted answer
+// function howMuchWater(water, clothes, load){
+//   if (load > (clothes * 2)) return 'Too much clothes'
+//   if (load < clothes) return 'Not enough clothes'
+  
+//    return Number((water * 1.1 ** (load - clothes)).toFixed(2))
+// }
 
 // 10) END===============================================================
+
+
+// 11) START===============================================================
+// TITLE: Filling an array (part 1) (8 kyu)
+// LINK:  https://www.codewars.com/kata/571d42206414b103dc0006a1
+
+
+
+// 11) END===============================================================
