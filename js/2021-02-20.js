@@ -51,8 +51,14 @@
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Reversed sequence
+// LINK:  https://www.codewars.com/kata/5a00e05cc374cb34d100000d
+
+// const reverseSeq = n => {
+//   let arr = []
+//   for (let i = n; i >= 1; i--) arr.push(i) 
+//   return arr;
+// };
 
 // 5) END===============================================================
 
