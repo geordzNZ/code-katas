@@ -67,7 +67,13 @@
 // TITLE: Multiplication table for number
 // LINK:  https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce
 
-
+// function multiTable(number) {
+//   let msg = ''
+//   for (let i = 1; i <= 10; i++){
+//     msg = msg + `${i} * ${number} = ${i*number}\n`
+//   }
+//   return msg.substring(0, msg.length-1)
+// }
 
 // 6) END===============================================================
 
