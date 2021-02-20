@@ -18,8 +18,13 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Will there be enough space?
+// LINK:  https://www.codewars.com/kata/5875b200d520904a04000003
+
+// v1
+// function enough(cap, on, wait) {
+//   return cap - on >= wait ? 0 : wait - (cap - on)
+// }
 
 // 2) END===============================================================
 
