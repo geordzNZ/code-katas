@@ -26,6 +26,9 @@
 //   return cap - on >= wait ? 0 : wait - (cap - on)
 // }
 
+// v2
+// const enough = (cap, on, wait) => (cap - on) >= wait ? 0 : wait - (cap - on)
+
 // 2) END===============================================================
 
 
