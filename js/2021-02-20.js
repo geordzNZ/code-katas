@@ -7,8 +7,12 @@
 //   Updates to js file = comment = #X kata for 20/Feb/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Function 2 - squaring an argument
+// LINK:  https://www.codewars.com/kata/523b623152af8a30c6000027
+
+// function square(x){
+//   return x * x
+// }
 
 // 1) END===============================================================
 
