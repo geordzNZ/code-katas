@@ -120,15 +120,24 @@
 
 
 // 8) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: You Can't Code Under Pressure #1 (8 kyu)
+// LINK:  https://www.codewars.com/kata/53ee5429ba190077850011d4
+
+// const doubleInteger = (i) => i*2
 
 // 8) END===============================================================
 
 
 // 9) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: You Can't Code Under Pressure #2 (7 kyu)
+// LINK:  https://www.codewars.com/kata/5546ea9bddfc5c0c38000026
+
+// function Counter() {
+//   //quickly, now!
+//   this.total = 0
+//   this.check = function() { return this.total }
+//   this.increment = function() { this.total = this.total + 1 }
+// };
 
 // 9) END===============================================================
 
