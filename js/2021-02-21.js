@@ -43,19 +43,30 @@
 
 // 1) END===============================================================
 
-
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: For Twins: 1. Types (8 kyu)
+// LINK:  https://www.codewars.com/kata/59c1302ecb7fb48757000013
+
+// const typeValidation = (variable, type) => typeof variable === type
 
 // 2) END===============================================================
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: For Twins: 2. Math operations
+// LINK:  https://www.codewars.com/kata/59c287b16bddd291c700009a
+
+// function iceBrickVolume(radius, bottleLength, rimLength) {
+//   //w * h * l
+//   let w = radius * 2
+//   let h = radius
+//   let l = bottleLength - rimLength
+//   return w * h * l
+// }
 
 // 3) END===============================================================
+
+
 
 
 // 4) START===============================================================
