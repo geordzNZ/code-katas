@@ -94,8 +94,16 @@
 
 
 // 6) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Check the exam
+// LINK:  https://www.codewars.com/kata/5a3dd29055519e23ec000074
+
+// function checkExam(array1, array2) {
+//   let total = 0
+//   for (let i = 0; i <= array1.length-1; i++){
+//     total = total + (array2[i] === '' ? 0 : array2[i] === array1[i] ? 4 : -1)
+//   }
+//   return Math.max(total, 0)
+}
 
 // 6) END===============================================================
 
