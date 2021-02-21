@@ -159,3 +159,27 @@
 // }
 
 // 10) END===============================================================
+
+// 11) START===============================================================
+// TITLE: Positions Average (6 kyu)
+// LINK:  https://www.codewars.com/kata/59f4a0acbee84576800000af
+
+// function posAverage(s) {
+//   let newS = s.split(', ')
+//   let subStrLen = newS[0].length
+//   let matches = 0
+//   let tests = 0
+
+//   for (let i = 0; i <= newS.length-2; i++){
+//     for (let j =i+1; j <= newS.length-1; j++){
+//       for (let k = 0; k <= subStrLen-1; k++){
+//         newS[i][k] === newS[j][k] ? matches++ : matches
+//       }
+//     }
+//   }
+//   let combos = ((newS.length * (newS.length-1)) / 2) 
+//   let percent = matches/(combos*subStrLen)*100
+//   return percent.toFixed(10)
+// }
+
+// 11) END===============================================================
