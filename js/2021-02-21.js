@@ -103,14 +103,18 @@
 //     total = total + (array2[i] === '' ? 0 : array2[i] === array1[i] ? 4 : -1)
 //   }
 //   return Math.max(total, 0)
-}
+//}
 
 // 6) END===============================================================
 
 
 // 7) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Rearrange Number to Get its Maximum (7 kyu)
+// LINK:  https://www.codewars.com/kata/563700da1ac8be8f1e0000dc
+
+// var maxRedigit = function(num) {
+//   return (num > 99 && num < 1000) ? Number(num.toString().split('').sort((a,b) =>  b-a).join('')) : null
+// };
 
 // 7) END===============================================================
 
