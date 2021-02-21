@@ -142,7 +142,20 @@
 // 9) END===============================================================
 
 // 10) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Clean up after your dog (7 kyu)
+// LINK:  https://www.codewars.com/kata/57faa6ff9610ce181b000028
+
+// function crap(x, bags, cap){
+//   let craps = 0
+  
+//   for (let i =0; i <= x.length-1; i++){
+//     if (x[i].includes('D')) return 'Dog!!'
+    
+//     for (let j = 0; j <= x[i].length-1; j++){
+//       if (x[i][j] === '@') craps = craps + 1
+//     }
+//   }
+//   return (craps > (bags * cap)) ? 'Cr@p' : 'Clean'
+// }
 
 // 10) END===============================================================
