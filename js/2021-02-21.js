@@ -193,3 +193,23 @@
 // }
 
 // 12) END===============================================================
+
+// 13) START===============================================================
+// TITLE: Beginner Series #4 Cockroach (8 kyu)
+// LINK:  https://www.codewars.com/kata/55fab1ffda3e2e44f00000c6
+
+// const cockroachSpeed = s => Math.floor((s / 36) * 1000)
+
+// 13) END===============================================================
+
+// 14) START===============================================================
+// TITLE: Generate range of integers (8 kyu)
+// LINK:  https://www.codewars.com/kata/55eca815d0d20962e1000106
+
+// function generateRange(min, max, step){
+//   let msg = []
+//   for (let i = min; i <= max; i = i + step) msg.push(i)    
+//   return msg
+// }
+
+// 14) END===============================================================
