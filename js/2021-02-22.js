@@ -7,8 +7,19 @@
 //   Updates to js file = comment = #X kata for 22/Feb/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Beginner Series #2 Clock
+// LINK:  https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a
+
+// v1
+// function past(h, m, s){
+//   s = s * 1000;
+//   m = m * 60000;
+//   h = h * 3600000;
+//   return h + m + s;
+// }
+
+// v2
+// const past = (h, m, s) => ((h * 3600) + (m * 60) + (s)) * 1000
 
 // 1) END===============================================================
 
