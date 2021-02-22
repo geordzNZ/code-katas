@@ -183,4 +183,8 @@
 //   return total
 // }
 
+// v2
+// const squareSum = numbers => numbers.reduce((total,num) => total + (num*num),0)
+// const squareSum = ns => ns.reduce((t,n) => t + (n*n),0)
+
 // 10) END===============================================================
