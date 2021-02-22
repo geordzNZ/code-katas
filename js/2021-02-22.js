@@ -47,12 +47,25 @@
 
 // 3) END===============================================================
 
-//TODO:
+
 // 4) START===============================================================
 // TITLE: Move 10 (7 kyu)
 // LINK:  https://www.codewars.com/kata/57cf50a7eca2603de0000090
 
-
+// function moveTen(s){  
+//   let newS = ''
+//   let newCC = 0
+  
+//   for (let i = 0; i <= s.length-1; i++){
+//     if (s.charAt(i) >= 'a' && s.charAt(i) < 'q' ) {
+//       newCC = s.charCodeAt(i) + 10
+//     } else {
+//       newCC = (10 - (122 - s.charCodeAt(i))) + 96
+//     }
+//     newS = newS + String.fromCharCode(newCC)
+//   }
+//   return newS
+// }
 
 // 4) END===============================================================
 
