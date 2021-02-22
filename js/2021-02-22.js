@@ -113,6 +113,10 @@
 //   }
 //   return splitS.join('')
 // }
+
+// v2
+// const solution = string => string.replace(/[A-Z]/g, ' $&')
+
 // 7) END===============================================================
 
 
