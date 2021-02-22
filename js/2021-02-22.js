@@ -101,9 +101,18 @@
 
 
 // 7) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Break camelCase (6 kyu)
+// LINK:  https://www.codewars.com/kata/5208f99aee097e6552000148
 
+// v1
+// function solution(string) {
+//   let splitS = string.split('')
+  
+//   for (let i = 0; i <= splitS.length-1; i++){
+//     if (splitS[i] >= 'A' && splitS[i] <= 'Z') splitS[i] = ' ' + splitS[i]
+//   }
+//   return splitS.join('')
+// }
 // 7) END===============================================================
 
 
