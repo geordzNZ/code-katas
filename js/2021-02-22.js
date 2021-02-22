@@ -56,14 +56,26 @@
 
 // 4) END===============================================================
 
-//TODO:
+
 // 5) START===============================================================
 // TITLE: Two to One (7 kyu)
 // LINK:  https://www.codewars.com/kata/5656b6906de340bd1b0000ac
 
+// function longest(s1, s2) {
+//   let split12 = (s1+s2).split('').sort()
+//   let uniqueS12 = [];
+  
+//   for (let i = 0; i<= split12.length-1; i++){
+//     if (uniqueS12.includes(split12[i]) === false) {
+//       uniqueS12.push(split12[i])
+//     }
+//   }
+//   return uniqueS12.join('')
+// }
+
 // 5) END===============================================================
 
-//TODO:
+
 // 6) START===============================================================
 // TITLE: Hells Kitchen (7 kyu)
 // LINK:  https://www.codewars.com/kata/57d1f36705c186d018000813
