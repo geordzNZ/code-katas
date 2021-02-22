@@ -173,7 +173,14 @@
 // 9) END===============================================================
 
 // 10) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Square(n) Sum (8 kyu)
+// LINK:  https://www.codewars.com/kata/515e271a311df0350d00000f
+
+// v1
+// function squareSum(numbers){
+//   let total = 0
+//   for (num of numbers) total = total + num*num
+//   return total
+// }
 
 // 10) END===============================================================
