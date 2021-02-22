@@ -146,6 +146,7 @@
 // LINK:  https://www.codewars.com/kata/55143152820d22cdf00001bb
 // NOTE:  v1 - Got it to pass out 12 tests in the attempt button, 
 //        but needed to refactor to speed up.
+//        v2 - same result according to the output
 
 // v1
 // function number9(n){
@@ -157,6 +158,17 @@
 //   return ctr
 // }
 
+// v2
+// function number9(n){
+//   let ctr = 0
+//   let i = 1
+
+//   while (i <= n){
+//     ctr = ctr + i.toString().replace(/[1-80]/g,'').length
+//     i++
+//   }
+//   return ctr
+// }
 
 // 9) END===============================================================
 
