@@ -142,8 +142,21 @@
 
 
 // 9) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: count '9's from 1 to n (5 kyu)
+// LINK:  https://www.codewars.com/kata/55143152820d22cdf00001bb
+// NOTE:  v1 - Got it to pass out 12 tests in the attempt button, 
+//        but needed to refactor to speed up.
+
+// v1
+// function number9(n){
+// let ctr = 0
+
+//    for (let i = 1; i <= n; i++){
+//      ctr = ctr + i.toString().replace(/[1-80]/g,'').length
+//    }
+//   return ctr
+// }
+
 
 // 9) END===============================================================
 
