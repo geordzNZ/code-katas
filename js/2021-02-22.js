@@ -7,7 +7,7 @@
 //   Updates to js file = comment = #X kata for 22/Feb/2021
 
 // 1) START===============================================================
-// TITLE: Beginner Series #2 Clock
+// TITLE: Beginner Series #2 Clock (8 kyu)
 // LINK:  https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a
 
 // v1
@@ -25,8 +25,16 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Beginner Series #5 Triangular Numbers
+// LINK:  https://www.codewars.com/kata/56d0a591c6c8b466ca00118b
+
+// function isTriangular(t) {
+//   for (i = 1; i <= t; i++){
+//     let tn = i * (i + 1) / 2
+//     if (tn == t) return true
+//   }
+//   return false
+// }
 
 // 2) END===============================================================
 
