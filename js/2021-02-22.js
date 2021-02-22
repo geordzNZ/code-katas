@@ -121,8 +121,22 @@
 
 
 // 8) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Sums of Parts (6 kyu)
+// LINK:  https://www.codewars.com/kata/5ce399e0047a45001c853c2b
+
+// function partsSums(ls) {
+//   let lenLS = ls.length
+//   let total = ls.reduce((a, b) => a + b, 0)
+  
+//   let totals = []
+//   totals[0] = total
+//     for (let i = 1; i <= lenLS - 1; i++){
+//       total =  total - ls[i - 1]
+//       totals.push(total)
+//       if (i === lenLS - 1) totals.push(0)
+//     }
+//   return totals
+// }
 
 // 8) END===============================================================
 
