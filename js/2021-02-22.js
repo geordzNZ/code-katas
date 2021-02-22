@@ -25,7 +25,7 @@
 
 
 // 2) START===============================================================
-// TITLE: Beginner Series #5 Triangular Numbers
+// TITLE: Beginner Series #5 Triangular Numbers (7 kyu)
 // LINK:  https://www.codewars.com/kata/56d0a591c6c8b466ca00118b
 
 // function isTriangular(t) {
@@ -40,31 +40,33 @@
 
 
 // 3) START===============================================================
-// TITLE: Can we divide it?
+// TITLE: Can we divide it? (8 kyu)
 // LINK:  https://www.codewars.com/kata/5a2b703dc5e2845c0900005a
 
 //const isDivideBy = (number, a, b) => (number % a === 0 && number % b === 0) ? true : false
 
 // 3) END===============================================================
 
-
+TODO:
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Move 10 (7 kyu)
+// LINK:  https://www.codewars.com/kata/57cf50a7eca2603de0000090
+
+
 
 // 4) END===============================================================
 
-
+TODO:
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Two to One (7 kyu)
+// LINK:  https://www.codewars.com/kata/5656b6906de340bd1b0000ac
 
 // 5) END===============================================================
 
-
+TODO:
 // 6) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Hells Kitchen (7 kyu)
+// LINK:  https://www.codewars.com/kata/57d1f36705c186d018000813
 
 // 6) END===============================================================
 
