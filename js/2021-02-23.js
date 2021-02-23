@@ -95,8 +95,10 @@
 
 
 // 6) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Exclamation marks series #2: Remove all exclamation marks from the end of sentence (8 kyu)
+// LINK:  https://www.codewars.com/kata/57faece99610ced690000165
+
+// const remove = (s) => s.replace(/!+$/,'')
 
 // 6) END===============================================================
 
