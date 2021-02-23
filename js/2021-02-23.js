@@ -130,7 +130,12 @@
 // 9) END===============================================================
 
 // 10) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right (8 kyu)
+// LINK:  https://www.codewars.com/kata/57faf7275c991027af000679
+
+// function remove(s,n){
+//   let i = 0
+//   return s.replace(/!/g, match => i++ < n ? '' : match)
+// }
 
 // 10) END===============================================================
