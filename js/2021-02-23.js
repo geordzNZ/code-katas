@@ -40,8 +40,27 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Closest to Zero (7 kyu)
+// LINK:  https://www.codewars.com/kata/59887207635904314100007b
+
+// function closest(arr){
+//   console.log(arr)
+//   let diff = 999999999
+//   let msg = 0
+  
+//   for (let i = 0; i <= arr.length-1; i++){
+//     let cDiff = Math.abs(arr[i] - 0)
+//     if (cDiff === 0) msg = 0
+//     if (cDiff === diff){
+//       if (msg != arr[i]) msg = null
+//     }
+//     if (cDiff < diff) {
+//       diff = cDiff
+//       msg = arr[i]
+//     }
+//   }
+//   return msg
+// }
 
 // 2) END===============================================================
 
