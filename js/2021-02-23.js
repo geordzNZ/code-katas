@@ -66,8 +66,12 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Exclamation marks series #8: Move all exclamation marks to the end of the sentence (7 kyu)
+// LINK:  https://www.codewars.com/kata/57fafd0ed80daac48800019f
+
+// function remove(s){
+//   return s.split('').filter((char) => char != '!').concat(s.split('').filter((char) => char === '!')).join('')
+// }
 
 // 3) END===============================================================
 
