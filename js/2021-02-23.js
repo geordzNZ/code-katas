@@ -7,8 +7,28 @@
 //   Updates to js file = comment = #X kata for 23/Feb/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Moving Zeros To The End (5 kyu)
+// LINK:  https://www.codewars.com/kata/52597aa56021e91c93000cb0
+
+// v1
+// var moveZeros = function (arr) {
+//   console.log(arr)
+//   let len = arr.length - 1
+//   for (let i = 0; i <= len; i++){
+//     console.log(`  i=${i}   /   arr=${arr[i]}`)
+//     if (arr[i] === 0){
+//       console.log(`    i=${i}   /   arr=${arr[i]}`) 
+//       console.log(`    a) arr=${arr}`)
+//       arr.splice(i,1).push(0)
+//        console.log(`    b) arr=${arr}`)
+//       arr.push(0)
+//      console.log(`    c) arr=${arr}`)
+//       i--
+//       len = len -1
+//     }
+// }
+// return arr
+// }
 
 // 1) END===============================================================
 
