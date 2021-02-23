@@ -30,6 +30,12 @@
 // return arr
 // }
 
+// v2
+// var moveZeros = function (arr) {
+//   let non0Arr = arr.filter((itm) => !(itm ===0))
+//   return non0Arr.concat(Array(arr.length - non0Arr.length).fill(0))
+// }
+
 // 1) END===============================================================
 
 
