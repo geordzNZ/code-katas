@@ -122,8 +122,10 @@
 
 
 // 9) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Exclamation marks series #5: Remove all exclamation marks from the end of words (8 kyu)
+// LINK:  https://www.codewars.com/kata/57faf32df815ebd49e000117
+
+// const remove = (s) => s.replace(/\b!+/g,'')
 
 // 9) END===============================================================
 
