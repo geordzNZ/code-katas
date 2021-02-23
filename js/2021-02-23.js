@@ -104,8 +104,10 @@
 
 
 // 7) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Exclamation marks series #3: Remove all exclamation marks from sentence except at the end (7 kyu)
+// LINK:  https://www.codewars.com/kata/57faefc42b531482d5000123
+
+// const remove = (s) => s.replace(/^!/g,'').replace(/!+\s/g,' ')
 
 // 7) END===============================================================
 
