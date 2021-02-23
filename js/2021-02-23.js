@@ -86,8 +86,10 @@
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Exclamation marks series #1: Remove a exclamation mark from the end of string (8 kyu)
+// LINK:  https://www.codewars.com/kata/57fae964d80daa229d000126
+
+//const remove = s => (s[s.length-1] === '!') ? s.substring(0,s.length-1) : s
 
 // 5) END===============================================================
 
