@@ -7,7 +7,7 @@
 //   Updates to js file = comment = #X kata for 24/Feb/2021
 
 // 1) START===============================================================
-// TITLE: Convert boolean values to strings 'Yes' or 'No'.
+// TITLE: Convert boolean values to strings 'Yes' or 'No'. (8 kyu)
 // LINK: https://www.codewars.com/kata/53369039d7ab3ac506000467
 
 // const boolToWord = bool => bool ? 'Yes' : 'No'
@@ -16,7 +16,7 @@
 
 
 // 2) START===============================================================
-// TITLE: Chuck Norris II - One Punch
+// TITLE: Chuck Norris II - One Punch (7 kyu)
 // LINK: https://www.codewars.com/kata/57057a035eef1f7e790009ef
 
 // function onePunch(items){ return (typeof items !== 'string' || items.length === 0) ? 'Broken!' : items.split(' ').sort().join(' ').replace(/[ae]/gi,'') } 
@@ -25,7 +25,7 @@
 
 
 // 3) START===============================================================
-// TITLE: Chuck Norris IV - Bearded Fist
+// TITLE: Chuck Norris IV - Bearded Fist (7 kyu)
 // LINK:  https://www.codewars.com/kata/57066708cb7293901a0013a1
 
 // function fistBeard(arr) {
@@ -40,8 +40,11 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Chuck Norris V - Body Count (7 kyu)
+// LINK:  https://www.codewars.com/kata/57066ad6cb72934c8400149e
+
+// someone else's answer
+//const bodyCount = ( $ ) => (/([A-Z]\d){5}\.-[A-Z]%\d\.\d\d\./).test($);
 
 // 4) END===============================================================
 
