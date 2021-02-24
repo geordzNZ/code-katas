@@ -77,8 +77,8 @@
 
 
 // 7) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Grasshopper - Debug sayHello (8 kyu)
+// LINK:  https://www.codewars.com/kata/5625618b1fe21ab49f00001f
 
 // 7) END===============================================================
 
