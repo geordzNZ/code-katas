@@ -88,8 +88,24 @@
 
 
 // 8) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Grasshopper - Debug (8 kyu)
+// LINK:  https://www.codewars.com/kata/55cb854deb36f11f130000e1
+
+// function weatherInfo (temp) {
+//   console.log(temp)
+//   var c = convertToCelsius(temp)
+//   console.log('  ' + c)
+//   if (c < 0)
+//     return (c + " is freezing temperature")
+//   else
+//     return (c + " is above freezing temperature")
+// }
+
+// function convertToCelsius (temperature) {
+//   console.log(temperature)
+//   var celsius = (temperature - 32) * (5/9)
+//   return celsius
+// }
 
 // 8) END===============================================================
 
