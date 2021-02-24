@@ -4,12 +4,13 @@
 //   Kyu = 5
 //   Clan = 25
 // Comments:
-//   New JS file = --Create code kata js file for 24/Feb/2021
 //   Updates to js file = comment = #X kata for 24/Feb/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Convert boolean values to strings 'Yes' or 'No'.
+// LINK: https://www.codewars.com/kata/53369039d7ab3ac506000467
+
+const boolToWord = bool => bool ? 'Yes' : 'No'
 
 // 1) END===============================================================
 
