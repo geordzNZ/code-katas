@@ -80,6 +80,10 @@
 // TITLE: Grasshopper - Debug sayHello (8 kyu)
 // LINK:  https://www.codewars.com/kata/5625618b1fe21ab49f00001f
 
+// function sayHello(name) {
+//   return 'Hello, ' + name
+// }
+
 // 7) END===============================================================
 
 
