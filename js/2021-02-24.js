@@ -25,8 +25,16 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Chuck Norris IV - Bearded Fist
+// LINK:  https://www.codewars.com/kata/57066708cb7293901a0013a1
+
+// function fistBeard(arr) {
+//   let word = ''
+//   for (let i = 0; i <= arr.length-1; i++){
+//     for (let j = 0; j <= arr[i].length-1; j++) word = word + String.fromCharCode(arr[i][j])
+//   }
+//   return word
+// }
 
 // 3) END===============================================================
 
