@@ -10,14 +10,16 @@
 // TITLE: Convert boolean values to strings 'Yes' or 'No'.
 // LINK: https://www.codewars.com/kata/53369039d7ab3ac506000467
 
-const boolToWord = bool => bool ? 'Yes' : 'No'
+// const boolToWord = bool => bool ? 'Yes' : 'No'
 
 // 1) END===============================================================
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Chuck Norris II - One Punch
+// LINK: https://www.codewars.com/kata/57057a035eef1f7e790009ef
+
+// function onePunch(items){ return (typeof items !== 'string' || items.length === 0) ? 'Broken!' : items.split(' ').sort().join(' ').replace(/[ae]/gi,'') } 
 
 // 2) END===============================================================
 
