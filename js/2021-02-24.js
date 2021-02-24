@@ -50,8 +50,19 @@
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Convert string to camel case (6 kyu)
+// LINK:  https://www.codewars.com/kata/517abf86da9663f1d2000003
+
+// function toCamelCase(str){
+//   if (str.length === 0) return ''
+  
+//   let splitStr = str.split(/[-_]/g)
+  
+//   for (let i = 1; i <= splitStr.length-1; i++){
+//     splitStr[i] = splitStr[i][0].toUpperCase() + splitStr[i].substring(1)
+//   }
+//   return splitStr.join('')
+// }
 
 // 5) END===============================================================
 
