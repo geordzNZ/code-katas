@@ -146,14 +146,35 @@
 // }
 
 // v2
+// function vertMirror(strng) {
+// }
 
+// function horMirror(strng) {
+// }
+
+// function oper(fct, s) {
+//   let splitS = s.split('\n')
+  
+//   if (fct === vertMirror) {
+//     for (let i = 0; i <= splitS.length - 1; i++) splitS[i] = splitS[i].split('').reverse().join('')
+//   } else  splitS.reverse()
+//   return splitS.join('\n')
+// }
 
 // 6) END===============================================================
 
 
 // 7) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: IQ Test (6 kyu)
+// LINK:  https://www.codewars.com/kata/552c028c030765286c00007d
+
+// function iqTest(numbers){
+//   let splitNs = numbers.split(' ')
+//   let evs = splitNs.filter((num) => num % 2 === 0)
+//   let ods = splitNs.filter((num) => num % 2 === 1)
+  
+//   return evs.length === 1 ? splitNs.indexOf(evs[0])+1 : splitNs.indexOf(ods[0])+1
+// }
 
 // 7) END===============================================================
 
