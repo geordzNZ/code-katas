@@ -18,7 +18,7 @@
 
 
 // 2) START===============================================================
-// TITLE: MakeUpperCase
+// TITLE: MakeUpperCase (8 kyu)
 // LINK:  https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7
 
 // const makeUpperCase = str => str.toUpperCase()
@@ -27,8 +27,12 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Odd or Even? (7 kyu)
+// LINK:  https://www.codewars.com/kata/5949481f86420f59480000e7
+
+// function oddOrEven(array) {
+//   return array.reduce((t,c) => t + c,0) % 2 === 0 ? "even" : "odd"
+// }
 
 // 3) END===============================================================
 
