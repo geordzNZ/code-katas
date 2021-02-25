@@ -38,6 +38,10 @@
 // v2
 // const oddOrEven = array => array.reduce((t,c) => t + c,0) % 2 === 0 ? "even" : "odd"
 
+//v3
+// oddOrEven=a=>a.reduce((t,c)=>t+c,0)%2==0?"even":"odd"
+
+
 // 3) END===============================================================
 
 
