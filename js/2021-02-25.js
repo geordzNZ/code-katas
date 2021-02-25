@@ -46,7 +46,7 @@
 
 
 // 4) START===============================================================
-// TITLE: Sum Arrays
+// TITLE: Sum Arrays (8 kyu)
 // LINK:  https://www.codewars.com/kata/53dc54212259ed3d4f00071c
 
 // const sum = numbers => numbers.reduce((t,c) => t + c,0)
@@ -55,8 +55,51 @@
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Numbers to Objects (7 kyu)
+// LINK:  https://www.codewars.com/kata/57ced2c1c6fdc22123000316
+
+// v1
+// not working, but got close...
+// class CharObj{
+//   constructor (value){
+//     this.key = value.toString()
+//     this.char = String.fromCharCode(value)
+//   }
+// }
+
+// function numObj(s){
+//   let msg = []
+//   console.log(s)
+  
+//   for (let i = 0; i <= s.length - 1; i++){
+//     let vari = new CharObj(s[i])
+//     msg.push([vari.key,vari.char])
+//     //msg.push([vari.output])
+//     //msg.push(vari)
+//   }
+//   console.log(msg)
+//   return msg
+// }
+// outcomes
+// Expected: '[{ \'118\': \'v\' }, { \'117\': \'u\' }, { \'120\': \'x\' }]', 
+// instead got: '[[\'118\', \'v\'], [\'117\', \'u\'], [\'120\', \'x\']]'
+//
+// and 
+// 
+// Expected: '[{ \'101\': \'e\' }, { \'121\': \'y\' }, { \'110\': \'n\' }, { \'113\': \'q\' }, { \'113\': \'q\' }, { \'103\': \'g\' }]', 
+// instead got: '[[\'101\', \'e\'], [\'121\', \'y\'], [\'110\', \'n\'], [\'113\', \'q\'], [\'113\', \'q\'], [\'103\', \'g\']]'
+
+
+// someone elses result
+// function numObj(s){
+//   const arr = []
+//   for(i=0; i<s.length;i++){
+//     const obj = {}
+//     obj[s[i]] = String.fromCharCode(s[i])
+//     arr.push(obj)
+//   }
+//   return arr
+// }
 
 // 5) END===============================================================
 
