@@ -105,8 +105,48 @@
 
 
 // 6) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Moves in squared strings (I) (7 kyu)
+// LINK:  https://www.codewars.com/kata/56dbe0e313c2f63be4000b25
+
+// v1
+// function vertMirror(strng) {
+//   console.log('    VM:  ' + strng + '   /   ' + strng.split('').reverse().join(''))
+//   return strng.split('').reverse().join('')
+// }
+
+// function horMirror(strng) {
+//   console.log('    HM:  ' + strng + '   /   ' + strng.split('').reverse().join(''))
+//   return strng.split('').reverse().join('')
+// }
+
+// function oper(fct, s) {
+//   //console.log(s)
+//   let splitS = s.split('\n')
+//   console.log(splitS)
+  
+//   if (fct === vertMirror) {
+//     console.log('  vert')
+//     for (let i = 0; i <= splitS.length - 1; i++){
+//       //console.log(`  splitS[${i}]:  ${splitS[i]}`)
+//       //newSplitS.push(vertMirror(splitS[i]))
+//       splitS[i] = vertMirror(splitS[i])
+//     }
+//   } else {
+//     console.log('  horiz')
+//     splitS.reverse()
+//     console.log('    revd: ' + splitS)
+    
+// //     for (let i = 0; i <= splitS.length - 1; i++){
+// //       //console.log(`  splitS[${i}]:  ${splitS[i]}`)
+// //       //newSplitS.push(vertMirror(splitS[i]))
+// //       splitS[i] = horMirror(splitS[i])
+// //     }
+//   }
+//   return splitS.join('\n')
+// }
+
+// v2
+
 
 // 6) END===============================================================
 
