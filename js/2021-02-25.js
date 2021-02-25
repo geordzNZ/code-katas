@@ -4,12 +4,15 @@
 //   Kyu = 5
 //   Clan = 25
 // Comments:
-//   New JS file = --Create code kata js file for 25/Feb/2021
 //   Updates to js file = comment = #X kata for 25/Feb/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Descending Order (7 kyu)
+// LINK:  https://www.codewars.com/kata/5467e4d82edf8bbf40000155
+
+// function descendingOrder(n){
+//   return Number(n.toString().split('').sort((a,b) => b-a).join(''))
+// }
 
 // 1) END===============================================================
 
