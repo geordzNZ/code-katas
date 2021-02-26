@@ -27,18 +27,22 @@
 // TITLE: UEFA EURO 2016
 // LINK:  https://www.codewars.com/kata/57613fb1033d766171000d60
 
-function uefaEuro2016(teams, scores){
-  let outcome = scores[0] === scores[1] ? 'teams played draw.' : 
-                  scores[0] > scores[1] ? teams[0] + ' won!' : teams[1] + ' won!'
-  return `At match ${teams[0]} - ${teams[1]}, ${outcome}`
-}
+// function uefaEuro2016(teams, scores){
+//   let outcome = scores[0] === scores[1] ? 'teams played draw.' : 
+//                   scores[0] > scores[1] ? teams[0] + ' won!' : teams[1] + ' won!'
+//   return `At match ${teams[0]} - ${teams[1]}, ${outcome}`
+// }
 
 // 2) END===============================================================
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Array plus array
+// LINK:  https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/
+
+// function arrayPlusArray(arr1, arr2) {
+//   return arr1.reduce((a,b) => a+b) + arr2.reduce((a,b) => a+b)
+// }
 
 // 3) END===============================================================
 
