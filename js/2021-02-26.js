@@ -48,8 +48,12 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Parse float
+// LINK:  https://www.codewars.com/kata/57a386117cb1f31890000039
+
+// function parseF(s) {  
+//   return Number.isNaN(parseFloat(s)) ? null :  parseFloat(s);
+// }
 
 // 4) END===============================================================
 
