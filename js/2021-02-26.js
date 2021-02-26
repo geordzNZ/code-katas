@@ -7,8 +7,18 @@
 //   Updates to js file = comment = #X kata for 26/Feb/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Complete Fibonacci Series (6 kyu)
+// LINK:  https://www.codewars.com/kata/5239f06d20eeab9deb00049b
+
+// function fibonacci(n) {
+//   if (n <= 0) return []
+//   let seq = [0, 1]
+  
+//   for (let i = 2; i < n; i++){
+//     seq.push(seq[i-2] + seq[i-1])
+//   }
+//   return seq
+// }
 
 // 1) END===============================================================
 
