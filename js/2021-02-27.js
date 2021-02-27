@@ -101,8 +101,13 @@
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Is the date today
+// LINK:  https://www.codewars.com/kata/563c13853b07a8f17c000022
+
+// function isToday(date) {
+//   let today = new Date(Date.now())
+//   return date.toDateString() === today.toDateString()
+// }
 
 // 5) END===============================================================
 
