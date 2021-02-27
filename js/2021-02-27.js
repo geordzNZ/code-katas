@@ -137,6 +137,9 @@
 //   return output[0]
 // }
 
+//v2
+//const shortenToDate = longDate => longDate.replace(/,\s\d*\w*/,'')
+
 // 7) END===============================================================
 
 
