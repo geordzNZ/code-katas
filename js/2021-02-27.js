@@ -140,6 +140,9 @@
 //v2
 //const shortenToDate = longDate => longDate.replace(/,\s\d*\w*/,'')
 
+//v3 Someone elses answer
+// const shortenToDate = longDate => longDate.split(",")[0];
+
 // 7) END===============================================================
 
 
