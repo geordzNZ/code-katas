@@ -128,8 +128,14 @@
 
 
 // 7) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Remove the time  (8 kyu)
+// LINK:  https://www.codewars.com/kata/56b0ff16d4aa33e5bb00008e
+
+// v1
+// function shortenToDate(longDate) {
+//   output =  longDate.split(', ')
+//   return output[0]
+// }
 
 // 7) END===============================================================
 
