@@ -85,8 +85,17 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Unlucky Days (7 kyu)
+// LINK:  https://www.codewars.com/kata/56eb0be52caf798c630013c0
+
+// function unluckyDays(year){
+//   let fridays = 0
+//   for (let i = 0; i <= 11; i++){
+//     let testDate = new Date(year, i, 13)
+//     if (testDate.getDay() === 5) fridays ++
+//   }
+//   return fridays
+// }
 
 // 4) END===============================================================
 
