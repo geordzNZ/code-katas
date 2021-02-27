@@ -2,12 +2,12 @@
 // Rankings at start of the day:
 //   Merit = 417
 //   Kyu = 5
-//   Clan = XX
+//   Clan = 22
 // Comments:
 //   Updates to js file = comment = #X kata for 27/Feb/2021
 
 // 1) START===============================================================
-// TITLE: Happy Birthday, Darling!
+// TITLE: Happy Birthday, Darling! (7 kyu)
 // LINK:  https://www.codewars.com/kata/5e96332d18ac870032eb735f
 
 // **Almost works ... see tests/results below
@@ -53,8 +53,19 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Determine the date by the day number (6 kyu)
+// LINK:  https://www.codewars.com/kata/602afedfd4a64d0008eb4e6e
+
+// function getDay(day, isLeap){
+//   let theDate = new Date(isLeap ? 2020 : 2021, 00, 00)
+//   theDate.setDate(theDate.getDate() + day)
+ 
+//   let output = Intl.DateTimeFormat('en', { month: 'long' }).format(theDate)
+//   output = output + ', '
+//   output = output + Intl.DateTimeFormat('en', { day: 'numeric' }).format(theDate)
+  
+//   return  output
+// }
 
 // 2) END===============================================================
 
