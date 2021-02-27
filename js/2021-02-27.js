@@ -71,8 +71,15 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Find Your Villain Name (7 kyu)
+// LINK:  https://www.codewars.com/kata/536c00e21da4dc0a0700128b
+
+// function getVillainName(birthday){
+//   const m = ["Evil","Vile","Cruel","Trashy","Despicable","Embarrassing","Disreputable","Atrocious","Twirling","Orange","Terrifying","Awkward"];
+//   const d = ["Mustache","Pickle","Hood Ornament","Raisin","Recycling Bin","Potato","Tomato","House Cat","Teaspoon","Laundry Basket"];
+  
+//    return `The ${m[birthday.getMonth()]} ${d[birthday.getDate()%10]}`
+// }
 
 // 3) END===============================================================
 
