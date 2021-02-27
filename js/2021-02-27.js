@@ -113,8 +113,16 @@
 
 
 // 6) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Days in the year (8 kyu)
+// LINK:  https://www.codewars.com/kata/56d6c333c9ae3fc32800070f
+
+// function yearDays(year) {
+//   if (year % 100 === 0){
+//     if (year % 400 === 0) return `${year} has 366 days`
+//     else return `${year} has 365 days`  
+//   } else if (year % 4 === 0) return `${year} has 366 days`
+//   else return `${year} has 365 days`
+// }
 
 // 6) END===============================================================
 
