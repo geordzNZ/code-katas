@@ -199,12 +199,20 @@
 
 
 // 7) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Capitalization and Mutability1
+// LINK:  https://www.codewars.com/kata/595970246c9b8fa0a8000086
 
 // FIX THE BUG
+// function capitalizeWord(word) {
+//   word[0].toUpperCase();
+//   return word;
+// }
 
 // MY ANSWER
+// function capitalizeWord(word) {
+//   return word[0].toUpperCase() + word.substring(1,word.length)
+// }
+
 
 // 7) END===============================================================
 
