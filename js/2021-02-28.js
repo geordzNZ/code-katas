@@ -8,7 +8,48 @@
 
 // 1) START===============================================================
 // TITLE: 
-// LINK:  
+// LINK:  https://www.codewars.com/kata/603301b3ef32ea001c3395d0
+
+// NOT QUITE WORKING CORRECTLY
+// when  there is a needs to be a double up like so BGBBGB etc
+//
+// function cinema(boys,girls) {
+//   console.log(boys + '   /   ' + girls)
+//   let msg = ''
+  
+  
+//   if (Math.max(boys, girls) - Math.min(boys, girls) >= 2) return null
+  
+//   if (boys === girls){
+//     for (let i = 1; i <= boys; i++){
+//       msg = msg + 'BG'
+//     }
+//   } else if (boys >= girls){
+//     for (let i = 1; i <= Math.ceil(girls); i++){
+//       msg = msg + 'BG'
+//     }
+//     msg = msg + 'B'
+//   }else {
+//     for (let i = 1; i <= Math.ceil(boys); i++){
+//       msg = msg + 'GB'
+//     }
+//     msg = msg + 'G'
+//   }
+//   console.log(msg)
+//   return msg
+// }
+
+// someone's answer
+// function cinema(boys, girls) {
+//   if (boys > girls * 2 || girls > boys * 2) {
+//     return null;
+//   } else if (boys === girls) {
+//     return "".padStart(boys + girls, "BG");
+//   } else if (boys > girls) {
+//     return "BGB".repeat(boys - girls).padEnd(boys + girls, "GB");    
+//   }
+//   return "GBG".repeat(girls - boys).padEnd(boys + girls, "BG");    
+// }
 
 // 1) END===============================================================
 
