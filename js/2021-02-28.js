@@ -7,7 +7,7 @@
 //   Updates to js file = comment = #X kata for 28/Feb/2021
 
 // 1) START===============================================================
-// TITLE: 
+// TITLE: A Cinema
 // LINK:  https://www.codewars.com/kata/603301b3ef32ea001c3395d0
 
 // NOT QUITE WORKING CORRECTLY
@@ -55,8 +55,28 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: FIXME : Get Full Name (7 kyu)
+// LINK:  https://www.codewars.com/kata/597c684822bc9388f600010f
+
+// Fix the bug
+// class Dinglemouse{
+//   constructor( firstName, lastName ){
+//   }
+//   getFullName(){
+//     return firstName+" "+lastName
+//   }
+// }
+
+// My answer
+// class Dinglemouse{
+//   constructor( firstName, lastName ){
+//     this.firstName = firstName
+//     this.lastName = lastName
+//   }
+//   getFullName(){
+//     return (this.firstName === '' || this.lastName === '' ) ? this.firstName+this.lastName : this.firstName+' '+this.lastName 
+//   }
+// }
 
 // 2) END===============================================================
 
