@@ -218,10 +218,16 @@
 
 
 // 8) START===============================================================
-// TITLE: Reversing a Process
-// LINK:  https://www.codewars.com/kata/5dad6e5264e25a001918a1fc
+// TITLE: Number to digit tiers (7 kyu)
+// LINK:  https://www.codewars.com/kata/586bca7fa44cfc833e00005c
 
-
+// function createArrayOfTiers(num) {
+//   let tiers = []
+//   for (let i = 1; i <= num.toString().length; i++){
+//     tiers.push(num.toString().substring(0,i))
+//   }
+//   return tiers;
+// }
 
 // 8) END===============================================================
 
