@@ -179,8 +179,21 @@
 
 
 // 6) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Debug Sum of Digits of a Number
+// LINK:  https://www.codewars.com/kata/563d59dd8e47a5ed220000ba
+
+// FIX THE BUG
+// function getSumOfDigits(integer) {
+//   var sum = null;
+//   var digits =  Math.floor(integer).toString();
+//   for(var ix = 1; ix < digits.length; ix = sum + 1) {
+//     sum =+ digits[ix + 1]);
+//   }
+//   return sum;
+// }
+
+// MY ANSWER
+// const getSumOfDigits = integer => integer.toString().split('').reduce((t, i) => parseInt(t) + parseInt(n), 0)
 
 // 6) END===============================================================
 
@@ -188,6 +201,10 @@
 // 7) START===============================================================
 // TITLE: 
 // LINK:  
+
+// FIX THE BUG
+
+// MY ANSWER
 
 // 7) END===============================================================
 
