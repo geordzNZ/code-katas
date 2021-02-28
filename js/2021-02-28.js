@@ -115,7 +115,7 @@
 
 
 // 5) START===============================================================
-// TITLE: Get Planet Name By ID
+// TITLE: Get Planet Name By ID (8 kyu)
 // LINK:  https://www.codewars.com/kata/515e188a311df01cba000003
 
 // FIX THE BUG
@@ -179,7 +179,7 @@
 
 
 // 6) START===============================================================
-// TITLE: Debug Sum of Digits of a Number
+// TITLE: Debug Sum of Digits of a Number (7 kyu)
 // LINK:  https://www.codewars.com/kata/563d59dd8e47a5ed220000ba
 
 // FIX THE BUG
@@ -199,7 +199,7 @@
 
 
 // 7) START===============================================================
-// TITLE: Capitalization and Mutability1
+// TITLE: Capitalization and Mutability (8 kyu)
 // LINK:  https://www.codewars.com/kata/595970246c9b8fa0a8000086
 
 // FIX THE BUG
@@ -218,8 +218,10 @@
 
 
 // 8) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Reversing a Process
+// LINK:  https://www.codewars.com/kata/5dad6e5264e25a001918a1fc
+
+
 
 // 8) END===============================================================
 
