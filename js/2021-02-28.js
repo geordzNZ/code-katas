@@ -58,7 +58,7 @@
 // TITLE: FIXME : Get Full Name (7 kyu)
 // LINK:  https://www.codewars.com/kata/597c684822bc9388f600010f
 
-// Fix the bug
+// FIX THE BUG
 // class Dinglemouse{
 //   constructor( firstName, lastName ){
 //   }
@@ -82,7 +82,7 @@
 
 
 // 3) START===============================================================
-// TITLE: Maximum Multiple
+// TITLE: Maximum Multiple (7 kyu)
 // LINK:  https://www.codewars.com/kata/5aba780a6a176b029800041c
 
 // function maxMultiple(divisor, bound){
@@ -95,8 +95,21 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Grasshopper - If/else syntax debug  (8 kyu)
+// LINK:  https://www.codewars.com/kata/57089707fe2d01529f00024a
+
+// FIX THE BUG
+// function checkAlive (health) {
+//   if () {
+//     health < 0
+//     return false
+//   } else () {
+//     return true
+//   }
+// }
+
+// MY ANSWER
+// const checkAlive = health => health <= 0 ? false : true
 
 // 4) END===============================================================
 
