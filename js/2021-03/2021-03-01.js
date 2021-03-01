@@ -3,7 +3,7 @@
 //   Merit = 449
 //   Kyu = 5
 //   Clan = 21
-// Comments:
+// Comments: 
 //   Updates to js file = comment = #X kata for 01/Mar/2021
 
 // 1) START===============================================================
