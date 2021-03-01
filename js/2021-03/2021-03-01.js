@@ -45,8 +45,30 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Unfinished Loop - Bug Fixing #1 (8 kyu)
+// LINK:  https://www.codewars.com/kata/55c28f7304e3eaebef0000da
+
+// FIX THER ERROR
+// function createArray(number){
+//   var newArray = [];
+  
+//   for(var counter = 1; counter <= number; counter++){
+//     newArray.push(counter);
+//   }
+  
+//   return newArray;
+// }
+
+// FIXED
+// function createArray(number){
+//   var newArray = [];
+  
+//   for(var counter = 1; counter <= number; counter++){
+//     newArray.push(counter);
+//   }
+  
+//   return newArray;
+// }
 
 // 4) END===============================================================
 
