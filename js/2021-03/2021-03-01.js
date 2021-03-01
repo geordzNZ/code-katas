@@ -18,7 +18,7 @@
 
 
 // 2) START===============================================================
-// TITLE: Sentence Smash
+// TITLE: Sentence Smash (8 kyu)
 // LINK:  https://www.codewars.com/kata/53dc23c68a0c93699800041d
 
 // function smash (words) {
@@ -29,8 +29,17 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Sum of Multiples (8 kyu)
+// LINK:  https://www.codewars.com/kata/57241e0f440cd279b5000829
+
+// function sumMul(n,m){
+//   let sum = 0
+  
+//   if (n >= m) return 'INVALID'
+  
+//   for (let i = n; i < m; i+=n) sum += i 
+//   return sum
+// }
 
 // 3) END===============================================================
 
