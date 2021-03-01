@@ -7,10 +7,12 @@
 //   Updates to js file = comment = #X kata for 01/Mar/2021
 
 // 1) START===============================================================
-// TITLE: Do you speak "English"?
+// TITLE: Do you speak "English"? (8 kyu)
 // LINK:  https://www.codewars.com/kata/58dbdccee5ee8fa2f9000058
 
-
+// function spEng(sentence){
+//   return /english/gi.test(sentence)
+// }
 
 // 1) END===============================================================
 
