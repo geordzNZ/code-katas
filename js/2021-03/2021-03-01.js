@@ -74,8 +74,12 @@
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Safen User Input Part I - htmlspecialchars (8 kyu)
+// LINK:  https://www.codewars.com/kata/56bcaedfcf6b7f2125001118
+
+// function htmlspecialchars(formData) {
+//   return formData.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;')
+// }
 
 // 5) END===============================================================
 
