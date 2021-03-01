@@ -85,7 +85,7 @@
 
 
 // 6) START===============================================================
-// TITLE: Will you make it?
+// TITLE: Will you make it? (8 kyu)
 // LINK:  https://www.codewars.com/kata/5861d28f124b35723e00005e
 
 // const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
