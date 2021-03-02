@@ -108,6 +108,8 @@
 //   }
 //   return -1  
 // }
+// v3  -- takes longer to run than the above  (about 10x slower)
+// const indexEqualsValue = a => a.findIndex((cV,i) => cV === i,-1)
 
 // 4) END===============================================================
 
