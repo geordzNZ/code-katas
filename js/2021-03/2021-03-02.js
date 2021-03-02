@@ -159,8 +159,23 @@
 
 
 // 6) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Lottery Ticket (6 kyu)
+// LINK:  https://www.codewars.com/kata/57f625992f4d53c24200070e
+
+// function bingo(ticket, win){
+//   let wins = 0
+
+//   ticket.forEach((mT) => {
+//     let i = 0
+//     let mTWins = 0
+//     while (i < mT[0].length && mTWins===0){
+//       if (mT[0][i].charCodeAt() === mT[1]){ mTWins ++ }
+//       i++
+//     }
+//     wins+=mTWins
+//   })
+//   return wins >= win ? 'Winner!' : 'Loser!'
+// }
 
 // 6) END===============================================================
 
