@@ -97,6 +97,17 @@
 //   }
 //   return -1
 // }
+// v2  -- roughly same times as above tests
+// function indexEqualsValue(a) {
+//   let i = 0
+//   let aLen = a.length-1
+  
+//   while (i <= aLen){
+//     if (i === a[i]) return i
+//     i++    
+//   }
+//   return -1  
+// }
 
 // 4) END===============================================================
 
