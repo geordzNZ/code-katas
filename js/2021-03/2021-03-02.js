@@ -86,8 +86,17 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Element equals its index
+// LINK:  https://www.codewars.com/kata/5b7176768adeae9bc9000056
+
+// v1 -- completed tests, but bigger ones were too slow
+// function indexEqualsValue(a) {
+//   console.log(a)
+//   for (let i = 0; i<= a.length-1; i++){
+//     if (i === a[i]) return i
+//   }
+//   return -1
+// }
 
 // 4) END===============================================================
 
