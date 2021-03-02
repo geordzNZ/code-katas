@@ -25,8 +25,23 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Write Number in Expanded Form (6 kyu)
+// LINK:  https://www.codewars.com/kata/5842df8ccbd22792a4000245
+
+// function expandedForm(num) {
+//   let strNums = num.toString().split('')
+//   let msg = ''
+  
+//   for (let i = 0; i <= strNums.length-1; i++) {
+//     if (strNums[i] != 0){
+//       strNums[i] = strNums[i].padEnd(strNums.length - i,'0')
+//     } else {
+//       strNums.splice(i,1)
+//       i--
+//     }
+//   }
+//   return strNums.join(' + ')
+// }
 
 // 2) END===============================================================
 
