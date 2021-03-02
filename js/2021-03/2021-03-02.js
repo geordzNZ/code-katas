@@ -190,7 +190,7 @@
 
 
 // 8) START===============================================================
-// TITLE: Street Fighter 2 - Character Selection
+// TITLE: Street Fighter 2 - Character Selection (6 kyu)
 // LINK:  https://www.codewars.com/kata/5853213063adbd1b9b0000be
 
 // function streetFighterSelection(fighters, position, moves){
@@ -215,8 +215,16 @@
 
 
 // 9) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Multiples of 3 or 5
+// LINK:  https://www.codewars.com/kata/514b92a657cdc65150000006
+
+// function solution(number){
+//   let total = 0
+//   for (let i = 0; i < number; i++){
+//     if (i%3 === 0 || i%5 === 0) total+=i
+//   }
+//   return total
+// }
 
 // 9) END===============================================================
 
