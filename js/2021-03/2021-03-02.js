@@ -108,13 +108,52 @@
 //   }
 //   return -1  
 // }
+// v3  -- takes longer to run than the above  (about 10x slower)
+// const indexEqualsValue = a => a.findIndex((cV,i) => cV === i,-1)
+
+// v4 -- Answers deal with binary sort  (split array in 2 and then check the havles ... then split remainder in 2 etc etc)
+// function indexEqualsValue(a) {
+//   var start = 0, end = a.length;
+//   var neg = -1;
+//   while(start < end){
+//     var i = Math.floor((start + end) / 2);
+//     if (a[i] > i){
+//       end = i;
+//     } else if(a[i] < i) {
+//       start = i+1;
+//     } else {
+//       neg = i;
+//       end = i;
+//     } 
+
+//   }
+//   return neg;
+// }
+
+// ... or
+// function indexEqualsValue(a) {
+//   let min = 0
+//   let max = a.length - 1
+//   while (min < max) {
+//       let i = Math.floor((min+max)/2)
+//       if (i <= a[i]) max = i
+//       else min = i + 1
+//   }
+//   return a[max] === max ? max : -1
+// }
 
 // 4) END===============================================================
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Guess the Sequence (7 kyu)
+// LINK:  https://www.codewars.com/kata/5b45e4b3f41dd36bf9000090
+
+// function sequence(x) {
+//   let nums = []
+//   for (let i = 1; i<=x;i++) nums.push(i)
+//   return nums.sort()
+// }
 
 // 5) END===============================================================
 
