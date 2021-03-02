@@ -47,8 +47,40 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Playing with passphrases (6 kyu)
+// LINK:  https://www.codewars.com/kata/559536379512a64472000053
+
+// function playPass(s, n) {
+//   let splitS = s.split('')
+  
+//   for (let i = 0; i <= splitS.length - 1; i++){
+//     let theCharCode = splitS[i].charCodeAt(0)
+//     let charToAdd = ''
+    
+//     if (theCharCode >= 65 && theCharCode <= 90 ) {
+//       if (theCharCode + n <= 90){
+//         charToAdd = String.fromCharCode(theCharCode + n)
+//       } else{
+//         theCharCode = (theCharCode + n - 90) + 64
+//         charToAdd = String.fromCharCode(theCharCode)
+//       }
+//     } else if (theCharCode >= 97 && theCharCode <= 122 ) {
+//       if (theCharCode + n <= 122){
+//         charToAdd = String.fromCharCode(theCharCode + n)
+//       } else{
+//         theCharCode = (theCharCode + n - 122) + 96
+//         charToAdd = String.fromCharCode(theCharCode)
+//       }
+//     } else if (theCharCode >= 48 && theCharCode <= 57 ) {
+//       charToAdd = 9 - splitS[i]
+//     } else {
+//       charToAdd = splitS[i]
+//     }
+//     typeof charToAdd === 'number' ? splitS[i] = charToAdd : i % 2 === 0 ? splitS[i] = charToAdd.toUpperCase() : splitS[i] = charToAdd.toLowerCase()
+//   }
+//   return splitS.reverse().join('')
+// }
+
 
 // 3) END===============================================================
 
