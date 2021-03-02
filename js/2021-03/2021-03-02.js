@@ -7,8 +7,19 @@
 //   Updates to js file = comment = #X kata for 02/Mar/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Find the Difference in Age between Oldest and Youngest Family Members (8 kyu)
+// LINK:  https://www.codewars.com/kata/5720a1cb65a504fdff0003e2
+
+// function differenceInAges(ages){
+//   let max = ages[0]
+//   let min = ages[0]
+  
+//   for (let i = 1; i <= ages.length-1;i++){
+//     if (ages[i] > max) max = ages[i]
+//     if (ages[i] < min) min = ages[i]
+//   }
+//   return [min, max, max-min]
+// }
 
 // 1) END===============================================================
 
