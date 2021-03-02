@@ -181,15 +181,35 @@
 
 
 // 7) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Currying functions: multiply all elements in an array (7 kyu)
+// LINK:  https://www.codewars.com/kata/586909e4c66d18dd1800009b
+
+
 
 // 7) END===============================================================
 
 
 // 8) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Street Fighter 2 - Character Selection
+// LINK:  https://www.codewars.com/kata/5853213063adbd1b9b0000be
+
+// function streetFighterSelection(fighters, position, moves){
+//   let a = position[0]
+//   let b = position[1]
+//   let chosen = []
+  
+
+//   for (let i = 0; i <= moves.length-1; i++){
+//     switch(moves[i]) {
+//       case 'up': if (a === 1) a = 0; break;
+//       case 'down' : if (a === 0) a = 1; break;
+//       case 'left' : b === 0 ? b = 5 : b-- ; break;
+//       case 'right': b === 5 ? b = 0 : b++; break;
+//     }
+//     chosen.push(fighters[a][b])
+//   }
+//   return chosen;
+// }
 
 // 8) END===============================================================
 
