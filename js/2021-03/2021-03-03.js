@@ -74,7 +74,7 @@ function move (position, roll) {
 // LINK:  https://www.codewars.com/kata/57e3f79c9cb119374600046b
 
 // v1
-function hello(name) {
+// function hello(name) {
 //   if (name === undefined || name === '') {
 //     return 'Hello, World!' 
 //   } else{
