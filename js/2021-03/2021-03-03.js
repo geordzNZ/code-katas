@@ -82,6 +82,10 @@ function hello(name) {
 //   }
 // }
 
+// v2
+// function hello(name) {
+//   return 'Hello, ' + (name === undefined || name === '' ? 'World!' : name[0].toUpperCase() + name.substring(1).toLowerCase() + '!')
+// }
 // 5) END===============================================================
 
 
