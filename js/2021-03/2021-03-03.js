@@ -7,10 +7,20 @@
 //   Updates to js file = comment = #X kata for 03/Mar/2021
 
 // 1) START===============================================================
-// TITLE: Your order, please
+// TITLE: Your order, please (6 kyu)
 // LINK:  https://www.codewars.com/kata/55c45be3b2079eccff00010f
 
-
+// function order(words){
+//   let splitWords = words.split(' ')
+//   let sortedWords = []
+  
+//   for (let i = 0; i <= splitWords.length-1; i++) {
+//     let index = splitWords[i].search(/\d/)
+//     let position = splitWords[i][index]
+//     sortedWords[position] = splitWords[i]
+//   }
+//   return sortedWords.join(' ').trim()
+// }
 
 // 1) END===============================================================
 
