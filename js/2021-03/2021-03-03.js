@@ -26,8 +26,8 @@
 
 
 // 2) START===============================================================
-// TITLE: Is the string uppercase? (8 kyu)
-// LINK:  https://www.codewars.com/kata/56cd44e1aa4ac7879200010b
+// TITLE: Classic Hello World (8 kyu)
+// LINK:  https://www.codewars.com/kata/57036f007fd72e3b77000023
 
 
 
