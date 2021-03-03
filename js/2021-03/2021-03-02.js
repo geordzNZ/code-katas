@@ -110,6 +110,7 @@
 // }
 // v3  -- takes longer to run than the above  (about 10x slower)
 // const indexEqualsValue = a => a.findIndex((cV,i) => cV === i,-1)
+<<<<<<< HEAD
 
 // v4 -- Answers deal with binary sort  (split array in 2 and then check the havles ... then split remainder in 2 etc etc)
 // function indexEqualsValue(a) {
@@ -141,6 +142,8 @@
 //   }
 //   return a[max] === max ? max : -1
 // }
+=======
+>>>>>>> 81dcddbc8df6d448449904125f479862bdcfceb6
 
 // 4) END===============================================================
 
