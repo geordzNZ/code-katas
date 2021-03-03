@@ -30,12 +30,18 @@
 // LINK:  https://www.codewars.com/kata/57036f007fd72e3b77000023
 
 // gave up ... but my answer was ....
-class Solution{
-  constrcutor(){}
-  main(){
-    console.log('Hello World!')
-  }
-}
+// class Solution{
+//   constrcutor(){}
+//   main(){
+//     console.log('Hello World!')
+//   }
+// }
+
+// but their answer WaveShaperNodeclass Solution{
+//   static main() {
+//     console.log("Hello World!");
+//   }  
+// }
 
 // 2) END===============================================================
 
