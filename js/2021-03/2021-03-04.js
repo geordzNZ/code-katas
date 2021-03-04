@@ -40,8 +40,19 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: number with 3 roots.
+// LINK:  https://www.codewars.com/kata/5932c94f6aa4d1d786000028/
+
+// function perfectRoots(n){
+//   let rt2 = Math.pow(n, 1/2)
+//   let rt4 = Math.pow(n, 1/4)
+//   let rt8 = Math.pow(n, 1/8)
+
+//    if (rt2 === Math.floor(rt2) && 
+//        rt4 === Math.floor(rt4) && 
+//        rt8 === Math.floor(rt8)) return(true)
+//    return false
+//}
 
 // 2) END===============================================================
 
