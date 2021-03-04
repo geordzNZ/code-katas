@@ -40,7 +40,7 @@
 
 
 // 2) START===============================================================
-// TITLE: number with 3 roots.
+// TITLE: number with 3 roots. (7 kyu)
 // LINK:  https://www.codewars.com/kata/5932c94f6aa4d1d786000028/
 
 // v1
@@ -64,8 +64,14 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Number toString
+// LINK:  https://www.codewars.com/kata/53934feec44762736c00044b
+
+//Fix the code
+// var a = 123.toString();
+
+// Answer
+// var a = (123).toString();
 
 // 3) END===============================================================
 
