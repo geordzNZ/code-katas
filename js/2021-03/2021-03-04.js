@@ -67,7 +67,7 @@
 // TITLE: Number toString (8 kyu)
 // LINK:  https://www.codewars.com/kata/53934feec44762736c00044b
 
-// FIX THE CODE
+// BUGGED -- FIX THE CODE
 // var a = 123.toString();
 
 // ANSWER
@@ -80,7 +80,7 @@
 // TITLE: Squash the bugs (8 kyu)
 // LINK:  https://www.codewars.com/kata/56f173a35b91399a05000cb7
 
-// FIX THE CODE
+// BUGGED -- FIX THE CODE
 // function findLongest(str) (
   
 //   var spl = str.split(" ");
@@ -125,7 +125,7 @@
 // TITLE: 101 Dalmatians - squash the bugs, not the dogs!
 // LINK:  https://www.codewars.com/kata/56f6919a6b88de18ff000b36
 
-// FIX THE CODE
+// BUGGED -- FIX THE CODE
 // function howManyDalmations(numer :
   
 //   var dogs ["Hardly any", "More than a handful!", "Woah that's a lot of dogs!", "101 DALMATIONS!!!"];
@@ -158,8 +158,21 @@
 
 
 // 6) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Swap Values (8 kyu)
+// LINK:  https://www.codewars.com/kata/5388f0e00b24c5635e000fc6
+
+// BUGGED -- FIX THE CODE
+// function swapValues() {
+//   var args = Array.prototype.slice.call(arguments);
+//   var temp = args[0];
+//   args[0] = args[1];
+//   args[1] = temp;
+// }
+
+// ANSWER -- straight fix
+// function swapValues(arguments) {
+//   return arguments.reverse();
+// }
 
 // 6) END===============================================================
 
