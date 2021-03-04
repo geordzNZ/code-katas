@@ -43,6 +43,7 @@
 // TITLE: number with 3 roots.
 // LINK:  https://www.codewars.com/kata/5932c94f6aa4d1d786000028/
 
+// v1
 // function perfectRoots(n){
 //   let rt2 = Math.pow(n, 1/2)
 //   let rt4 = Math.pow(n, 1/4)
@@ -54,6 +55,11 @@
 //    return false
 //}
 
+// v2
+// function perfectRoots(n){
+//   if (Math.pow(n, 1/2) % 1 === 0 && Math.pow(n, 1/4) % 1 === 0 && Math.pow(n, 1/8) % 1 === 0) return(true)
+//   return false
+// }
 // 2) END===============================================================
 
 
