@@ -7,8 +7,29 @@
 //   Updates to js file = comment = #X kata for 04/Mar/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: If you can read this... (6 kyu)
+// LINK:  https://www.codewars.com/kata/586538146b56991861000293
+
+// function to_nato(words) {
+//   const nato = ['Alfa','Bravo','Charlie','Delta','Echo','Foxtrot','Golf','Hotel','India','Juliett','Kilo','Lima','Mike','November','Oscar','Papa','Quebec','Romeo','Sierra','Tango','Uniform','Victor','Whiskey','Xray','Yankee','Zulu']
+//   let splitWords = words.split('')
+//   let converted = []
+
+//   for (let i = 0; i < splitWords.length; i++){
+//     let ltrCode = splitWords[i].charCodeAt(0)
+//       if (ltrCode < 65) {
+//         if (ltrCode === 32) {
+//           converted.push('')
+//         } else{
+//           converted.push(splitWords[i])
+//         }
+//       } else {
+//         let lookup = Number(splitWords[i].toUpperCase().charCodeAt(0)-65)
+//         converted.push(nato[lookup])
+//       }
+//   }
+//   return converted.join(' ').replace(/  /g,' ')
+// }
 
 // 1) END===============================================================
 
