@@ -178,8 +178,31 @@
 
 
 // 7) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Is this my tail?
+// LINK:  https://www.codewars.com/kata/56f695399400f5d9ef000af5
+
+// BUGGED -- FIX THE CODE
+// function correctTail(bod, tail ;
+  
+//   sub = body.substr(bodylength-(tail.length)
+  
+//   if sub = tail) ;
+//     return true
+//   }
+//   else 
+//     return false
+
+// ANSWER -- straight fix
+// function correctTail(body, tail){
+  
+//   sub = body.substr(body.length-tail.length)
+  
+//   if (sub === tail){
+//     return true
+//   } else {
+//     return false 
+//   }
+// }
 
 // 7) END===============================================================
 
