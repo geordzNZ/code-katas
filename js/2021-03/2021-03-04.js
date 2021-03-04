@@ -144,6 +144,15 @@
 // return respond
 // }
 
+// ANSWER v2
+// function howManyDalmatians (number) {
+//   return Array('Hardly any',
+//                'More than a handful!',
+//                'Woah that\'s a lot of dogs!',
+//                '101 DALMATIANS!!!')[number <= 10 ? 0 : 
+//                                     number <= 50 ? 1 : 
+//                                     number == 101 ? 3 : 2]
+// }
 
 // 5) END===============================================================
 
