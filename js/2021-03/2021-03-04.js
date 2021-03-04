@@ -178,7 +178,7 @@
 
 
 // 7) START===============================================================
-// TITLE: Is this my tail?
+// TITLE: Is this my tail? (8 kyu)
 // LINK:  https://www.codewars.com/kata/56f695399400f5d9ef000af5
 
 // BUGGED -- FIX THE CODE
@@ -203,6 +203,9 @@
 //     return false 
 //   }
 // }
+
+// v2
+// const correctTail = (body, tail) => body.substr(body.length-1) === tail ? true : false
 
 // 7) END===============================================================
 
