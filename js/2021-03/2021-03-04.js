@@ -31,6 +31,11 @@
 //   return converted.join(' ').replace(/  /g,' ')
 // }
 
+// cool answer ... plus uses NATO
+// function to_nato(words) {
+//   return words.replace(/\s/g, '').toLowerCase().split('').map(e => NATO[e] ? NATO[e] : e).join(' ');
+// }
+
 // 1) END===============================================================
 
 
