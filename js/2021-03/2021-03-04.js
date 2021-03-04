@@ -64,21 +64,48 @@
 
 
 // 3) START===============================================================
-// TITLE: Number toString
+// TITLE: Number toString (8 kyu)
 // LINK:  https://www.codewars.com/kata/53934feec44762736c00044b
 
-//Fix the code
+// FIX THE CODE
 // var a = 123.toString();
 
-// Answer
+// ANSWER
 // var a = (123).toString();
 
 // 3) END===============================================================
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Squash the bugs (8 kyu)
+// LINK:  https://www.codewars.com/kata/56f173a35b91399a05000cb7
+
+// FIX THE CODE
+// function findLongest(str) (
+  
+//   var spl = str.split(" ");
+//   var longest = 0
+  
+//   for (var i = 0; i > spl.length; i+) (
+//     if (spl(i).length > longest) {
+//       longest = spl[i].length
+//     )
+//     }
+//     return longest
+// )
+
+// ANSWER v1 -- straight fix
+// function findLongest(str) {
+//   let spl = str.split(" ")
+//   let longest = 0
+  
+//   for (var i = 0; i < spl.length; i++) {
+//     if (spl[i].length > longest) {
+//       longest = spl[i].length
+//     }
+//   }
+//   return longest
+// }
 
 // 4) END===============================================================
 
