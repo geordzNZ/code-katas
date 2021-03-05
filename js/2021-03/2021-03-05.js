@@ -7,7 +7,7 @@
 //   Updates to js file = comment = #X kata for 05/Mar/2021
 
 // 1) START===============================================================
-// TITLE: Basic variable assignment
+// TITLE: Basic variable assignment (8 kyu)
 // LINK:  https://www.codewars.com/kata/50ee6b0bdeab583673000025
 
 // BUGGED -- FIX THE CODE
@@ -25,8 +25,18 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: getNames() (7 kyu)
+// LINK:  https://www.codewars.com/kata/514a677421607afc99000002
+
+// BUGGED -- FIX THE CODE
+// function getNames(data){
+//   return data.map(function(item){item.name});
+// }
+
+// ANSWER -- straight fix
+// function getNames(data){
+//   return data.map((item) => item.name);
+// }
 
 // 2) END===============================================================
 
