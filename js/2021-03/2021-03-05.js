@@ -96,8 +96,19 @@
 
 
 // 6) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Multiply characters
+// LINK:  https://www.codewars.com/kata/52e9aa89b5acdd26d3000127
+
+// BUGGED -- FIX THE CODE
+// function spam(number){
+//   //TO DO: Not returning the expected value.
+//   return "hue" * number;
+// }
+
+// ANSWER -- straight fix
+// function spam(number){
+//   return ''.padEnd(number*3,'hue')
+// }
 
 // 6) END===============================================================
 
