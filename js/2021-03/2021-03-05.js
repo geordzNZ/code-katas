@@ -133,6 +133,11 @@
 //   return ans.toLowerCase()
 // }
 
+//v2 ... not my answer ... but close to what I was going for...
+// function missingWord(nums, str) {
+//   return str.replace(/\s/g,'').length > Math.max(...nums) ? nums.sort((a,b)=>a-b).map(v=>str.replace(/\s/g,'')[v]).join('').toLowerCase() : 'No mission today';
+// }
+
 // 7) END===============================================================
 
 // 8) START===============================================================
