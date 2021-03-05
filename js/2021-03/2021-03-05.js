@@ -117,11 +117,23 @@
 
 
 // 7) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Jenny the youngest detective
+// LINK:  https://www.codewars.com/kata/58b972cae826b960a300003e
+
+// v1
+// function missingWord(nums, str) {
+//   let ans = ''
+//   let newStr = str.replace(/\s/g,'')
+//   nums.sort((a,b) => a - b)
+
+//   for (let i = 0; i <= nums.length-1; i++){
+//     if (nums[i] < str.length) ans = ans + newStr[nums[i]]
+//     else return 'No mission today'
+//   }
+//   return ans.toLowerCase()
+// }
 
 // 7) END===============================================================
-
 
 // 8) START===============================================================
 // TITLE: 
