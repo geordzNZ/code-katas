@@ -7,8 +7,19 @@
 //   Updates to js file = comment = #X kata for 05/Mar/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Basic variable assignment
+// LINK:  https://www.codewars.com/kata/50ee6b0bdeab583673000025
+
+// BUGGED -- FIX THE CODE
+// var a == "code";
+// var b == "wa.rs";
+// var name == a + b;
+
+// ANSWER -- straight fix
+// var a = "code";
+// var b = "wa.rs";
+// var name = a + b;
+
 
 // 1) END===============================================================
 
