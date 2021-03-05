@@ -42,7 +42,7 @@
 
 
 // 3) START===============================================================
-// TITLE: Regex Failure - Bug Fixing #2
+// TITLE: Regex Failure - Bug Fixing #2 (7 kyu)
 // LINK:  https://www.codewars.com/kata/55c423ecf847fbcba100002b
 
 // BUGGED -- FIX THE CODE
@@ -59,7 +59,7 @@
 
 
 // 4) START===============================================================
-// TITLE: Failed Filter - Bug Fixing #3
+// TITLE: Failed Filter - Bug Fixing #3 (7 kyu)
 // LINK:  https://www.codewars.com/kata/55c606e6babfc5b2c500007c
 
 // BUGGED -- FIX THE CODE
@@ -79,8 +79,18 @@
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Failed Sort - Bug Fixing #4 (7 kyu)
+// LINK:  https://www.codewars.com/kata/55c7f90ac8025ebee1000062
+
+// BUGGED -- FIX THE CODE
+// var sortArray = function(value) {
+//   return value.split('').sort((c, p) => c / p ).join('');
+// }
+
+// ANSWER -- straight fix
+// var sortArray = function(value) {
+//   return value.split('').sort((c, p) => c - p ).join('');
+// }
 
 // 5) END===============================================================
 
