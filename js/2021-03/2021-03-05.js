@@ -42,8 +42,18 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Regex Failure - Bug Fixing #2
+// LINK:  https://www.codewars.com/kata/55c423ecf847fbcba100002b
+
+// BUGGED -- FIX THE CODE
+// function filterWords(phrase){
+//   return phrase.replace(/(bad|mean|ugly|horrible|hideous)/,'awesome');
+// }
+
+// ANSWER -- straight fix
+// function filterWords(phrase){
+//   return phrase.replace(/(bad|mean|ugly|horrible|hideous)/ig,'awesome');
+// }
 
 // 3) END===============================================================
 
