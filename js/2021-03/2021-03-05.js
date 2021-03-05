@@ -72,6 +72,9 @@
 //   return str.split('').filter(c => c.match(/[^0-9]/g)).join('');
 // }
 
+// Answer v2
+// var FilterNumbers = str => str.replace(/[0-9]/g,'')
+
 // 4) END===============================================================
 
 
