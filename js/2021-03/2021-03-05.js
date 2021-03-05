@@ -59,8 +59,18 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Failed Filter - Bug Fixing #3
+// LINK:  https://www.codewars.com/kata/55c606e6babfc5b2c500007c
+
+// BUGGED -- FIX THE CODE
+// var FilterNumbers = function(str) {
+//   return str.split('').filter(c => !parseInt(c)).join('');
+// }
+
+// ANSWER -- straight fix
+// var FilterNumbers = function(str) {
+//   return str.split('').filter(c => c.match(/[^0-9]/g)).join('');
+// }
 
 // 4) END===============================================================
 
