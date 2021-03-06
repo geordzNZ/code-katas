@@ -25,7 +25,7 @@
 
 
 // 3) START===============================================================
-// TITLE: Convert a Number to a String!
+// TITLE: Convert a Number to a String! (8 yku)
 // LINK:  https://www.codewars.com/kata/5265326f5fda8eb1160004c8
 
 // const numberToString = num => num+''
@@ -34,8 +34,14 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Extract the domain name from a URL (5 kyu)
+// LINK:  https://www.codewars.com/kata/514a024011ea4fb54200004b
+
+// function domainName(url){
+//   return url.replace(/(http:\/\/|https:\/\/|www\.|\.com|\.co!\/*\/)/g,'')
+//             .split('.')[0]
+//             .split('/')[0]
+// }
 
 // 4) END===============================================================
 
