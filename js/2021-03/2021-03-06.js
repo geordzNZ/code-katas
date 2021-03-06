@@ -16,8 +16,10 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Grasshopper - Check for factor
+// LINK:  https://www.codewars.com/kata/55cbc3586671f6aa070000fb
+
+// const checkForFactor = (base, factor) => base % factor === 0
 
 // 2) END===============================================================
 
