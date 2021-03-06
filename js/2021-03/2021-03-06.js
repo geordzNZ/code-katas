@@ -7,8 +7,10 @@
 //   Updates to js file = comment = #X kata for 06/Mar/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Convert an array of strings to array of numbers
+// LINK:  https://www.codewars.com/kata/5783d8f3202c0e486c001d23
+
+// const toNumberArray = stringarray => stringarray.map((strNum) => Number(strNum))
 
 // 1) END===============================================================
 
