@@ -7,7 +7,7 @@
 //   Updates to js file = comment = #X kata for 07/Mar/2021
 
 // 1) START===============================================================
-// TITLE: Multiplication table
+// TITLE: Multiplication table (6 kyu)
 // LINK:  https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08
 
 // multiplicationTable = function(size) {
