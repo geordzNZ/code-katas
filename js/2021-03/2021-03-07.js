@@ -4,12 +4,21 @@
 //   Kyu = 5
 //   Clan = 19
 // Comments:
-//   New JS file = --Create code kata js file for 07/Mar/2021
 //   Updates to js file = comment = #X kata for 07/Mar/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Multiplication table
+// LINK:  https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08
+
+// multiplicationTable = function(size) {
+//   let table = []
+//   for (let i = 1;  i <= size; i++){
+//     let rowArr = []
+//     for (let j = 1;  j <= size; j++) rowArr.push(i*j)
+//     table.push(rowArr)
+//   }
+//   return table
+// }
 
 // 1) END===============================================================
 
