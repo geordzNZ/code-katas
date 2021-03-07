@@ -95,8 +95,28 @@
 
 
 // 6) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Backspaces in string (6 kyu)
+// LINK:  https://www.codewars.com/kata/5727bb0fe81185ae62000ae3/train/javascript
+
+// function cleanString(s) {
+//   let splitS = s.split('')
+//   let sLen = s.length-1
+  
+//   for (let i = 0; i <= sLen; i++){
+//     if (splitS[i] ==='#') {
+//       if (i === 0) {
+//         splitS.shift()
+//         sLen--
+//         i--
+//       } else {
+//         splitS.splice(i-1,2)
+//         sLen-=2
+//         i-=2
+//       }
+//     }
+//   }
+//   return splitS.join('')
+// };
 
 // 6) END===============================================================
 
