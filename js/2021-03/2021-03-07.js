@@ -84,6 +84,13 @@
 //   return splitStr.join('')
 // }
 
+
+// someone else's answer
+// function oneDown(str) {
+//   var alph = "zABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
+
+//   return typeof str === "string" ? str.replace(/\w/g, v => alph.charAt(alph.lastIndexOf(v) - 1)) : "Input is not a string";
+// }
 // 5) END===============================================================
 
 
