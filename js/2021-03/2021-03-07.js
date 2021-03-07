@@ -42,8 +42,16 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: zipWith (6 kyu)
+// LINK:  https://www.codewars.com/kata/5825792ada030e9601000782/train/javascript
+
+// function zipWith(fn,a0,a1) {
+//   let ansArray = []
+  
+//   for (let i = 0; i <= Math.min(a0.length,a1.length)-1; i++) ansArray.push( fn(a0[i],a1[i]) )
+
+//   return ansArray
+// }
 
 // 4) END===============================================================
 
