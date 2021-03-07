@@ -57,8 +57,32 @@
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: One down (6 kyu)
+// LINK:  https://www.codewars.com/kata/56419475931903e9d1000087/train/javascript
+
+// function oneDown(str) {
+//   if ( typeof str != 'string' ) return "Input is not a string"
+  
+//   let splitStr = str.split('')
+//   let ansStr = []
+  
+//   for (let i = 0; i <= str.length-1;i++){
+//     if ( (splitStr[i].charCodeAt(0) >= 65 && splitStr[i].charCodeAt(0) <= 90) ||
+//          (splitStr[i].charCodeAt(0) >= 97 && splitStr[i].charCodeAt(0) <= 122)) {
+//       switch (splitStr[i]){
+//         case 'a':
+//           splitStr[i] = 'Z'
+//           break;
+//         case 'A':
+//           splitStr[i] = 'z'
+//           break;
+//         default:
+//           splitStr[i] = String.fromCharCode(splitStr[i].charCodeAt(0)-1)  
+//       }
+//     }
+//   }
+//   return splitStr.join('')
+// }
 
 // 5) END===============================================================
 
