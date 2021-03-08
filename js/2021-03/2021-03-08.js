@@ -22,19 +22,32 @@
 
 // v1
 // function hexHash(code){
-//   console.log(code)
 //   let numCodes = ''
 //   let total = 0
   
 //   for (char of code){
-//     //console.log(`${char}: is '${char.charCodeAt(0)}' dec / '${char.charCodeAt(0).toString(16)}' hex`)
 //     numCodes = numCodes + char.charCodeAt(0).toString(16).replace(/[a-f]/g,'')
-//     console.log(numCodes)
 //   }
 //   for (num of numCodes){
 //     let i = 0
 //     total+=Number(num[i])
 //     i++
+//   }
+//   return total 
+// }
+
+// v2
+// function hexHash(code){
+//   let total = 0
+  
+//   for (char of code){
+//     let hexNum = ''
+//     hexNum = char.charCodeAt(0).toString(16).replace(/[a-f]/g,'')
+//     for (num of hexNum){
+//       let i = 0
+//       total+=Number(num[i])
+//       i++
+//     }
 //   }
 //   return total 
 // }
