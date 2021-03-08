@@ -52,6 +52,20 @@
 //   return total 
 // }
 
+
+// v3
+//
+// function hexHash(code){
+//   let total = 0
+  
+//   code.split('').map((c) => {
+//     let hexNum = ''
+//     hexNum = c.charCodeAt(0).toString(16).replace(/[a-f]/g,'')
+//     hexNum.split('').map((h) => total+=Number(h))
+//   })
+//   return total 
+// }
+
 // 2) END===============================================================
 
 
