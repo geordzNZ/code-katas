@@ -179,8 +179,16 @@
 
 
 // 8) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Evens times last
+// LINK:  https://www.codewars.com/kata/5a1a9e5032b8b98477000004
+
+// function evenLast(numbers) {
+//   let total = 0
+//   for (let i = 0; i < numbers.length; i++){
+//     if (i % 2 === 0) total+=numbers[i]
+//   }
+//   return total !=0 ? total * numbers[numbers.length-1] : 0
+// }
 
 // 8) END===============================================================
 
