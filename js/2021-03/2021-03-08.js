@@ -146,8 +146,26 @@
 
 
 // 6) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Valid Parentheses  (5 kyu
+// LINK:  https://www.codewars.com/kata/52774a314c2333f0a7000688
+
+// v1
+// function validParentheses(parens){
+//   console.log(parens)
+//   let splitP = parens.split('')
+//   let oP = 0
+  
+//   for (p of splitP){
+//     console.log(  p)
+//     console.log('    a: ' + oP)
+//     p === '(' ? oP++ : oP--
+//     console.log('    b: ' + oP)
+//     if (oP<0) return false
+//   }
+    
+//   return oP === 0 ? true : false
+// }
+
 
 // 6) END===============================================================
 
