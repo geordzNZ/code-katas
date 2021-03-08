@@ -146,23 +146,18 @@
 
 
 // 6) START===============================================================
-// TITLE: Valid Parentheses  (5 kyu
+// TITLE: Valid Parentheses  (5 kyu)
 // LINK:  https://www.codewars.com/kata/52774a314c2333f0a7000688
 
 // v1
 // function validParentheses(parens){
-//   console.log(parens)
 //   let splitP = parens.split('')
 //   let oP = 0
   
 //   for (p of splitP){
-//     console.log(  p)
-//     console.log('    a: ' + oP)
 //     p === '(' ? oP++ : oP--
-//     console.log('    b: ' + oP)
 //     if (oP<0) return false
 //   }
-    
 //   return oP === 0 ? true : false
 // }
 
@@ -171,8 +166,14 @@
 
 
 // 7) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Get the integers between two numbers
+// LINK:  https://www.codewars.com/kata/598057c8d95a04f33f00004e
+
+// function range(startNum, endNum) {  
+//   let nums = []
+//   for (let i = startNum+1; i < endNum; i++) nums.push(i)
+//   return nums
+// }; 
 
 // 7) END===============================================================
 
