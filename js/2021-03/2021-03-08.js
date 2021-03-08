@@ -79,8 +79,16 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Beginner Series #3 Sum of Numbers (7 kyu)
+// LINK:  https://www.codewars.com/kata/55f2b110f61eb01779000053
+
+// function getSum( a,b ) {
+//   let total = 0
+//   for (let i = Math.min(a,b); i <= Math.max(b,a); i++) {
+//     total+=i
+//   }
+//   return total
+// }
 
 // 4) END===============================================================
 
