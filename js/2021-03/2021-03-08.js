@@ -17,8 +17,27 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Hex Hash Sum (7 kyu)
+// LINK:  https://www.codewars.com/kata/5ab363ff6a176b29880000dd
+
+// v1
+// function hexHash(code){
+//   console.log(code)
+//   let numCodes = ''
+//   let total = 0
+  
+//   for (char of code){
+//     //console.log(`${char}: is '${char.charCodeAt(0)}' dec / '${char.charCodeAt(0).toString(16)}' hex`)
+//     numCodes = numCodes + char.charCodeAt(0).toString(16).replace(/[a-f]/g,'')
+//     console.log(numCodes)
+//   }
+//   for (num of numCodes){
+//     let i = 0
+//     total+=Number(num[i])
+//     i++
+//   }
+//   return total 
+// }
 
 // 2) END===============================================================
 
