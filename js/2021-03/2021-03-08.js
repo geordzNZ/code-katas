@@ -7,8 +7,11 @@
 //   Updates to js file = comment = #X kata for 08/Mar/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Find Maximum and Minimum Values of a List (8 kyu)
+// LINK:  https://www.codewars.com/kata/577a98a6ae28071780000989
+
+// var min = list => list.sort((a,b) => (a-b))[0]
+// var max = list => list.sort((a,b) => (b-a))[0]
 
 // 1) END===============================================================
 
