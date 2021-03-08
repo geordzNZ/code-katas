@@ -94,8 +94,53 @@
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Separate basic types
+// LINK:  https://www.codewars.com/kata/60113ded99cef9000e309be3
+
+// v1
+// function separateTypes(input) {
+//   console.log(input)
+  
+//   let ansN = []
+//   let ansS = []
+//   let ansB = []
+
+//   for (let i = 0; i <=input.length-1;i++){
+//     let myDT = 'ans' + (typeof input[i])
+
+//      switch(typeof input[i]){
+//        case 'number':
+//          ansN.push(input[i])
+//          break;
+//        case 'string':
+//          ansS.push(input[i])
+//          break;
+//        case 'boolean':
+//          ansB.push(input[i])
+//      }
+//   }
+//   let result = {}
+  
+//   //nsn
+//   if (ansN.length != 0 && ansS.length != 0 && ansB.length != 0 ) result = {number: ansN, string: ansS, boolean: ansB}
+  
+//   //n
+//   if (ansN.length != 0 && ansS.length === 0 && ansB.length === 0 ) result = {number: ansN}
+//   //ns
+//   if (ansN.length != 0 && ansS.length != 0 && ansB.length === 0 ) result = {number: ansN, string: ansS}
+//   //nb
+//   if (ansN.length != 0 && ansS.length === 0 && ansB.length != 0 ) result = {number: ansN, boolean: ansB}
+  
+//   //s
+//   if (ansN.length === 0 && ansS.length != 0 && ansB.length === 0 ) result = {string: ansS}
+//   //sb
+//   if (ansN.length === 0 && ansS.length != 0 && ansB.length != 0 ) result = {string: ansS, boolean: ansB}
+  
+//   //b
+//   if (ansN.length === 0 && ansS.length === 0 && ansB.length != 0 ) result = {boolean: ansB}
+  
+//   return result
+// }
 
 // 5) END===============================================================
 
