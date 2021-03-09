@@ -88,7 +88,7 @@
 
 
 // 6) START===============================================================
-// TITLE: Duck Duck Goose
+// TITLE: Duck Duck Goose (8 kyu)
 // LINK:  https://www.codewars.com/kata/582e0e592029ea10530009ce
 
 // v1 - my answer
@@ -104,8 +104,10 @@
 
 
 // 7) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Grasshopper - Array Mean (8 kyu)
+// LINK:  https://www.codewars.com/kata/55d277882e139d0b6000005d
+
+// var findAverage = nums => nums.reduce((t,cV) => t+=cV)/nums.length
 
 // 7) END===============================================================
 
