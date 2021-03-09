@@ -96,6 +96,10 @@
 //   return players[(goose % players.length)-1 >= 0 ? (goose % players.length)-1 : players.length-1].name
 // }
 
+
+// v2 - proper answer
+// const duckDuckGoose = (players, goose) => players[(goose - 1) % players.length].name;
+
 // 6) END===============================================================
 
 
