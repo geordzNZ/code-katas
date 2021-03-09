@@ -129,8 +129,22 @@
 
 
 // 9) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: max diff - easy (7 kyu)
+// LINK:  https://www.codewars.com/kata/588a3c3ef0fbc9c8e1000095
+
+// v1 
+// function maxDiff(list) {
+//   if (list.length === 0) return 0
+  
+//   let maxN = list[0]
+//   let minN = list[0]
+  
+//   list.forEach((num) => {
+//     if (num > maxN) maxN = num
+//     if (num < minN) minN = num
+//   })
+//   return maxN-minN
+// };
 
 // 9) END===============================================================
 
