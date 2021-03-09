@@ -7,7 +7,7 @@
 //   Updates to js file = comment = #X kata for 09/Mar/2021
 
 // 1) START===============================================================
-// TITLE: Removing Elements
+// TITLE: Removing Elements (8 kyu)
 // LINK:  https://www.codewars.com/kata/5769b3802ae6f8e4890009d2
 
 // const removeEveryOther = arr => arr.filter((cV, i) => i % 2 === 0)
@@ -16,7 +16,7 @@
 
 
 // 2) START===============================================================
-// TITLE: Count the Monkeys!
+// TITLE: Count the Monkeys! (8 kyu)
 // LINK:  https://www.codewars.com/kata/56f69d9f9400f508fb000ba7
 
 // v1 - for i
@@ -45,7 +45,7 @@
 
 
 // 3) START===============================================================
-// TITLE: Count of positives / sum of negatives
+// TITLE: Count of positives / sum of negatives (8 kyu)
 // LINK:  https://www.codewars.com/kata/576bb71bbbcf0951d5000044
 
 // function countPositivesSumNegatives(input) {
@@ -63,7 +63,7 @@
 
 
 // 4) START===============================================================
-// TITLE: Reverse List Order
+// TITLE: Reverse List Order (8 kyu)
 // LINK:  https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b
 
 // const reverseList = list => list.reverse()
@@ -72,8 +72,17 @@
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Add Length (8 kyu)
+// LINK:  https://www.codewars.com/kata/559d2284b5bb6799e9000047
+
+// function addLength(str) {
+//   let splitStr = str.split(' ')
+  
+//   for (let i = 0; i <= splitStr.length -1; i++){
+//     splitStr[i] = splitStr[i] + ' ' + (splitStr[i]).length
+//   }
+//   return splitStr
+// }
 
 // 5) END===============================================================
 
