@@ -63,8 +63,10 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Reverse List Order
+// LINK:  https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b
+
+// const reverseList = list => list.reverse()
 
 // 4) END===============================================================
 
