@@ -38,6 +38,9 @@
 //   return monkeys
 // }
 
+// v3 - Array.from 
+// const monkeyCount = n => Array.from({length: n}, (_, i) => i + 1)
+
 // 2) END===============================================================
 
 
