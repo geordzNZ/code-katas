@@ -159,6 +159,11 @@
 //   return maxN-minN
 // };
 
+// v3 - someone elses gooder answer
+// function maxDiff(list) {
+//   return list.length ? Math.max(...list) - Math.min(...list) : 0;
+// };
+
 // 9) END===============================================================
 
 // 10) START===============================================================
