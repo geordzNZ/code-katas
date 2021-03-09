@@ -45,8 +45,19 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Count of positives / sum of negatives
+// LINK:  https://www.codewars.com/kata/576bb71bbbcf0951d5000044
+
+// function countPositivesSumNegatives(input) {
+//   console.log(input)
+//   let pos = 0
+//   let neg = 0
+  
+//   if ((input === null) || (input.length === 0)) return []
+
+//   input.forEach((num) => num >0 ? pos++ : neg+=num)
+//   return [pos,neg]
+// }
 
 // 3) END===============================================================
 
