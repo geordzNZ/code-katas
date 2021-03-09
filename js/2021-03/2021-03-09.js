@@ -7,15 +7,24 @@
 //   Updates to js file = comment = #X kata for 09/Mar/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Removing Elements
+// LINK:  https://www.codewars.com/kata/5769b3802ae6f8e4890009d2
+
+// const removeEveryOther = arr => arr.filter((cV, i) => i % 2 === 0)
 
 // 1) END===============================================================
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Count the Monkeys!
+// LINK:  https://www.codewars.com/kata/56f69d9f9400f508fb000ba7
+
+// v1
+// function monkeyCount(n) {
+//   let monkeys = []
+//   for (let i = 1; i<=n; i++) monkeys.push(i)
+//   return monkeys
+// }
 
 // 2) END===============================================================
 
