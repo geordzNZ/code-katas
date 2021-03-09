@@ -113,8 +113,17 @@
 
 
 // 8) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: How many days are we represented in a foreign country? (7 kyu)
+// LINK:  https://www.codewars.com/kata/58e93b4706db4d24ee000096
+
+// function daysRepresented(trips){
+//   let diC = []
+  
+//   for (let i=0; i < trips.length; i++) {
+//     for (let j=trips[i][0]; j<=trips[i][1];j++)  diC.push(j)
+//   }
+//   return diC.filter((cV, i, arr) => arr.indexOf(cV) === i).length
+// }
 
 // 8) END===============================================================
 
