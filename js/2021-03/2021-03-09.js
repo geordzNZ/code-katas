@@ -7,7 +7,11 @@
 //   Updates to js file = comment = #X kata for 09/Mar/2021
 
 // 1) START===============================================================
+<<<<<<< HEAD
 // TITLE: Removing Elements (8 kyu)
+=======
+// TITLE: Removing Elements
+>>>>>>> 90c737c64a7c0e351cc0ec1cde70980aca7aca8e
 // LINK:  https://www.codewars.com/kata/5769b3802ae6f8e4890009d2
 
 // const removeEveryOther = arr => arr.filter((cV, i) => i % 2 === 0)
