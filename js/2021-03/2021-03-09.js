@@ -91,6 +91,11 @@
 // TITLE: Duck Duck Goose
 // LINK:  https://www.codewars.com/kata/582e0e592029ea10530009ce
 
+// v1 - my answer
+// function duckDuckGoose(players, goose) {
+//   return players[(goose % players.length)-1 >= 0 ? (goose % players.length)-1 : players.length-1].name
+// }
+
 // 6) END===============================================================
 
 
