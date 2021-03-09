@@ -19,10 +19,22 @@
 // TITLE: Count the Monkeys!
 // LINK:  https://www.codewars.com/kata/56f69d9f9400f508fb000ba7
 
-// v1
+// v1 - for i
 // function monkeyCount(n) {
 //   let monkeys = []
 //   for (let i = 1; i<=n; i++) monkeys.push(i)
+//   return monkeys
+// }
+
+// v2 - while
+// function monkeyCount(n) {
+//   let monkeys = []
+//   let i = 1
+  
+//   while (i<=n) {
+//     monkeys.push(i)
+//     i++
+//   } 
 //   return monkeys
 // }
 
