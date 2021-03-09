@@ -146,6 +146,19 @@
 //   return maxN-minN
 // };
 
+// v2
+// function maxDiff(list) {
+//   if (list.length === 0) return 0
+  
+//   let maxN = list[0]
+//   let minN = list[0]
+  
+//   maxN = list.reduce((maxN, cV) => cV > maxN ? cV : maxN)
+//   minN = list.reduce((minN, cV) => cV < minN ? cV : minN)
+
+//   return maxN-minN
+// };
+
 // 9) END===============================================================
 
 // 10) START===============================================================
