@@ -24,8 +24,10 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Regular Ball Super Ball (8 kyu)
+// LINK:  https://www.codewars.com/kata/53f0f358b9cb376eca001079
+
+// var Ball = function(ballType = 'regular') { this.ballType = ballType };
 
 // 2) END===============================================================
 
