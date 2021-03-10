@@ -33,7 +33,7 @@
 
 
 // 3) START===============================================================
-// TITLE: Grasshopper - Messi Goals
+// TITLE: Grasshopper - Messi Goals (8 kyu)
 // LINK:  https://www.codewars.com/kata/55ca77fa094a2af31f00002a
 
 // var laLigaGoals = 43
@@ -47,7 +47,7 @@
 
 
 // 4) START===============================================================
-// TITLE: Function 1 - hello world
+// TITLE: Function 1 - hello world (8 kyu)
 // LINK:  https://www.codewars.com/kata/523b4ff7adca849afe000035
 
 // v1
@@ -59,7 +59,7 @@
 
 
 // 5) START===============================================================
-// TITLE: Remove First and Last Character
+// TITLE: Remove First and Last Character (8 kyu)
 // LINK:  https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0
 
 // const removeChar = str => str.substr(1,str.length-2)
@@ -68,7 +68,7 @@
 
 
 // 6) START===============================================================
-// TITLE: The 'if' function
+// TITLE: The 'if' function (8 kyu)
 // LINK:  https://www.codewars.com/kata/54147087d5c2ebe4f1000805
 
 //const _if = (bool, func1, func2) => bool ? func1() : func2()
@@ -77,8 +77,14 @@
 
 
 // 7) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Thinkful - Logic Drills: Traffic light (8 kyu)
+// LINK:  https://www.codewars.com/kata/58649884a1659ed6cb000072
+
+// function updateLight(current) {
+//   if (current === 'green') return 'yellow'
+//   if (current === 'yellow') return 'red'
+//   if (current === 'red') return 'green'
+// }
 
 // 7) END===============================================================
 
