@@ -68,8 +68,10 @@
 
 
 // 6) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: The 'if' function
+// LINK:  https://www.codewars.com/kata/54147087d5c2ebe4f1000805
+
+//const _if = (bool, func1, func2) => bool ? func1() : func2()
 
 // 6) END===============================================================
 
