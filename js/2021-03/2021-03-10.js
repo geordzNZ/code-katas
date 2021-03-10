@@ -90,8 +90,12 @@
 
 
 // 8) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Define a card suit (8 kyu)
+// LINK:  https://www.codewars.com/kata/5a360620f28b82a711000047
+
+// function defineSuit(card) {
+//   return card[card.length-1] === '♣' ? 'clubs' : card[card.length-1] === '♠' ? 'spades' : card[card.length-1] === '♦' ? 'diamonds' : 'hearts'
+// }
 
 // 8) END===============================================================
 
