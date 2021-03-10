@@ -47,8 +47,13 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Function 1 - hello world
+// LINK:  https://www.codewars.com/kata/523b4ff7adca849afe000035
+
+// v1
+// function greet(){
+//   return "hello world!"
+// }
 
 // 4) END===============================================================
 
