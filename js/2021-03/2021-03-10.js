@@ -7,8 +7,18 @@
 //   Updates to js file = comment = #X kata for 10/Mar/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Which are in? (6 kyu)
+// LINK:  https://www.codewars.com/kata/550554fd08b86f84fe000a58
+
+// function inArray(array1,array2){
+//   let results = []
+  
+//   for (let i=0; i<=array1.length-1;i++){
+//     let match = new RegExp (array1[i])
+//     if (array2.filter((v) => match.test(v)).length > 0 && array1[i]) results.push(array1[i])
+//   }
+//   return results.sort()
+// }
 
 // 1) END===============================================================
 
