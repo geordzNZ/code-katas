@@ -87,8 +87,10 @@
 
 
 // 7) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: You only need one - Beginner (8 kyu)
+// LINK:  https://www.codewars.com/kata/57cc975ed542d3148f00015b
+
+// const check = (a, x) => a.includes(x)
 
 // 7) END===============================================================
 
