@@ -7,8 +7,10 @@
 //   Updates to js file = comment = #X kata for 11/Mar/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: The most asked question on CodeWars (8 kyu)
+// LINK:  https://www.codewars.com/kata/5935ecef7705f9614500002d
+
+// const detect = comment => /^Can someone explain/.test(comment)
 
 // 1) END===============================================================
 
