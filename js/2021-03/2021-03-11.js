@@ -96,8 +96,15 @@
 
 
 // 8) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: All Star Code Challenge #18 (8 kyu)
+// LINK:  https://www.codewars.com/kata/5865918c6b569962950002a1
+
+// function strCount(str, letter){  
+//   let ctr = 0
+//   str.split('').forEach((c) => {if (c === letter) ctr++})
+  
+//   return ctr
+// }
 
 // 8) END===============================================================
 
