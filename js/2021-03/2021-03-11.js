@@ -78,10 +78,10 @@
 // TITLE: Abbreviate a Two Word Name (8 kyu)
 // LINK:  https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3
 
-function abbrevName(name){
-  let words = name.split(' ')
-  return words[0][0].toUpperCase() + '.' + words[1][0].toUpperCase()
-}
+// function abbrevName(name){
+//   let words = name.split(' ')
+//   return words[0][0].toUpperCase() + '.' + words[1][0].toUpperCase()
+// }
 
 // 6) END===============================================================
 
