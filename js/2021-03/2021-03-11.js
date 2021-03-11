@@ -57,8 +57,17 @@
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Holiday VIII - Duty Free (8 kyu)
+// LINK:  https://www.codewars.com/kata/57e92e91b63b6cbac20001e5
+
+// v1
+// function dutyFree(normPrice, discount, hol){
+//   let disc = (normPrice * discount)/100
+//   let dfP = normPrice - disc
+//   let dfQty = Math.floor(hol/disc)
+//   return dfQty
+  
+// }
 
 // 5) END===============================================================
 
