@@ -42,8 +42,16 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Find Multiples of a Number (8 kyu)
+// LINK:  https://www.codewars.com/kata/58ca658cc0d6401f2700045f
+
+// function findMultiples(integer, limit) {
+//   let results = []
+//   for (let i = integer; i<=limit;i+=integer){
+//     results.push(i)
+//   }
+//   return results
+// }
 
 // 4) END===============================================================
 
