@@ -66,8 +66,10 @@
 //   let dfP = normPrice - disc
 //   let dfQty = Math.floor(hol/disc)
 //   return dfQty
-  
 // }
+
+// v2
+// const dutyFree = (normPrice, discount, hol) => Math.floor(hol/((normPrice * discount)/100))
 
 // 5) END===============================================================
 
