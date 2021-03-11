@@ -16,8 +16,18 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Grasshopper - Function syntax debugging (8 kyu)
+// LINK:  https://www.codewars.com/kata/56dae9dc54c0acd29d00109a
+
+// fix this:
+// function main [verb, noun]
+//   return verb + noun
+// }
+
+// my answer:
+// function main (verb, noun){
+//   return verb + noun
+// }
 
 // 2) END===============================================================
 
