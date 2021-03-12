@@ -124,8 +124,19 @@
 
 
 // 7) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Free pizza (6 kyu)
+// LINK:  https://www.codewars.com/kata/595910299197d929a10005ae
+
+// function pizzaRewards(customers, minOrders, minPrice) {
+//   let result = []
+  
+//   for (cust in customers){
+//     if (customers[cust].filter((order) => order>=minPrice).length >= minOrders) { 
+//       result.push(cust) 
+//     }
+//   }
+//   return result
+// }
 
 // 7) END===============================================================
 
