@@ -21,7 +21,7 @@
 
 
 // 2) START===============================================================
-// TITLE: Largest 5 digit number in a series
+// TITLE: Largest 5 digit number in a series (7 kyu)
 // LINK:  https://www.codewars.com/kata/51675d17e0c1bed195000001
 
 // function solution(digits){
@@ -37,8 +37,12 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Reverse the bits in an integer
+// LINK:  https://www.codewars.com/kata/5959ec605595565f5c00002b/train/javascript
+
+// function reverseBits (n) {
+//   return parseInt(n.toString(2).split('').reverse().join(''),2)
+// }
 
 // 3) END===============================================================
 
