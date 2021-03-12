@@ -21,8 +21,17 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Largest 5 digit number in a series
+// LINK:  https://www.codewars.com/kata/51675d17e0c1bed195000001
+
+// function solution(digits){
+//   let maxN = 0
+  
+//   for (let i=0; i<=digits.length-5; i++){
+//     if(Number(digits.substring(i,i+5)) > maxN ) maxN = Number(digits.substring(i,i+5))
+//   }
+//   return maxN  
+// }
 
 // 2) END===============================================================
 
