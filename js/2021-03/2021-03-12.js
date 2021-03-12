@@ -103,15 +103,23 @@
 // LINK:  https://www.codewars.com/kata/577ff15ad648a14b780000e7
 
 
-// v1 - array of arrays [[lang,word],[etc,etc]]
+// v1 - array of arrays [[lang,word,etc,etc]]
 // function greet(language) {
-// 	let welcomes = [['english','Welcome'],['czech','Vitejte'],['danish','Velkomst'],['dutch','Welkom'],['estonian','Tere tulemast'],['finnish','Tervetuloa'],['flemish','Welgekomen'],['french','Bienvenue'],['german','Willkommen'],['irish','Failte'],['italian','Benvenuto'],['latvian','Gaidits'],['lithuanian','Laukiamas'],['polish','Witamy'],['spanish','Bienvenido'],['swedish','Valkommen'],['welsh','Croeso']]
+// 	let welcomes = [['english','Welcome','czech','Vitejte','danish','Velkomst','dutch','Welkom','estonian','Tere tulemast','finnish','Tervetuloa','flemish','Welgekomen','french','Bienvenue','german','Willkommen','irish','Failte','italian','Benvenuto','latvian','Gaidits','lithuanian','Laukiamas','polish','Witamy','spanish','Bienvenido','swedish','Valkommen','welsh','Croeso']]
 
 //   for (let i=0; i<=welcomes.length-1;i++){
 //     if (welcomes[i][0] === language) return welcomes[i][1]
 //   }
 //   return welcomes[0][1]
 // }
+
+// v2 - 1 array [lang,word,lang,word, etc]
+// function greet(language) {
+//   let welcomes = ['english','Welcome','czech','Vitejte','danish','Velkomst','dutch','Welkom','estonian','Tere tulemast','finnish','Tervetuloa','flemish','Welgekomen','french','Bienvenue','german','Willkommen','irish','Failte','italian','Benvenuto','latvian','Gaidits','lithuanian','Laukiamas','polish','Witamy','spanish','Bienvenido','swedish','Valkommen','welsh','Croeso']
+  
+//     return welcomes.includes(language) ? welcomes[welcomes.indexOf(language)+1] : welcomes[1]
+//   }
+
 // 6) END===============================================================
 
 
@@ -140,4 +148,3 @@
 // LINK:  
 
 // 10) END===============================================================
-
