@@ -4,12 +4,18 @@
 //   Kyu = 4
 //   Clan = 14
 // Comments:
-//   New JS file = --Create code kata js file for 12/Mar/2021
 //   Updates to js file = comment = #X kata for 12/Mar/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Sum of Cubes (7 kyu)
+// LINK:  https://www.codewars.com/kata/59a8570b570190d313000037
+
+// function sumCubes(n){
+//   let total = 0
+  
+//   for (i=1;i<=n;i++) total+=Math.pow(i,3)
+//   return total
+// }
 
 // 1) END===============================================================
 
