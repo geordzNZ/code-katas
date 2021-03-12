@@ -48,8 +48,41 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Follow that Spy
+// LINK:  https://www.codewars.com/kata/5899a4b1a6648906fe000113
+
+// function findRoutes(routes) {
+//   let itinerary = []
+//   let ctrItin = 1
+
+//   //find starting 2 locations
+//     for (let i=0; i<=routes.length-1; i++){
+//       let ctr=0
+//       for (let j=1; j<=routes.length-1; j++){
+//         if (routes[i][0] === routes[j][1]) {
+//           ctr++
+//           j=routes.length-1
+//         }
+//       }
+//       if (ctr === 0){
+//         itinerary.push(routes[i][0])
+//         itinerary.push(routes[i][1])
+//         routes.splice(i,1)
+//         i=routes.length-1
+//       }
+//     }
+
+//  //find rest of locations
+//   for (let i=0; i<=routes.length-1; i++){
+//     if (itinerary[ctrItin] === routes[i][0]){
+//       itinerary.push(routes[i][1])
+//       routes.splice(i,1)
+//       ctrItin++
+//       i=-1
+//     }
+//   }
+//   return itinerary.join(', ')
+// }
 
 // 4) END===============================================================
 
