@@ -130,8 +130,10 @@
 
 
 // 6) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: No Loops 2 - You only need one
+// LINK:  https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce
+
+// let check = (a,x) => a.includes(x)
 
 // 6) END===============================================================
 
