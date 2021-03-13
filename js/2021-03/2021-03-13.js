@@ -74,6 +74,13 @@
 //   }
 // }
 
+// v2 - smaller better version from someone else
+// class Labrador extends Dog {
+//   constructor(name, age, gender, master) {
+//     super(name, age, gender, "Labrador", "Large", master, true);
+//   }
+// }
+
 // 4) END===============================================================
 
 
