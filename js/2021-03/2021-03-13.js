@@ -16,15 +16,29 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: SpeedCode #1 - Getters and Setters in Object Literals
+// LINK:  https://www.codewars.com/kata/56fe9dbb69510b2ff8000fb3
+
+// let person = {
+//   firstName : 'Jane',
+//   lastName : 'Doe',
+  
+//   get fullName(){
+//     return `${this.firstName} ${this.lastName}`
+//   },
+  
+//   set fullName(name){
+//     this.firstName = name.split(' ')[0]
+//     this.lastName = name.split(' ')[1]
+//   }
+// }
 
 // 2) END===============================================================
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: SpeedCode #2 - Array Madness
+// LINK:  https://www.codewars.com/kata/56ff6a70e1a63ccdfa0001b1
 
 // 3) END===============================================================
 
