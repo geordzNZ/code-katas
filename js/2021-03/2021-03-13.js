@@ -7,8 +7,10 @@
 //   Updates to js file = comment = #X kata for 13/Mar/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Sum Mixed Array
+// LINK:  https://www.codewars.com/kata/57eaeb9578748ff92a000009
+
+// let sumMix = x => x.reduce((t, v) => t+=parseInt(v),0)
 
 // 1) END===============================================================
 
