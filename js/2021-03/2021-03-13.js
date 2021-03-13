@@ -7,7 +7,7 @@
 //   Updates to js file = comment = #X kata for 13/Mar/2021
 
 // 1) START===============================================================
-// TITLE: Sum Mixed Array
+// TITLE: Sum Mixed Array (8 kyu)
 // LINK:  https://www.codewars.com/kata/57eaeb9578748ff92a000009
 
 // let sumMix = x => x.reduce((t, v) => t+=parseInt(v),0)
@@ -16,7 +16,7 @@
 
 
 // 2) START===============================================================
-// TITLE: SpeedCode #1 - Getters and Setters in Object Literals
+// TITLE: SpeedCode #1 - Getters and Setters in Object Literals (8 kyu)
 // LINK:  https://www.codewars.com/kata/56fe9dbb69510b2ff8000fb3
 
 // let person = {
@@ -37,7 +37,7 @@
 
 
 // 3) START===============================================================
-// TITLE: SpeedCode #2 - Array Madness
+// TITLE: SpeedCode #2 - Array Madness (8 kyu)
 // LINK:  https://www.codewars.com/kata/56ff6a70e1a63ccdfa0001b1
 
 // let arrayMadness = (a, b) => a.reduce((tot, num) => tot+= num**2,0) > b.reduce((tot, num) => tot+= num**3,0)
