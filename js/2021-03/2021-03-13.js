@@ -110,6 +110,22 @@
 //   }
 // }
 
+
+// v2 - someone elses answer
+// function person(fname, lname, age, g, emp, occ, mar) {
+//   return {
+//      firstName: fname,
+//       lastName: lname,
+//            age: age,
+//         gender: g,
+//       employed: emp,
+//     occupation: occ,
+//        married: mar,
+//        sayName: () => `${fname} ${lname}`,
+//      introduce: () => `Hello, my name is ${fname} ${lname}.  I am ${age} years old.  I am a ${g}.`
+//   }
+// }
+
 // 5) END===============================================================
 
 
