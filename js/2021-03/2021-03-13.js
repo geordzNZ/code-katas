@@ -85,8 +85,30 @@
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Factory Functions #1 - Creating profile for people (7 kyu)
+// LINK:  https://www.codewars.com/kata/56fd46bcc5957c83ea001023
+
+// v1 - apparently not workiing, but not sure why
+// function person(fN, lastName, age, gender, employed, occupation, married) {
+//   console.log(fN+' '+lastName+' '+age+' '+gender+' '+employed+' '+occupation+' '+married)
+//   let persons = {
+//     constructor(fN, lastName, age, gender, employed, occupation, married){
+//       this.firsxxxtName = fN
+//       this.lastName = lastName
+//       this.age = age
+//       this.gender = gender
+//       this.employed = employed
+//       this.occupation = occupation
+//       this.married = married
+//     }
+// //     sayName(){
+// //       return `${firstName} ${lastName}`
+// //     },
+// //     introduce(){
+// //       return  `Hello, my name is ${firstName} ${lastName}.  I am ${age} years old.  I am a ${gender}.`
+// //     }
+//   }
+// }
 
 // 5) END===============================================================
 
