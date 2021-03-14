@@ -16,8 +16,17 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Number-Star ladder (7 kyu)
+// LINK:  https://www.codewars.com/kata/5631213916d70a0979000066
+
+// function pattern(n){
+//   var output=[]
+  
+//   output.push(1)
+//   for (let i=1; i<n; i++) { output.push(`1${'*'.repeat(i)}${i+1}`) }
+  
+//   return output.join('\n')
+// }
 
 // 2) END===============================================================
 
