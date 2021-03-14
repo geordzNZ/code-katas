@@ -122,7 +122,22 @@
 // 9) END===============================================================
 
 // 10) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Alphabet war
+// LINK:  https://www.codewars.com/kata/59377c53e66267c8f6000027
+
+// v1
+// function alphabetWar(fight) {
+//   let lTot = 0
+//   let rTot = 0
+  
+//   fight.split('').forEach((c) => {
+//     if (c === 'w' || c === 'p' || c === 'b' ||c === 's'){
+//       lTot+= c === 'w' ? 4 :  c === 'p' ? 3 : c === 'b' ? 2 : 1
+//     } else if (c === 'm' || c === 'q' || c === 'd' ||c === 'z'){
+//       rTot+= c === 'm' ? 4 :  c === 'q' ? 3 : c === 'd' ? 2 : 1
+//     }
+//   })
+//   return lTot > rTot ? 'Left side wins!' : lTot < rTot ? 'Right side wins!' : 'Let\'s fight again!'
+// }
 
 // 10) END===============================================================
