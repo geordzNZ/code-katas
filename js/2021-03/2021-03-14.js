@@ -105,8 +105,10 @@
 
 
 // 8) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Char Code Calculation
+// LINK:  https://www.codewars.com/kata/57f75cc397d62fc93d000059
+
+// const calc = x => x.split('').map((cV) => cV.charCodeAt(0)).join('').split('').filter((cV) => cV === '7').length*6
 
 // 8) END===============================================================
 
