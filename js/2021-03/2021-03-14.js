@@ -71,7 +71,18 @@
 // TITLE: Make A Window (6 kyu)
 // LINK:  https://www.codewars.com/kata/59c03f175fb13337df00002e
 
+// function makeAWindow(num) {
+//   let window = []
+//   window.push(`${'-'.repeat(num*2+3)}\n`)
+  
+//   for (let pane = 1; pane<=2;pane++){
+//     for (let row = 1; row<=num;row++){ window.push(`|${'.'.repeat(num)}|${'.'.repeat(num)}|\n`) }
+//     if ( pane===1 ){ window.push(`|${'-'.repeat(num)}+${'-'.repeat(num)}|\n`) }
+//   }
+//   window.push(`${'-'.repeat((num*2)+3)}`)
 
+//   return window.join('')
+// }
 
 // 6) END===============================================================
 
