@@ -32,8 +32,10 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Get decimal part of the given number (7 kyu)
+// LINK:  https://www.codewars.com/kata/586e4c61aa0428f04e000069
+
+// let getDecimal = n => Math.abs(n - Math.trunc(n))
 
 // 3) END===============================================================
 
