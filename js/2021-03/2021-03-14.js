@@ -114,8 +114,10 @@
 
 
 // 9) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Vowel Count
+// LINK:  https://www.codewars.com/kata/54ff3102c1bad923760001f3
+
+// const getCount = str => str.replace(/[^aeiou]/g,'').length
 
 // 9) END===============================================================
 
