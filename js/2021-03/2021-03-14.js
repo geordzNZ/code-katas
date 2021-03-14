@@ -140,4 +140,19 @@
 //   return lTot > rTot ? 'Left side wins!' : lTot < rTot ? 'Right side wins!' : 'Let\'s fight again!'
 // }
 
+// v2
+// function alphabetWar(fight) {
+//   let lTot = 0
+//   let rTot = 0
+  
+//   fight.split('').forEach((c) => {
+//     if (/[wpbs]/.test(c)){
+//       lTot+= c === 'w' ? 4 :  c === 'p' ? 3 : c === 'b' ? 2 : 1
+//     } else if (/[mqdz]/.test(c)){
+//       rTot+= c === 'm' ? 4 :  c === 'q' ? 3 : c === 'd' ? 2 : 1
+//     }
+//   })
+//   return lTot > rTot ? 'Left side wins!' : lTot < rTot ? 'Right side wins!' : 'Let\'s fight again!'
+// }
+
 // 10) END===============================================================
