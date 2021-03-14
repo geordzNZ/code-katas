@@ -41,8 +41,17 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: SpeedCode #4 × Factory Functions #3 - Artefacts (7 kyu)
+// LINK:  https://www.codewars.com/kata/5701bdd564730378ac000b88
+
+// function artefact(name, age, location, status) {
+//   return Object.freeze({
+//     name: name,
+//     age: age,
+//     location: location,
+//     status: status,
+//   })
+// }
 
 // 4) END===============================================================
 
