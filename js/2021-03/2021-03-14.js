@@ -7,8 +7,10 @@
 //   Updates to js file = comment = #X kata for 14/Mar/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Number of Decimal Digits (7 kyu)
+// LINK:  https://www.codewars.com/kata/58fa273ca6d84c158e000052
+
+// let digits = n => n.toString().split('').length
 
 // 1) END===============================================================
 
