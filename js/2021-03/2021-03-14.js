@@ -57,8 +57,12 @@
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Sum - Square Even, Root Odd (7 kyu)
+// LINK:  https://www.codewars.com/kata/5a4b16435f08299c7000274f
+
+// const sumSquareEvenRootOdd = ns => {
+//   return +ns.reduce((tot, n) => n%2===0 ? tot+=n**2 : tot+=Math.sqrt(n) ,0).toFixed(2)
+// };
 
 // 5) END===============================================================
 
