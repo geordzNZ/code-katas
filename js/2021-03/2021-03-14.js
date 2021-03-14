@@ -2,7 +2,7 @@
 // Rankings at start of the day:
 //   Merit = 785
 //   Kyu = 4
-//   Clan = XX
+//   Clan = 14
 // Comments:
 //   Updates to js file = comment = #X kata for 14/Mar/2021
 
