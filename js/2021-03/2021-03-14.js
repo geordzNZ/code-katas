@@ -88,8 +88,18 @@
 
 
 // 7) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Lost number in number sequence
+// LINK:  https://www.codewars.com/kata/595aa94353e43a8746000120
+
+// function findDeletedNumber(arr, mixArr) {
+//   if (arr.length === mixArr.length) { 
+//     return 0
+//   } else {
+//     for (i=0;i<=arr.length-1;i++) { 
+//       if(arr[i] != mixArr.sort((a,b) => a-b)[i]) return arr[i] 
+//     }
+//   }
+// }
 
 // 7) END===============================================================
 
