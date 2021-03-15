@@ -92,6 +92,8 @@
 //   }).join(' ')
 // }
 
+// v3
+// let pigLatin = phrase => phrase.split(' ').map((w) => { return (w.substring(1)+w[0]+'ay').toLowerCase() }).join(' ')
 // 5) END===============================================================
 
 
