@@ -35,8 +35,12 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Simple Sentences (6 kyu)
+// LINK:  https://www.codewars.com/kata/5297bf69649be865e6000922
+
+// function makeSentence(parts) {
+//   return parts.join(' ').replace(/\s\./g,'').replace(/\s,/g,',')+'.'
+// }
 
 // 3) END===============================================================
 
