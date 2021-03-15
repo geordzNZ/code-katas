@@ -7,8 +7,12 @@
 //   Updates to js file = comment = #X kata for 15/Mar/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Holiday III - Fire on the boat (7 kyu)
+// LINK:  https://www.codewars.com/kata/57e8fba2f11c647abc000944
+
+// function fireFight(s){
+//   return /fire/gi.test(s) ? s.replace(/fire/ig,'~~') : s
+// }
 
 // 1) END===============================================================
 
