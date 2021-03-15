@@ -105,8 +105,27 @@
 
 
 // 7) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Pairs of Bears
+// LINK:  https://www.codewars.com/kata/57d165ad95497ea150000020
+
+// function bears(x, s){
+//   let pairedUp = ''
+
+//   for (let i=0; i<=s.length; i++){
+//     if (s[i]==='B'){
+//       if (s[i+1]==='8') { 
+//         pairedUp = pairedUp + 'B8'
+//         i++
+//       }
+//     } else if (s[i]==='8'){
+//       if (s[i+1]==='B') { 
+//         pairedUp = pairedUp + '8B'
+//         i++
+//       }
+//     }
+//   }
+//   return [pairedUp,(pairedUp.length/2)>=x]
+// }
 
 // 7) END===============================================================
 
