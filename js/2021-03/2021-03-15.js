@@ -131,8 +131,12 @@
 
 
 // 8) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Merge two sorted arrays into one * kyu
+// LINK:  https://www.codewars.com/kata/5899642f6e1b25935d000161
+
+// function mergeArrays(arr1, arr2) {
+//   return arr1.concat(arr2).sort((a,b) => a-b).filter(function(item, pos, arr) { return arr.indexOf(item) == pos })
+// }
 
 // 8) END===============================================================
 
