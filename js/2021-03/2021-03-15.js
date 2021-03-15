@@ -18,9 +18,19 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Holiday II - Plane Seating (& kyu)
+// LINK:  https://www.codewars.com/kata/57e8f757085f7c7d6300009a
 
+// function planeSeat(a){
+//   let row  = parseInt(a)
+//   let seat = a[a.length-1]
+  
+//   if (/[IJ]/i.test(seat) || row > 60) {
+//     return 'No Seat!!'
+//   } else {
+//     return `${row<=20 ? 'Front' : row<=40 ? 'Middle' : 'Back'}-${seat<='C' ? 'Left' : seat<='F' ? 'Middle' : 'Right'}`
+//   }
+// }
 // 2) END===============================================================
 
 
