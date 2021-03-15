@@ -68,8 +68,21 @@
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Pig Latin Converter (7 kyu)
+// LINK:  https://www.codewars.com/kata/57fe90ae08d102a2ba0011e6
+
+// v1
+// function pigLatin(phrase){
+//   console.log(phrase)
+//   let splitPhrase = phrase.split(' ')
+  
+//   for (i=0; i<splitPhrase.length;i++){
+//     console.log(splitPhrase[i])
+//     splitPhrase[i] = splitPhrase[i].substring(1)+splitPhrase[i][0]+'ay'
+//     console.log(splitPhrase[i])
+//   }
+//   return splitPhrase.join(' ').toLowerCase()
+// }
 
 // 5) END===============================================================
 
