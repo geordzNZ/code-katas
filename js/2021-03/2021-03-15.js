@@ -46,8 +46,23 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Consecutive Count (6 kyu)
+// LINK:  https://www.codewars.com/kata/59c3e819d751df54e9000098
+
+// function getConsectiveItems(items, key){
+//   let splitItems = String(items).split('')
+//   let ctr = 0
+//   let maxKey = 0
+ 
+//   for (let i=0; i<splitItems.length; i++){
+//     if (key == splitItems[i]) {
+//       ctr++
+//       if (ctr > maxKey){ maxKey = ctr }
+//     }
+//     else { ctr = 0 }
+//   }
+//   return maxKey
+// }
 
 // 4) END===============================================================
 
