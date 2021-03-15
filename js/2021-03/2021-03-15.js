@@ -84,6 +84,14 @@
 //   return splitPhrase.join(' ').toLowerCase()
 // }
 
+// v2
+// function pigLatin(phrase){
+//   return phrase.split(' ').map((w) => {
+//     console.log('  '+w)
+//     return (w.substring(1)+w[0]+'ay').toLowerCase()
+//   }).join(' ')
+// }
+
 // 5) END===============================================================
 
 
