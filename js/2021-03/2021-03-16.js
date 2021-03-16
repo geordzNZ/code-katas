@@ -119,6 +119,9 @@
 //   return a.length > b.length ? b+a+b : a+b+a
 // }
 
+// v3
+// let solution = (a, b) => a.length > b.length ? b+a+b : a+b+a
+
 // 7) END===============================================================
 
 
