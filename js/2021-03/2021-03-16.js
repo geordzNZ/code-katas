@@ -105,8 +105,14 @@
 
 
 // 7) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Short Long Short (8 kyu)
+// LINK:  https://www.codewars.com/kata/50654ddff44f800200000007
+
+// v1
+// function solution(a, b){
+//   if (a.length > b.length) { return b+a+b }
+//   else { return a+b+a }
+// }
 
 // 7) END===============================================================
 
