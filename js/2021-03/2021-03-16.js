@@ -114,6 +114,11 @@
 //   else { return a+b+a }
 // }
 
+// v2
+// function solution(a, b){
+//   return a.length > b.length ? b+a+b : a+b+a
+// }
+
 // 7) END===============================================================
 
 
