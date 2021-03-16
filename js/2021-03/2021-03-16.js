@@ -45,8 +45,19 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Monkey Talk (6 kyu)
+// LINK:  https://www.codewars.com/kata/59f897ecc374cb9ed90000c2
+
+// function monkeyTalk(phrase){
+//   let splitPhrase = phrase.split(' ')
+//   let msg = []
+  
+//   for (let i=0;i<=splitPhrase.length-1;i++){
+//     if (/[aeiou]/i.test(splitPhrase[i][0])) { msg.push(i===0 ? 'Eek' : 'eek') } 
+//     else { msg.push(i===0 ? 'Ook' : 'ook') }
+//   }
+//   return msg.join(' ')+'.'
+// }
 
 // 3) END===============================================================
 
