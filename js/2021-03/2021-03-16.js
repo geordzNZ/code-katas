@@ -63,8 +63,11 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: By 3, or not by 3? That is the question . . . (7 kyu)
+// LINK:  https://www.codewars.com/kata/59f7fc109f0e86d705000043
+
+// v1
+// let divisibleByThree = str => str.split('').reduce((t,v) => t+=parseInt(v),0) % 3 === 0
 
 // 4) END===============================================================
 
