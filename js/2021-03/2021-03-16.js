@@ -89,6 +89,9 @@
 //   return pts
 // }
 
+// v2 -- better answer (someone elses)
+//const points = games => games.reduce((sum, [x, , y]) => sum + (x > y ? 3 : x == y), 0)
+
 // 5) END===============================================================
 
 
