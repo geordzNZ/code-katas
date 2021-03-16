@@ -76,8 +76,18 @@
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Total amount of points (8 kyu)
+// LINK:  https://www.codewars.com/kata/5bb904724c47249b10000131
+
+// v1
+// function points(games) {
+//   let pts = 0
+//   for (let i=0;i<=games.length-1;i++){
+//     if (games[i][0]>games[i][2]) { pts+=3 }
+//     else if (games[i][0]===games[i][2]) { pts+=1 }
+//   }
+//   return pts
+// }
 
 // 5) END===============================================================
 
