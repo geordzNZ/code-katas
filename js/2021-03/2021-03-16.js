@@ -7,8 +7,21 @@
 //   Updates to js file = comment = #X kata for 13/Mar/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Replace all items (7 kyu)
+// LINK:  https://www.codewars.com/kata/57ae18c6e298a7a6d5000c7a
+
+// function replaceAll(seq, find, replace) {
+//   console.log(seq)
+//   console.log(typeof seq )
+//   if (seq.length === 0) return []
+  
+  
+//   if (typeof seq === 'string'){
+//     return seq.split('').map((v) => v === find ? v = replace : v = v).join('')
+//   } else {
+//     return seq.map((v) => v === find ? v = replace : v = v)
+//   }
+// }
 
 // 1) END===============================================================
 
