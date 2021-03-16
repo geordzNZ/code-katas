@@ -27,8 +27,19 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Apparently-Modifying Strings (7 kyu)
+// LINK:  https://www.codewars.com/kata/5b049d57de4c7f6a6c0001d7
+
+// function apparently(string) {
+//   let newStr = string.split(' ')
+  
+//   for (let i = 0; i<=newStr.length-1;i++){
+//     if (newStr[i] === 'but' || newStr[i] === 'and') {
+//       if (newStr[i+1] != 'apparently'){ newStr.splice(i+1,0,'apparently') }
+//     }
+//   }
+//   return newStr.join(' ')
+// }
 
 // 2) END===============================================================
 
