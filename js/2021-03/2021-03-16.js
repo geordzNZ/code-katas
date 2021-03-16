@@ -67,7 +67,10 @@
 // LINK:  https://www.codewars.com/kata/59f7fc109f0e86d705000043
 
 // v1
-// let divisibleByThree = str => str.split('').reduce((t,v) => t+=parseInt(v),0) % 3 === 0
+// let divisibleByThree = str => str.split('').reduce((t,v) => t+=parseInt(v),0)%3===0
+
+// v2
+// let divisibleByThree = str => [...str].reduce((t,v) => t+=parseInt(v),0)%3===0
 
 // 4) END===============================================================
 
