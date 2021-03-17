@@ -67,6 +67,9 @@
 // TITLE: Convert number to reversed array of digits (8 kyu)
 // LINK:  https://www.codewars.com/kata/5583090cbe83f4fd8c000051
 
+// function digitize(n) {
+//   return String(n).split('').reverse().map((v) => { return v*1})
+// }
 
 // 4) END===============================================================
 
