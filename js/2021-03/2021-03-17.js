@@ -64,8 +64,8 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Convert number to reversed array of digits (8 kyu)
+// LINK:  https://www.codewars.com/kata/5583090cbe83f4fd8c000051
 
 
 // 4) END===============================================================
