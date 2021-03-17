@@ -75,8 +75,10 @@
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Even or Odd (8 kyu)
+// LINK:  https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/javascript
+
+
 
 // 5) END===============================================================
 
