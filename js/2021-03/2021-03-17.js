@@ -64,8 +64,9 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Coding Meetup #2 - Higher-Order Functions Series - Greet developers (7 kyu)
+// LINK:  https://www.codewars.com/kata/coding-meetup-number-2-higher-order-functions-series-greet-developers
+
 
 // 4) END===============================================================
 
