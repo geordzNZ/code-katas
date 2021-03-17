@@ -27,7 +27,17 @@
 // TITLE: All unique (7 kyu)
 // LINK:  https://www.codewars.com/kata/553e8b195b853c6db4000048
 
-
+// v1
+// function hasUniqueChars(str){
+//   let splitStr = str.split('')
+  
+//   for (let i=0;i<=splitStr.length-2;i++){
+//     for (let j=i+1;j<=splitStr.length-1;j++){
+//       if (splitStr[i] === splitStr[j]) { return false }
+//     }
+//   }
+//   return true
+// }
 
 // 2) END===============================================================
 
