@@ -39,6 +39,16 @@
 //   return true
 // }
 
+// v2 - someone elses better answer
+// function hasUniqueChars(str){
+//   return str.split('').every(function(v, i, arr){
+//     return arr.indexOf(v) == i;
+//   });
+// }
+
+// or 
+// let hasUniqueChars = (str) => new Set(str).size === str.length;
+
 // 2) END===============================================================
 
 
