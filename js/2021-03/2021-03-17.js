@@ -7,8 +7,18 @@
 //   Updates to js file = comment = #X kata for 17/Mar/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: No zeros for heros (8 kyu)
+// LINK:  https://www.codewars.com/kata/570a6a46455d08ff8d001002
+
+// function noBoringZeros(n) {
+//   if (n===0) { return 0 }
+//   let splitN = String(n).split('')
+  
+//   for (let i=splitN.length-1; i>=0; i--){
+//     if (splitN[i]==='0') { splitN.pop() }
+//     else { return Number(splitN.join('')) }
+//   }
+// }
 
 // 1) END===============================================================
 
