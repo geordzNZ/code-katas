@@ -53,8 +53,12 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Coding Meetup #1 - Higher-Order Functions Series - Count the number of JavaScript developers coming from Europe (7 kyu)
+// LINK:  https://www.codewars.com/kata/582746fa14b3892727000c4f
+
+// function countDevelopers(list) {
+//   return list.filter((p) => (p.language==='JavaScript' && p.continent==='Europe')).length
+// }
 
 // 3) END===============================================================
 
