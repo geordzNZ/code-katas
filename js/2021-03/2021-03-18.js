@@ -23,8 +23,12 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Coding Meetup #3 - Higher-Order Functions Series - Is Ruby coming? (7 kyu)
+// LINK:  https://www.codewars.com/kata/coding-meetup-number-3-higher-order-functions-series-is-ruby-coming
+
+// function isRubyComing(list) {
+//   return list.filter((dev) => dev.language==='Ruby').length>0 ? true : false
+// }
 
 // 2) END===============================================================
 
