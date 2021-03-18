@@ -146,15 +146,21 @@
 //   }
     
 //   return list.filter((dev) => dev.age===age)
-  
 // }
 
 // 6) END===============================================================
 
 
 // 7) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Coding Meetup #8 - Higher-Order Functions Series - Will all continents be represented? (7 kyu)
+// LINK:  https://www.codewars.com/kata/58291fea7ff3f640980000f9/
+
+// function allContinents(list) {
+//   let continents = new Set()
+//   list.forEach((dev) => continents.add(dev.continent))
+    
+//   return continents.size===5
+// }
 
 // 7) END===============================================================
 
