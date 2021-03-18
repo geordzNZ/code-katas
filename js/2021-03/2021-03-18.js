@@ -37,12 +37,12 @@
 // TITLE: Coding Meetup #4 - Higher-Order Functions Series - Find the first Python developer (7 kyu)
 // LINK:  https://www.codewars.com/kata/coding-meetup-number-4-higher-order-functions-series-find-the-first-python-developer
 
-function getFirstPython(list) {
-  for (dev of list){
-    if (dev.language==='Python') {return `${dev.firstName}, ${dev.country}`}
-  }
-  return `There will be no Python developers`
-}
+// function getFirstPython(list) {
+//   for (dev of list){
+//     if (dev.language==='Python') {return `${dev.firstName}, ${dev.country}`}
+//   }
+//   return `There will be no Python developers`
+// }
 
 // 3) END===============================================================
 
