@@ -105,6 +105,17 @@
   
 //   return langs
 // }
+
+// v2 - shorter prettier, and what I wanted to do at the start, but didnt know how
+// function countLanguages(list) {
+//   let langs = {}
+  
+//   for (dev of list){
+//     langs[dev.language] ? langs[dev.language]++ : langs[dev.language] = 1
+//   }
+//   return langs
+// }
+
 // 4) END===============================================================
 
 
