@@ -27,7 +27,7 @@
 // LINK:  https://www.codewars.com/kata/coding-meetup-number-3-higher-order-functions-series-is-ruby-coming
 
 // function isRubyComing(list) {
-//   return list.filter((dev) => dev.language==='Ruby').length>0 ? true : false
+//   return list.filter((dev) => dev.language==='Ruby').length>0
 // }
 
 // 2) END===============================================================
