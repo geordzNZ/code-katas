@@ -162,6 +162,8 @@
 //   return continents.size===5
 // }
 
+// v2 or this
+// const allContinents = arr => new Set(arr.map(dev => dev.continent)).size === 5;
 // 7) END===============================================================
 
 
