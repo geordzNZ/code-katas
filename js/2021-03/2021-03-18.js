@@ -7,8 +7,17 @@
 //   Updates to js file = comment = #X kata for 18/Mar/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Coding Meetup #2 - Higher-Order Functions Series - Greet developers (7 kyu)
+// LINK:  https://www.codewars.com/kata/58279e13c983ca4a2a00002a
+
+// function greetDevelopers(list) {
+//   let greetings = list.map((p) => { return `Hi ${p.firstName}, what do you like the most about ${p.language}?`})
+  
+//   for (let i=0;i<=list.length-1;i++){
+//     list[i].greeting = greetings[i]
+//   }
+//   return list
+// }
 
 // 1) END===============================================================
 
