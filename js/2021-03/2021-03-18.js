@@ -120,8 +120,16 @@
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Coding Meetup #6 - Higher-Order Functions Series - Can they code in the same language? (7 kyu)
+// LINK:  https://www.codewars.com/kata/coding-meetup-number-6-higher-order-functions-series-can-they-code-in-the-same-language
+
+// function isSameLanguage(list) {
+//   let lang = new Set()
+//   list.forEach((dev) => lang.add(dev.language))
+  
+//   return lang.size===1
+
+// }
 
 // 5) END===============================================================
 
