@@ -135,8 +135,19 @@
 
 
 // 6) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Coding Meetup #7 - Higher-Order Functions Series - Find the most senior developer (7 kyu)
+// LINK:  https://www.codewars.com/kata/coding-meetup-number-7-higher-order-functions-series-find-the-most-senior-developer
+
+// function findSenior(list) {
+//   let age = 0
+  
+//   for (dev of list){
+//     if (dev.age > age) { age = dev.age}
+//   }
+    
+//   return list.filter((dev) => dev.age===age)
+  
+// }
 
 // 6) END===============================================================
 
