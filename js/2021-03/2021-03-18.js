@@ -48,9 +48,63 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Coding Meetup #5 - Higher-Order Functions Series - Prepare the count of languages (7 kyu)
+// LINK:  https://www.codewars.com/kata/coding-meetup-number-5-higher-order-functions-series-prepare-the-count-of-languages
 
+// v1 - My way, that long ugly way
+// function countLanguages(list) {
+//   let langC = 0
+//   let langJS = 0
+//   let langRuby = 0
+//   let langClojure = 0
+//   let langPython = 0
+//   let langJava = 0
+//   let langPHP = 0
+//   let langs = {}
+  
+//   for (dev of list){
+//     switch (dev.language){
+//       case 'C':{
+//         langC ++
+//         break;
+//       }
+//       case 'JavaScript':{
+//         langJS ++
+//         break;
+//       }
+//       case 'Ruby':{
+//         langRuby ++
+//         break;
+//       }
+//       case 'Clojure':{
+//         langClojure ++
+//         break;
+//       }
+//       case 'Python':{
+//         langPython ++
+//         break;
+//       }
+//       case 'Java':{
+//         langJava ++
+//         break;
+//       }
+//       case 'PHP':
+//         langPHP ++ 
+//         break;
+//     }
+    
+//   }
+//   //console.log(`${langC} / ${langJS} / ${langRuby} / ${langClojure} / ${langPython}`)
+//   if (langC>0) { langs.C = langC };
+//   if (langClojure>0) { langs.Clojure = langClojure }; 
+//   if (langJava>0) { langs.Java = langJava };
+//   if (langJS>0) { langs.JavaScript = langJS };
+//   if (langPHP>0) { langs.PHP = langPHP };
+//   if (langPython>0) { langs.Python = langPython };  
+//   if (langRuby>0) { langs.Ruby = langRuby };
+  
+//   return langs
+// }
 // 4) END===============================================================
 
 
