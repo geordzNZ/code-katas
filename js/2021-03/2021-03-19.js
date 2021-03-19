@@ -28,6 +28,9 @@
 //   return items
 // }
 
+// v2 - someone else answer
+// inverseSlice=(a,b,c)=>a.slice(0,b).concat(a.slice(c))
+
 // 2) END===============================================================
 
 
