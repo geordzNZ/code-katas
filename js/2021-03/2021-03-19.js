@@ -18,8 +18,15 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Thinkful - List and Loop Drills: Inverse Slicer (7 kyu)
+// LINK:  https://www.codewars.com/kata/586ec0b8d098206cce001141
+
+// v1
+// function inverseSlice(items, a, b) {
+
+//   for (let i=b-1; i>=a; i--){ items.splice(i,1) }
+//   return items
+// }
 
 // 2) END===============================================================
 
