@@ -55,8 +55,15 @@
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: "this" is a problem (8 kyu)
+// LINK:  https://www.codewars.com/kata/547c71fdc5b2b38db1000098
+
+// fix this
+// function NameMe(first, last) {
+//   this.firstName = first;
+//   this.lastName = last;
+//   return {name: this.firstName + ' ' + this.lastName};
+// }
 
 // 5) END===============================================================
 
