@@ -100,8 +100,17 @@
 
 
 // 8) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: String Breakers (6 kyu)
+// LINK:  https://www.codewars.com/kata/59d398bb86a6fdf100000031
+
+// function stringBreakers(n, string){
+//   let newStr = string.replace(/ /g,'')
+//   let output = []
+  
+//   for (let i=0;i<=newStr.length-1;i+=n){ output.push(newStr.substring(i,i+n)) }
+  
+//   return output.join(`\n`)
+// }
 
 // 8) END===============================================================
 
