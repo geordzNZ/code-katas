@@ -7,8 +7,12 @@
 //   Updates to js file = comment = #X kata for 19/Mar/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Strange mathematics (7 kyu)
+// LINK:  https://www.codewars.com/kata/604517d65b464d000d51381f
+
+// function strangeMath(n, k){
+//   return  Array.from({length: n}, (_, i) => i + 1).sort().indexOf(k)+1
+// }
 
 // 1) END===============================================================
 
