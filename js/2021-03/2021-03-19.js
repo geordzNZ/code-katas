@@ -76,8 +76,12 @@
 
 
 // 6) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Is it a vowel on this position? (7 kyu)
+// LINK:  https://www.codewars.com/kata/5a2b7edcb6486a856e00005b
+
+// function checkVowel(string, position) {
+//   return position>=0 && position<string.length ? /[AEIOUaeiou]/.test(string[position]) : false
+// };
 
 // 6) END===============================================================
 
