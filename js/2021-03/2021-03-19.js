@@ -65,6 +65,13 @@
 //   return {name: this.firstName + ' ' + this.lastName};
 // }
 
+// answer
+// function NameMe(first, last) {
+//   this.firstName = first;
+//   this.lastName = last;
+//   this.name = this.firstName + ' ' + this.lastName
+// }
+
 // 5) END===============================================================
 
 
