@@ -52,8 +52,10 @@
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: The Wide-Mouthed frog! (8 kyu)
+// LINK:  https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89
+
+// const mouthSize = animal => /alligator/i.test(animal) ? 'small' : 'wide'
 
 // 5) END===============================================================
 
