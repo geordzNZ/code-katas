@@ -116,8 +116,10 @@
 
 
 // 8) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Find numbers which are divisible by given number (8 kyu)
+// LINK:  https://www.codewars.com/kata/55edaba99da3a9c84000003b
+
+
 
 // 8) END===============================================================
 
