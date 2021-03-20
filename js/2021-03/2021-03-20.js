@@ -61,8 +61,14 @@
 
 
 // 6) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Build a train! (Beta 945 ==> 951)
+// LINK:  https://www.codewars.com/kata/60398a8c64b9d5000d84f6a9/javascript
+
+// function train(s) {
+//   let loco = s[0] ==='A' ? 15 : s[0] ==='B' ? 10 : s[0] ==='C' ? 7 : 8
+  
+//   return loco + (s.length-1)*5
+// }
 
 // 6) END===============================================================
 
