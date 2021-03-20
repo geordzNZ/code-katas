@@ -7,8 +7,17 @@
 //   Updates to js file = comment = #X kata for 20/Mar/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Meeting (6 kyu)
+// LINK:  https://www.codewars.com/kata/59df2f8f08c6cec835000012
+
+// function meeting(s) {
+//   let splitS = s.split(';')
+//   let res = splitS.map((name) => {
+//     return (`(${name.substring(name.indexOf(':')+1)}, ${name.substring(0,name.indexOf(':'))})`).toUpperCase()
+//   })
+  
+//   return res.sort().join('')
+// }
 
 // 1) END===============================================================
 
