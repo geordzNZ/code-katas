@@ -119,7 +119,7 @@
 // TITLE: Find numbers which are divisible by given number (8 kyu)
 // LINK:  https://www.codewars.com/kata/55edaba99da3a9c84000003b
 
-
+// const divisibleBy = (nums, d) => nums.filter((num) => num % d === 0)
 
 // 8) END===============================================================
 
