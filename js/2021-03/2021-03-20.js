@@ -23,8 +23,10 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Get the Middle Character (7 kyu)
+// LINK:  https://www.codewars.com/kata/56747fd5cb988479af000028
+
+// const getMiddle = s => (s.length % 2 === 0) ? s.substring((s.length/2)-1,(s.length/2)+1) : s.charAt(s.length/2)
 
 // 2) END===============================================================
 
