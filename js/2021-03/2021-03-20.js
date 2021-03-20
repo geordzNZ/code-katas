@@ -41,8 +41,12 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Count all the sheep on farm in the heights of New Zealand (7 kyu)
+// LINK:  https://www.codewars.com/kata/58e0f0bf92d04ccf0a000010
+
+// function lostSheep(friday,saturday,total){
+//   return total-(friday.reduce((v,i) => v+=i,0)+saturday.reduce((v,i) => v+=i,0))  
+// }
 
 // 4) END===============================================================
 
