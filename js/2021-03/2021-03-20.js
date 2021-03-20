@@ -74,8 +74,21 @@
 
 
 // 7) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: I love you, a little , a lot, passionately ... not at all (8 kyu)
+// LINK:  https://www.codewars.com/kata/57f24e6a18e9fad8eb000296
+
+// v1
+// function howMuchILoveYou(nbPetals) {
+//   let ans = {
+//     1: 'I love you',
+//     2: 'a little',
+//     3: 'a lot',
+//     4: 'passionately',
+//     5: 'madly',
+//     0: 'not at all'
+//   }
+//   return ans[nbPetals % 6]
+// }
 
 // 7) END===============================================================
 
