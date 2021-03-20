@@ -32,8 +32,10 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Counting sheep... (8 kyu)
+// LINK:  https://www.codewars.com/kata/54edbc7200b811e956000556
+
+// const countSheeps = arrayOfSheep => arrayOfSheep.filter((x) => x).length
 
 // 3) END===============================================================
 
