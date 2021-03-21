@@ -159,8 +159,17 @@
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Validate my Password (6 kyu)
+// LINK:  https://www.codewars.com/kata/59c01248bf10a47bd1000046
+
+// function validPass(password){
+//   let pwLen = password.length>3 && password.length<20
+//   let pwLet = /[A-z]+/.test(password)
+//   let pwNum = /[0-9]+/.test(password)
+//   let pwSpChar = /\W/.test(password)
+  
+//   return (pwLen && pwLet && pwNum && !pwSpChar) ? 'VALID' : 'INVALID'
+// }
 
 // 5) END===============================================================
 
