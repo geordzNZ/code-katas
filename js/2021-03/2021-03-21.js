@@ -147,6 +147,13 @@
 
 // }
 
+// v2
+// function showMyPassword(birthdays){
+//   return birthdays.sort()[2].split('-')[0][2] + birthdays.sort()[2].split('-')[0][3] + 
+//          birthdays.sort()[3].split('-')[0][2] + birthdays.sort()[3].split('-')[0][3] +
+//          ((birthdays.sort()[0].split('-')[1].length===2) ? birthdays.sort()[0].split('-')[1] : '0' + birthdays.sort()[0].split('-')[1]) +
+//          ((birthdays.sort()[1].split('-')[2].length===2) ? birthdays.sort()[1].split('-')[2] : '0' + birthdays.sort()[1].split('-')[2])
+// }
 
 // 4) END===============================================================
 
