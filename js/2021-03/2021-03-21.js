@@ -96,8 +96,25 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Password validator (7 kyu)
+// LINK:  https://www.codewars.com/kata/56a921fa8c5167d8e7000053
+
+// v1
+// function password(str) {
+//   console.log(str)
+//   let uc1plus = /[A-Z]+/.test(str)
+//   console.log(uc1plus)
+//   let lc1plus = /[a-z]+/.test(str)
+//   console.log(lc1plus)
+//   let num1plus = /[0-9]+/.test(str)
+//   console.log(num1plus)
+//   let num1plus2 = /\d+/.test(str)
+//   console.log(num1plus2)
+//   let pwLen = str.length>=8
+//   console.log(pwLen)
+  
+//   return uc1plus && lc1plus && num1plus &&  pwLen
+// }
 
 // 3) END===============================================================
 
