@@ -10,11 +10,10 @@
 // TITLE: Where are you from? (6 kyu)
 // LINK:  Where are you from?
 
-// v 1
+// v1
 // function fromWhere(you,me,question){
 //   console.log(you.Town)
 //   let msg = ''
-  
   
 //     if ( question === 'Where are you from?' ) {
 //       if ( you.Country != me.Country ) { msg = `I am from ${me.Country}.` }
@@ -47,6 +46,37 @@
 //     } else{ msg = 'What are you saying?' }
   
 //   return msg
+// }
+
+// v2
+// function fromWhere(you,me,question){
+//   let msg = ''
+  
+//   if ( question === 'Where are you from?' ) {
+//     if ( you.Country != me.Country ) { msg = `I am from ${me.Country}.` }
+//     else if ( you.Province != me.Province ) { msg = `I am from ${me.Province}.` }
+//     else if ( you.City != me.City ) { msg = `I am from ${me.City}.` }
+//     else if ( you.Town != me.Town ) { msg = `I am from ${me.Town}.` }
+//     else if ( you.Street != me.Street ) { msg = `I am from ${me.Street}.` }
+    
+//   } else if ( question === 'What country are you from?' ) {
+//     if ( you.Country != me.Country ) { msg = `I am from ${me.Country}.` }
+      
+//   } else if ( question === 'What province are you from?' ) {
+//     if ( you.Province != me.Province ) { msg = `I am from ${me.Province}.` }
+    
+//   } else if ( question === 'What city are you from?' ) {
+//     if ( you.City != me.City ) { msg = `I am from ${me.City}.` }
+    
+//   } else if ( question === 'What town are you from?' ) {
+//     if ( you.Town != me.Town ) { msg = `I am from ${me.Town}.` }
+    
+//   } else if ( question === 'What street are you from?' ) {
+//     if ( you.Street != me.Street ) { msg = `I am from ${me.Street}.` }
+ 
+//   } else{ msg = 'What are you saying?' }
+  
+//   return msg ? msg : 'Same as you.'
 // }
 
 // 1) END===============================================================
