@@ -83,8 +83,14 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Numbers to Letters (7 kyu)
+// LINK:  https://www.codewars.com/kata/57ebaa8f7b45ef590c00000c/train/javascript
+
+// function switcher(x){
+//   let alphabet = ' ?!abcdefghijklmnopqrstuvwxyz'.split('').reverse()
+  
+//   return x.map((pos) => alphabet[pos-1]).join('')
+// }
 
 // 2) END===============================================================
 
