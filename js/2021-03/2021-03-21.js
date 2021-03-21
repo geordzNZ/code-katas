@@ -175,8 +175,10 @@
 
 
 // 6) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Password maker (7 kyu)
+// LINK:  https://www.codewars.com/kata/5637b03c6be7e01d99000046
+
+// const makePassword = phrase=> phrase.split(' ').map((x) => x[0]).join('').replace(/i/gi,'1').replace(/o/gi,'0').replace(/s/gi,'5')
 
 // 6) END===============================================================
 
