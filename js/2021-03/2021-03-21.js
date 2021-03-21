@@ -184,8 +184,19 @@
 
 
 // 7) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Regex Password Validation (5 kyu)
+// LINK:  https://www.codewars.com/kata/52e1476c8147a7547a000811
+
+// v1
+// function validate(password) {
+//   let pwLen = password.length>=6
+//   let pwLC = /[a-z]+/.test(password)
+//   let pwUC = /[A-Z]+/.test(password)
+//   let pwDig = /[0-9]+/.test(password)
+//   let pwSpChar = /\W/.test(password)
+  
+//   return (pwLen && pwLC && pwUC && pwDig && !pwSpChar)
+// }
 
 // 7) END===============================================================
 
