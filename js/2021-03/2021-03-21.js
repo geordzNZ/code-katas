@@ -128,8 +128,25 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: So Easy: Show my password (7 kyu)
+// LINK:  https://www.codewars.com/kata/57ea1d9c491a15f43f000219
+
+// v1
+// function showMyPassword(birthdays){
+//   let sorted = birthdays.sort()
+  
+//   let dad = sorted[0].split('-')
+//   let mum = sorted[1].split('-')
+//   let john = sorted[2].split('-')
+//   let gf = sorted[3].split('-')
+  
+//   return john[0][2] + john[0][3] +
+//          gf[0][2] + gf[0][3]
+//          (dad[1].length === 2) ? dad[1] : '0' + dad[1]
+//          (mum[2].length === 2) ? mum[2] : '0' + mum[2]
+
+// }
+
 
 // 4) END===============================================================
 
