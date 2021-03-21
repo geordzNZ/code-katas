@@ -116,6 +116,14 @@
 //   return uc1plus && lc1plus && num1plus &&  pwLen
 // }
 
+// v2
+// function password(str) {
+  
+//   return /[A-Z]+/.test(str) && 
+//          /[a-z]+/.test(str) && 
+//          /[0-9]+/.test(str) &&  
+//          str.length>=8
+// }
 // 3) END===============================================================
 
 
