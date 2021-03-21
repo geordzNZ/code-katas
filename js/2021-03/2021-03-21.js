@@ -10,7 +10,7 @@
 // TITLE: Where are you from? (6 kyu)
 // LINK:  Where are you from?
 
-// v1
+// v 1
 // function fromWhere(you,me,question){
 //   console.log(you.Town)
 //   let msg = ''
