@@ -21,7 +21,7 @@
 //   return j-1
 // }
 
-// v2 - for loop that only tests ever 2nd number... so half as many as v1
+// v2 - for loop that only tests ever 2nd number... so half as many as v1 -- but it still times out
 // function nthEven(n){
 //   let ans = 0
 //   let i = 0
