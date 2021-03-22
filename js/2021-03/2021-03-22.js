@@ -39,8 +39,15 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: What is between? (8 kyu)
+// LINK:  https://www.codewars.com/kata/55ecd718f46fba02e5000029
+
+// v1
+// function between(a, b) {
+//   let ans = []
+//   for (let i=a;i<=b;i++) ( ans.push(i))
+//   return ans
+// }
 
 // 2) END===============================================================
 
