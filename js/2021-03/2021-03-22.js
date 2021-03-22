@@ -32,6 +32,9 @@
 //   return i-2
 // }
 
+// v3 - noticed a pattern in the results.
+//const nthEven = n => n*2-2
+
 // 1) END===============================================================
 
 
