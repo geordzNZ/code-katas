@@ -21,6 +21,17 @@
 //   return j-1
 // }
 
+// v2 - for loop that only tests ever 2nd number... so half as many as v1
+// function nthEven(n){
+//   let ans = 0
+//   let i = 0
+//   for (i;ans<n;i+=2){
+//     ans++
+    
+//   }
+//   return i-2
+// }
+
 // 1) END===============================================================
 
 
