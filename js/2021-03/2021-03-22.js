@@ -68,6 +68,8 @@
 // TITLE: Watermelon (8 kyu)
 // LINK:  https://www.codewars.com/kata/55192f4ecd82ff826900089e
 
+// const divide = weight => (weight >=4 && weight%2===0)
+
 // 4) END===============================================================
 
 
