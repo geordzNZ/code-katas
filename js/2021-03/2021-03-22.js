@@ -7,8 +7,19 @@
 //   Updates to js file = comment = #X kata for 22/Mar/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Get Nth Even Number (8 kyu)
+// LINK:  https://www.codewars.com/kata/5933a1f8552bc2750a0000ed
+
+// v1 - gets basic tests and one other,but then times out.
+// function nthEven(n){
+//   let i = 0
+//   let j = 0
+//   while (i<n){
+//     if (j%2===0) { i++ }
+//     j++
+//   }
+//   return j-1
+// }
 
 // 1) END===============================================================
 
