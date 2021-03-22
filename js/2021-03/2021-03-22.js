@@ -59,6 +59,8 @@
 // TITLE: Convert a String to a Number! (8 kyu)
 // LINK:  https://www.codewars.com/kata/544675c6f971f7399a000e79
 
+// var stringToNumber = str => Number(str)
+
 // 3) END===============================================================
 
 
