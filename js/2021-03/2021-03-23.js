@@ -156,8 +156,17 @@
 
 
 // 8) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Make the small words big! (7 kyu)
+// LINK:  https://www.codewars.com/kata/57b4dd38d2a31c75f7000299
+
+// function smallWordHelper(sentence){
+//   let res = []
+  
+// for (word of sentence.split(' ')){
+//   word.length<=3 ? res.push(word.toUpperCase()) : res.push(word.replace(/[aeiou]/ig,''))
+// }
+// return res.join(' ')
+// }
 
 // 8) END===============================================================
 
