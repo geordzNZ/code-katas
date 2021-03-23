@@ -74,8 +74,13 @@
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Surface Area and Volume of a Box (8 kyu)
+// LINK:  https://www.codewars.com/kata/565f5825379664a26b00007c
+
+// function getSize(w, h, d){
+//   return [2*d*w+2*d*h+2*h*w,w*h*d]
+// }
+
 
 // 5) END===============================================================
 
