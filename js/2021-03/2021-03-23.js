@@ -172,8 +172,15 @@
 
 
 // 9) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Powers Up (beta kyu - before = 1018 / after completion = 1022 / after ranking 1024)
+// LINK:  https://www.codewars.com/kata/6001f1b46aad3700080d20a7
+
+// function powersUp(number, upTo) {
+//   let res = 0
+  
+//   for (let i=1; i<=upTo; i++) { res += Math.pow(number,i) }
+//   return res
+// }
 
 // 9) END===============================================================
 
