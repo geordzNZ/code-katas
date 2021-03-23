@@ -25,6 +25,10 @@
 //   return eval(a+o+b);
 // }
 
+// v3
+// reformatted for me.
+// const basicOp = (op, v1, v2) => eval(v1+op+v2)
+
 // 1) END===============================================================
 
 
