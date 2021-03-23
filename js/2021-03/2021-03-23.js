@@ -63,8 +63,23 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Simple validation of a username with regex (8 kyu)
+// LINK:  https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023
+
+// function validateUsr(username) {
+//   return  /^[a-z0-9_]{4,16}$/.test(username)
+// }
+
+// Explanation
+  /**
+    - `^`        Start from the beginning of the string.
+    - `[]`       Allow any character specified, including...
+    - `a-z`      anything from a to z,
+    - `0-9`      anything from 0 to 9,
+    - `_`        and underscore.
+    - `{4,16}`   Accept 4 to 16 of allowed characters, both numbers included.
+    - `$`        End the string right after specified amount of allowed characters is given.
+  */
 
 // 4) END===============================================================
 
