@@ -19,6 +19,12 @@
 //   }
 // }
 
+// v2
+// clerver ans from someone else
+// function basicOp(o, a, b) {
+//   return eval(a+o+b);
+// }
+
 // 1) END===============================================================
 
 
