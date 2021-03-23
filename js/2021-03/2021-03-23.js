@@ -107,6 +107,14 @@
 //   }
 //   return password
 // }
+
+//v2 -- add the new regex into the replace directly.
+//These are your super secret characters you will use to make the password super secure
+// var superSecretChars = [['a', '@'],['s', '$'],['o', '0'], ['h', '5'], ['x', '*']];
+// function createSSP(password){  
+//   for (sSC of superSecretChars){ password = password.replace(new RegExp(sSC[0], 'gi'), sSC[1])}
+//   return password
+// }
 // 5) END===============================================================
 
 
