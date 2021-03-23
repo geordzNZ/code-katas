@@ -7,8 +7,17 @@
 //   Updates to js file = comment = #X kata for 23/Mar/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Basic Mathematical Operations (8 kyu)
+// LINK:  https://www.codewars.com/kata/57356c55867b9b7a60000bd7
+
+// function basicOp(op, v1, v2){
+//   switch (op){
+//     case '+': return v1+v2;
+//     case '-': return v1-v2;
+//     case '*': return v1*v2;
+//     case '/': return v1/v2      
+//   }
+// }
 
 // 1) END===============================================================
 
