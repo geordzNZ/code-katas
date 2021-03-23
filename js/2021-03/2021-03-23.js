@@ -85,9 +85,28 @@
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Super Secret Password Generator (7 kyu)
+// LINK:  https://www.codewars.com/kata/54402d52cf3625b882000141/train/javascript
 
+// starts with
+//These are your super secret characters you will use to make the password super secure
+// var superSecretChars = [['a', '@'],['s', '$'],['o', '0'], ['h', '5'], ['x', '*']];
+// function createSSP(password){
+//   //TO DO: Make that password super secret
+// }
+
+// with  my addded code
+//These are your super secret characters you will use to make the password super secure
+// var superSecretChars = [['a', '@'],['s', '$'],['o', '0'], ['h', '5'], ['x', '*']];
+// function createSSP(password){  
+//   for (sSC of superSecretChars){
+//     let replaceTxt = sSC[0]
+//     let re = new RegExp(replaceTxt,"ig");
+    
+//     password = password.replace(re,sSC[1])
+//   }
+//   return password
+// }
 // 5) END===============================================================
 
 
