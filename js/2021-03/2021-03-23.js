@@ -119,8 +119,23 @@
 
 
 // 6) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Make the Deadfish swim (6 kyu)
+// LINK:  https://www.codewars.com/kata/51e0007c1f9378fa810002a9
+
+// function parse( data ) {
+//   let num = 0
+//   let res = []
+  
+//   for (op of data) {
+//     switch (op) {
+//       case 'i': num++; break;
+//       case 'd': num--;  break;
+//       case 's': num *= num;  break;
+//       case 'o': res.push(num); break;
+//     }
+//   }
+//   return res
+// }
 
 // 6) END===============================================================
 
