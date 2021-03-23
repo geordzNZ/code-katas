@@ -141,8 +141,16 @@
 
 
 // 7) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Make techno. (7 kyu)
+// LINK:  https://www.codewars.com/kata/563c8540d50eb20bab00009a
+
+// function perc (mins) {
+//   if (mins < 1 || mins > 100 || typeof mins != 'number') { return 'invalid track time'}
+
+//   return [ `${Math.round(mins * 120)} kicks`,
+//            `${Math.round(mins * 240)} hihats`,
+//            `${Math.round(mins * 60)} claps` ]
+// };
 
 // 7) END===============================================================
 
