@@ -33,8 +33,15 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Count Odd Numbers below n (8 kyu)
+// LINK:  https://www.codewars.com/kata/59342039eb450e39970000a6
+
+// v1 - timed out on full test run
+// function oddCount(n){
+//   let odd = 0
+//   for (let i=1;i<n;i+=2) { odd++ } 
+//   return odd
+// }
 
 // 2) END===============================================================
 
