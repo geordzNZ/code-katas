@@ -117,8 +117,12 @@
 
 
 // 7) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Formatting decimal places #1 (7 kyu)
+// LINK:  https://www.codewars.com/kata/5641c3f809bf31f008000042
+
+// function twoDecimalPlaces(number) {
+//   return Number(number.toString().substr(0,number.toString().indexOf('.')+3))
+// }
 
 // 7) END===============================================================
 
