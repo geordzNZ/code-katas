@@ -139,8 +139,10 @@
 
 
 // 9) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Regex count lowercase letters (8 kyu)
+// LINK:  https://www.codewars.com/kata/56a946cd7bd95ccab2000055
+
+// const lowercaseCount = str => str.replace(/[^a-z]/g,'').length
 
 // 9) END===============================================================
 
