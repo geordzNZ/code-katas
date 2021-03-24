@@ -77,8 +77,23 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Alan Partridge III - London (7 kyu)
+// LINK:  https://www.codewars.com/kata/580a41b6d6df740d6100030c
+
+// function alan(x){
+//   let sS = ['Rejection', 'Disappointment', 'Backstabbing Central', 'Shattered Dreams Parkway']
+//   let fS = 0
+
+//   for (let i=0; i<sS.length; i++){
+//     for (let j=0; j<x.length; j++){
+//       if (sS[i] === x[j]) { 
+//         fS++ 
+//         j=x.length
+//       }
+//     }
+//   }
+//    return fS===4 ? 'Smell my cheese you mother!' : 'No, seriously, run. You will miss it.' 
+// }
 
 // 4) END===============================================================
 
