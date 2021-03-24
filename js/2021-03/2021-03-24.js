@@ -108,8 +108,10 @@
 
 
 // 6) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Formatting decimal places #0 (8 kyu)
+// LINK:  https://www.codewars.com/kata/5641a03210e973055a00000d
+
+// const twoDecimalPlaces = n => Number(n.toFixed(2))
 
 // 6) END===============================================================
 
