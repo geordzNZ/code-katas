@@ -4,12 +4,17 @@
 //   Kyu = 4
 //   Clan = 12
 // Comments:
-//   New JS file = --Create code kata js file for 24/Mar/2021
 //   Updates to js file = comment = #X kata for 24/Mar/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Sort and Star (8 kyu)
+// LINK:  https://www.codewars.com/kata/57cfdf34902f6ba3d300001e
+
+// function twoSort(s) {
+//     let ans = []
+//     s.sort()[0].split('').forEach((char,i) => { i<s[0].length-1 ? ans = ans + char + '***' : ans = ans + char },'')
+//      return ans
+// }
 
 // 1) END===============================================================
 
