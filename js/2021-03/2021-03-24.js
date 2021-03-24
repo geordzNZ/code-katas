@@ -29,8 +29,10 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Alan Partridge I - Partridge Watch (8 kyu)
+// LINK:  https://www.codewars.com/kata/5808c8eff0ed4210de000008
+
+
 
 // 3) END===============================================================
 
