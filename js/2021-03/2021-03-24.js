@@ -60,7 +60,19 @@
 //    return fW.length>0 ? `Mine's a Pint${'!'.repeat(fW.length)}` : 'Lynn, I\'ve pierced my foot on a spike!!' 
 // }
 
+// v2
+// function part(x){
 
+//   let sW = ['Partridge','PearTree','Chat','Dan','Toblerone','Lynn','AlphaPapa','Nomad']
+//   let fW = 0
+
+//   for (let i=0; i<sW.length; i++){
+//     for (let j=0; j<x.length; j++){
+//       if (sW[i] === x[j]) { fW++ }
+//     }
+//   }
+//    return fW>0 ? `Mine's a Pint${'!'.repeat(fW)}` : 'Lynn, I\'ve pierced my foot on a spike!!' 
+// }
 // 3) END===============================================================
 
 
