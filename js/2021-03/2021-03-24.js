@@ -99,8 +99,10 @@
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: To square(root) or not to square(root) (8 kyu)
+// LINK:  https://www.codewars.com/kata/57f6ad55cca6e045d2000627
+
+// const squareOrSquareRoot = array => array.map((n) => Number.isInteger(Math.sqrt(n)) ? Math.sqrt(n) : n * n )
 
 // 5) END===============================================================
 
