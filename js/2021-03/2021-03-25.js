@@ -64,6 +64,13 @@
 //   return res
 // }
 
+// others answers
+// function smallEnough(a, limit){
+//   return Math.max(...a) <= limit
+// }
+
+// smallEnough = (a, l) => a.every(e => e <= l)
+
 // 5) END===============================================================
 
 
