@@ -44,8 +44,12 @@
 
 
 // 4) START===============================================================
-// TITLE: National Bath Safety Month (Beta - Start 1050 - After Completion - After ranking )
+// TITLE: National Bath Safety Month (Beta - Start 1050 - After Completion 1054 - After ranking 1056)
 // LINK:  https://www.codewars.com/kata/57d14a9d95497e9912000267
+
+// function bath(string, bath){
+//   return string.length > bath.length-2
+// }
 
 // 4) END===============================================================
 
