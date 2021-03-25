@@ -33,6 +33,13 @@
 // TITLE: Holiday X - Bintang Vests (7 kyu)
 // LINK:  https://www.codewars.com/kata/57e93e4a2aee4974d4000c2f
 
+// function vestBuy(price, haggle){
+//   return haggle==='light' ?  Math.ceil(price * (1 - 0.2)) : 
+//          haggle==='medium' ? Math.ceil(price * (1 - 0.3)) :
+//          haggle==='heavy' ? Math.ceil(price * (1 - 0.4)) : 
+//          haggle==='walkandswear' ? Math.ceil(price * (1 - 0.9)) : 'Run!!'
+// }
+
 // 3) END===============================================================
 
 
