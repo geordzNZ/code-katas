@@ -58,7 +58,11 @@
 // TITLE: Small enough? - Beginner (7 kyu)
 // LINK:  https://www.codewars.com/kata/57cc981a58da9e302a000214
 
-
+// function smallEnough(a, limit){
+//   let res = true
+//   a.forEach((x) => { if (x > limit) res = false } )
+//   return res
+// }
 
 // 5) END===============================================================
 
