@@ -10,7 +10,10 @@
 // TITLE: vowelOne (7 kyu)
 // LINK:  https://www.codewars.com/kata/580751a40b5a777a200000a1
 
-
+// v1
+// function vowelOne(s){
+//   return s.replace(/[^aeiou]/ig,'0').replace(/[aeiou]/ig,'1')
+// }
 
 // 1) END===============================================================
 
