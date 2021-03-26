@@ -7,8 +7,17 @@
 //   Updates to js file = comment = #X kata for 26/Mar/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Write out expression! (7 kyu)
+// LINK:  https://www.codewars.com/kata/57e2afb6e108c01da000026e
+
+// function expressionOut(expr) {
+//   let numWords = {1:'One',2:'Two',3:'Three',4:'Four',5:'Five',6:'Six',7:'Seven',8:'Eight',9:'Nine',10:'Ten'}
+//   let splitExp = expr.split(' ')
+  
+//   if (!OPERATORS[splitExp[1]]) { return `That's not an operator!` }
+    
+//   return `${numWords[splitExp[0]]} ${OPERATORS[splitExp[1]]}${numWords[splitExp[2]]}`
+// }
 
 // 1) END===============================================================
 
