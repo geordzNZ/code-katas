@@ -41,8 +41,12 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Geometry Basics: Distance between points in 2D (8 kyu)
+// LINK:  https://www.codewars.com/kata/58dced7b702b805b200000be
+
+// function distanceBetweenPoints(a, b) {
+//   return Math.sqrt( (a.x - b.x)*(a.x - b.x) + (a.y - b.y)*(a.y - b.y) ); 
+// }
 
 // 4) END===============================================================
 
