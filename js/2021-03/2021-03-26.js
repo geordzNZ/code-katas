@@ -52,8 +52,16 @@
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Coding Meetup #11 - Higher-Order Functions Series - Find the average age (7 kyu)
+// LINK:  https://www.codewars.com/kata/582ba36cc1901399a70005fc
+
+// function getAverageAge(list) {
+//   let totalAge = 0
+//   for (dev of list){
+//     totalAge += dev.age
+//   }
+//   return Math.round(totalAge / list.length)
+// }
 
 // 5) END===============================================================
 
