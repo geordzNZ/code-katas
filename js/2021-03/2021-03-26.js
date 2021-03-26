@@ -26,7 +26,7 @@
 // TITLE: DNA to RNA Conversion (8 kyu)
 // LINK:  https://www.codewars.com/kata/5556282156230d0e5e000089
 
-
+// const DNAtoRNA = dna => dna.replace(/T/ig,'U')
 
 // 2) END===============================================================
 
