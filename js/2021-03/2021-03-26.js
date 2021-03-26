@@ -32,8 +32,8 @@
 
 
 // 3) START===============================================================
-// TITLE: Tricky char[] to int[] conversion (7 kyu)
-// LINK:  https://www.codewars.com/kata/58c2b37b8b4f2e2632000001
+// TITLE: Ones and Zeros (7 kyu)
+// LINK:  https://www.codewars.com/kata/578553c3a1b8d5c40300037c
 
 
 
