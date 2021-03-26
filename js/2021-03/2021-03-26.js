@@ -67,8 +67,18 @@
 
 
 // 6) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Slaphead (7 kyu)
+// LINK:  https://www.codewars.com/kata/57efab9acba9daa4d1000b30
+
+// function bald(x){
+//   let hairs = x.length - x.replace(/\//g,'').length
+//   let msg = hairs === 0 ? 'Clean!' : 
+//             hairs === 1 ? 'Unicorn!' :
+//             hairs === 2 ? 'Homer!' :
+//             hairs <= 5 ? 'Careless!' : 'Hobo!'
+ 
+//   return [x.replace(/\//g,'-'),msg]
+// }
 
 // 6) END===============================================================
 
