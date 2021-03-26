@@ -84,8 +84,29 @@
 
 
 // 7) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Chuck Norris VI - Shopping with Chuck (7 kyu)
+// LINK:  https://www.codewars.com/kata/5706be574f2c297a7b00060d
+
+// function price(start, soil, age) {
+//   let soiled = {
+//     'Barely used': 10,
+//     'Seen a few high kicks': 25,
+//     'Blood stained': 30,
+//     'Heavily soiled': 50
+//   } 
+  
+//   if (typeof start != 'number' || 
+//       typeof soil != 'string' ||
+//       typeof age != 'number' ||
+//       !soiled[soil] ) { return 'Chuck is bottomless!'}
+
+//   let price = start
+  
+//   for (let i=1; i<=age;i++){
+//     price = (price * soiled[soil]/100) + price
+//   }
+//   return `$${price.toFixed(2)}`
+// }
 
 // 7) END===============================================================
 
