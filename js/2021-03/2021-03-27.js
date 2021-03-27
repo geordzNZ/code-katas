@@ -43,8 +43,10 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: get ascii value of character (8 kyu)
+// LINK:  https://www.codewars.com/kata/55acfc59c3c23d230f00006d
+
+
 
 // 4) END===============================================================
 
