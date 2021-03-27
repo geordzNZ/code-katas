@@ -21,7 +21,12 @@
 // TITLE: Grasshopper - Create the rooms (8 kyu)
 // LINK:  https://www.codewars.com/kata/56a29b237e9e997ff2000048/train/javascript
 
-
+// // Add rooms here
+// var rooms = {
+//   r1: {name:"",description:"",completed:""},
+//   r2: {name:"",description:"",completed:""},
+//   r3: {name:"",description:"",completed:""}
+// }
 
 // 2) END===============================================================
 
