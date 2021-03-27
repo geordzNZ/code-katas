@@ -64,8 +64,17 @@
 
 
 // 6) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Triple Trouble (8 kyu)
+// LINK:  https://www.codewars.com/kata/5704aea738428f4d30000914
+
+// function tripleTrouble(one, two, three){
+//   let res = ''
+  
+//   for (let i=0; i<one.length; i++) {
+//     res += one[i]+two[i]+three[i]
+//   }
+//   return res
+//  }
 
 // 6) END===============================================================
 
