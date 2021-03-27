@@ -32,8 +32,10 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: altERnaTIng cAsE <=> ALTerNAtiNG CaSe (8 kyu)
+// LINK:  https://www.codewars.com/kata/56efc695740d30f963000557
+
+
 
 // 3) END===============================================================
 
