@@ -18,8 +18,10 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Grasshopper - Create the rooms (8 kyu)
+// LINK:  https://www.codewars.com/kata/56a29b237e9e997ff2000048/train/javascript
+
+
 
 // 2) END===============================================================
 
