@@ -7,8 +7,10 @@
 //   Updates to js file = comment = #X kata for 27/Mar/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Template Strings (8 kyu)
+// LINK:  https://www.codewars.com/kata/55a14f75ceda999ced000048
+
+
 
 // 1) END===============================================================
 
