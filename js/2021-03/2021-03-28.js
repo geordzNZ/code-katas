@@ -43,7 +43,10 @@
 // TITLE: Reverse Letters in Sentence (7 kyu)
 // LINK:  https://www.codewars.com/kata/57ebdf944cde58f973000405
 
-
+// // reverse the letters in the sentence
+// function reverser(sentence) {
+//   return sentence.split(' ').map((word) => word.split('').reverse().join('')).join(' ')
+// }
 
 // 4) END===============================================================
 
