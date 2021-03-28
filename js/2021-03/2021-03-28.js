@@ -7,8 +7,14 @@
 //   Updates to js file = comment = #X kata for 28/Mar/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Is the string uppercase? (8 kyu)
+// LINK:  https://www.codewars.com/kata/56cd44e1aa4ac7879200010b
+
+// String.prototype.isUpperCase = function() {
+//   let res = true
+//   this.replace(/\s/g,'').split('').forEach((char) => { if (char != char.toUpperCase())  { return res = false } })
+//   return res
+// }
 
 // 1) END===============================================================
 
