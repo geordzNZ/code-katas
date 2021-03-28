@@ -55,6 +55,16 @@
 // TITLE: Simple Fun #20: First Reverse Try (7 kyu)
 // LINK:  https://www.codewars.com/kata/5886c6b2f3b6ae33dd0000be
 
+// v1
+// function firstReverseTry(arr) {
+//   if (arr.length===0){ return []}
+//   let temp = arr[0]
+//   arr[0] = arr[arr.length-1]
+//   arr[arr.length-1] = temp
+//   return arr
+  
+// }
+
 // 5) END===============================================================
 
 
