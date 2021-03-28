@@ -52,8 +52,8 @@
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Simple Fun #20: First Reverse Try (7 kyu)
+// LINK:  https://www.codewars.com/kata/5886c6b2f3b6ae33dd0000be
 
 // 5) END===============================================================
 
