@@ -23,7 +23,7 @@
 // TITLE: Highest and Lowest (7 kyu)
 // LINK:  https://www.codewars.com/kata/554b4ac871d6813a03000035
 
-
+// const highAndLow = numbers => `${Math.max(...numbers.split(' '))} ${Math.min(...numbers.split(' '))}`
 
 // 2) END===============================================================
 
