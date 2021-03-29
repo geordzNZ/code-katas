@@ -46,6 +46,10 @@
 // function validSpacing(s) {  
 //   return !(/^\s/.test(s)) && !(/\s$/.test(s)) && !(/\b\s{2,}\b/g.test(s))
 // }
+
+// v4
+// const validSpacing = s=> !(/(^\s|\s$|\b\s{2,}\b)/.test(s))
+
 // 2) END===============================================================
 
 
