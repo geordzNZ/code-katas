@@ -7,8 +7,10 @@
 //   Updates to js file = comment = #X kata for 29/Mar/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: All Star Code Challenge #22 (7 kyu)
+// LINK:  https://www.codewars.com/kata/5865cff66b5699883f0001aa
+
+
 
 // 1) END===============================================================
 
