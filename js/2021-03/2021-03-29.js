@@ -42,7 +42,10 @@
 //   return !testStart && !testBetween && !testEnd
 // }
 
-
+// v3
+// function validSpacing(s) {  
+//   return !(/^\s/.test(s)) && !(/\s$/.test(s)) && !(/\b\s{2,}\b/g.test(s))
+// }
 // 2) END===============================================================
 
 
