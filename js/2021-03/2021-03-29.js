@@ -57,7 +57,14 @@
 // TITLE: Check digit (7 kyu)
 // LINK:  https://www.codewars.com/kata/5a2e8c0955519e54bf0000bd
 
-
+// function checkDigit(number, index1, index2, digit) {
+//   let start = Math.min(index1,index2)
+//   let end = Math.max(index1,index2)
+//   let cutout = String(number).slice(start,end+1)
+  
+//   return cutout.search(digit) != -1
+  
+// };
 
 // 3) END===============================================================
 
