@@ -10,7 +10,13 @@
 // TITLE: All Star Code Challenge #22 (7 kyu)
 // LINK:  https://www.codewars.com/kata/5865cff66b5699883f0001aa
 
+// function toTime(seconds) {
+//   let hrs = Math.floor(seconds/3600)
+//   let mins = Math.floor((seconds%3600)/60)
 
+//   return `${hrs} hour(s) and ${mins} minute(s)`
+
+// }
 
 // 1) END===============================================================
 
