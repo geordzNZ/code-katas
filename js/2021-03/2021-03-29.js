@@ -25,6 +25,13 @@
 // TITLE: Valid Spacing (7 kyu)
 // LINK:  https://www.codewars.com/kata/5f77d62851f6bc0033616bd8
 
+// v1
+// let testStart = s[0] != ' '
+// let testEnd = s[s.length-1] != ' '
+// let testBetween = /\b\s{2,}\b/g.test(s)
+
+// return testStart && !testBetween && testEnd
+// }
 
 // 2) END===============================================================
 
