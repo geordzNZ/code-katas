@@ -73,7 +73,13 @@
 // TITLE: Generating Markdowns (7 kyu)
 // LINK:  https://www.codewars.com/kata/5f656199132bf60027275739
 
-
+// function generateMarkdowns(markdown,text,urlOrLanguage) {
+//   switch (markdown){
+//       case ('link'): return `[${text}](${urlOrLanguage})`;
+//       case ('img'):  return `![${text}](${urlOrLanguage})`;
+//       case ('code'): return `\`\`\`${urlOrLanguage}\n${text}\n\`\`\``;
+//   }
+// };
 
 // 4) END===============================================================
 
