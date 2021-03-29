@@ -33,6 +33,16 @@
 // return testStart && !testBetween && testEnd
 // }
 
+// v2
+// function validSpacing(s) {
+//   let testStart = /^\s/.test(s)
+//   let testEnd = /\s$/.test(s)
+//   let testBetween = /\b\s{2,}\b/g.test(s)
+  
+//   return !testStart && !testBetween && !testEnd
+// }
+
+
 // 2) END===============================================================
 
 
