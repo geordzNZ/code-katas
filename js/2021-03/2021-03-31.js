@@ -31,7 +31,7 @@
 // TITLE: Square Every Digit (7 kyu)
 // LINK:  https://www.codewars.com/kata/546e2562b03326a88e000020
 
-
+// const squareDigits = num => parseInt((''+num).split('').map((n) => n**2,0).join(''))
 
 // 2) END===============================================================
 
