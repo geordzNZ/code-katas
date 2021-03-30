@@ -43,6 +43,9 @@
 // v1 -- Passes all tests except length (60 ... should be 36)
 // sd=x=>parseInt((''+x).split('').map((n) => n**2,0).join(''))
 
+// v2 -- Passes all tests except length (52 ... should be 36)
+// sd=x=>1*(''+x).split('').map((n) => n**2,0).join('')
+
 // 3) END===============================================================
 
 
