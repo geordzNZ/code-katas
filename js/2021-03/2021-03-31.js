@@ -40,6 +40,9 @@
 // TITLE: One line task: Square Every Digit (6 kyu)
 // LINK:  https://www.codewars.com/kata/5acd142a2ec8c48521000104
 
+// v1 -- Passes all tests except length (60 ... should be 36)
+// sd=x=>parseInt((''+x).split('').map((n) => n**2,0).join(''))
+
 // 3) END===============================================================
 
 
