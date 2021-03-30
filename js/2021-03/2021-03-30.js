@@ -10,14 +10,20 @@
 // TITLE: Find the smallest integer in the array (8 kyu)
 // LINK:  https://www.codewars.com/kata/55a2d7ebe362935a210000b2
 
-
+// class SmallestIntegerFinder {
+//   findSmallestInt(args) {
+//     return Math.min(...args)
+//   }
+// }
 
 // 1) END===============================================================
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: [JS] Parse integers in array (7 kyu)
+// LINK:  https://www.codewars.com/kata/535d118ccdbf501816001101
+
+
 
 // 2) END===============================================================
 
