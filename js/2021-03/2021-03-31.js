@@ -7,8 +7,19 @@
 //   Updates to js file = comment = #X kata for 31/Mar/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Flatten and sort an array (7 kyu)
+// LINK:  https://www.codewars.com/kata/57ee99a16c8df7b02d00045f
+
+// "use strict";
+
+// function flattenAndSort(array) {
+//   if (array.length === 0) { return [] }
+//   let newArr = array[0]
+  
+//   for (let i=1; i<array.length; i++) { newArr = newArr.concat(array[i]) }
+  
+//   return newArr.sort((a,b) => a-b);
+// }
 
 // 1) END===============================================================
 
