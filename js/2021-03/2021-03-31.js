@@ -21,6 +21,9 @@
 //   return newArr.sort((a,b) => a-b);
 // }
 
+
+// v2
+// const flattenAndSort = array => [].concat(...array).sort((a,b) => a - b)
 // 1) END===============================================================
 
 
