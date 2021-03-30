@@ -46,6 +46,9 @@
 // v2 -- Passes all tests except length (52 ... should be 36)
 // sd=x=>1*(''+x).split('').map((n) => n**2,0).join('')
 
+// v3 -- Passes all tests except length (45 ... should be 36)
+//sd=x=>1*(''+x).split('').map(n=>n*n).join('')
+
 // 3) END===============================================================
 
 
