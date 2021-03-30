@@ -7,8 +7,10 @@
 //   Updates to js file = comment = #X kata for 30/Mar/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Find the smallest integer in the array (8 kyu)
+// LINK:  https://www.codewars.com/kata/55a2d7ebe362935a210000b2
+
+
 
 // 1) END===============================================================
 
