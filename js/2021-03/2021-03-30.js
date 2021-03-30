@@ -20,8 +20,8 @@
 
 
 // 2) START===============================================================
-// TITLE: [JS] Parse integers in array (7 kyu)
-// LINK:  https://www.codewars.com/kata/535d118ccdbf501816001101
+// TITLE: Filter Long Words (7 kyu)
+// LINK:  https://www.codewars.com/kata/5697fb83f41965761f000052
 
 
 
