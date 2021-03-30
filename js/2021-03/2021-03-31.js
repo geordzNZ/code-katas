@@ -37,8 +37,8 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: One line task: Square Every Digit (6 kyu)
+// LINK:  https://www.codewars.com/kata/5acd142a2ec8c48521000104
 
 // 3) END===============================================================
 
