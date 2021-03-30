@@ -23,9 +23,13 @@
 // TITLE: Filter Long Words (7 kyu)
 // LINK:  https://www.codewars.com/kata/5697fb83f41965761f000052
 
+// v1
 // function filterLongWords(sentence, n) {
 //   return sentence.split(' ').filter((w) => w.length>n) 
 // }
+
+// v2
+// const filterLongWords = (sentence, n) => sentence.split(' ').filter((w) => w.length>n)
 
 // 2) END===============================================================
 
