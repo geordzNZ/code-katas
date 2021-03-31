@@ -62,8 +62,8 @@
 
 
 // 4) START===============================================================
-// TITLE: One line task: Square a number Without *, + or Math.pow() (7 kyu)
-// LINK:  https://www.codewars.com/kata/one-line-task-square-a-number-without-star-plus-or-math-dot-pow
+// TITLE: Sum of digits(7 kyu)
+// LINK:  https://www.codewars.com/kata/59cf805aaeb28438fe00001c
 
 // 4) END===============================================================
 
