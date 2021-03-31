@@ -105,8 +105,17 @@
 
 // 7) START===============================================================
 // TITLE: transform an array into a string (beta)
-// rank before = 1119 / rank after completion = XXXX / rank after ranking = XXXX
+// rank before = 1119 / rank after completion = 1123 / rank after ranking = 1125
 // LINK:  https://www.codewars.com/kata/59a602dc57019008d900004e
+
+// function transform(array) {
+//   let output = ''
+//   for (let i=0; i<array.length; i++){
+//     if (array[i]==='NaN') { output+=NaN }
+//     else { output+=array[i] }
+//   }
+//   return output
+// }
 
 // 7) END===============================================================
 
