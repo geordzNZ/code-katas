@@ -49,6 +49,15 @@
 // v3 -- Passes all tests except length (45 ... should be 36)
 //sd=x=>1*(''+x).split('').map(n=>n*n).join('')
 
+// v3 -- Passes all tests except length (37 ... should be 36)
+//sd=x=>+[...x+''].map(n=>n*n).join('')
+
+// v4 - correct options
+// sd=x=>+[...x+''].map(n=>n*n).join``  --  35 chars
+// sd=x=>+`${x}`.replace(/./g,a=>a*a)  --  36 chars
+// sd=n=>+(''+n).replace(/./g,x=>x*x)  --  34 chars
+
+
 // 3) END===============================================================
 
 
