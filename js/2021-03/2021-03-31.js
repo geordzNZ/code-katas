@@ -65,6 +65,16 @@
 // TITLE: Sum of digits(7 kyu)
 // LINK:  https://www.codewars.com/kata/59cf805aaeb28438fe00001c
 
+// function sum(digits) {
+//   if (digits===undefined) { return '' }
+  
+//   let digs = [...digits+'']
+//   let total = 0
+  
+//   for (let i=0; i<digs.length; i++){ total+=Number(digs[i]) }
+//   return `${digs.join(' + ')} = ${total}`
+// }
+
 // 4) END===============================================================
 
 
