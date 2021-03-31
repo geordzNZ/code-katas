@@ -79,8 +79,11 @@
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Two numbers are positive (beta)
+// rank before = 1107 / rank after completion = 1111 / rank after ranking = 1113
+// LINK:  https://www.codewars.com/kata/602db3215c22df000e8544f0
+
+// const twoArePositive = (a, b, c) => (a>0)+(b>0)+(c>0) === 2
 
 // 5) END===============================================================
 
