@@ -90,8 +90,15 @@
 
 // 6) START===============================================================
 // TITLE: Odd One Out (beta)
-// rank before = 1113 / rank after completion = XXXX / rank after ranking = XXXX
+// rank before = 1113 / rank after completion = 1117 / rank after ranking = 1119
 // LINK:  https://www.codewars.com/kata/59670a7591dae8b6900000e4
+
+// function oddNum(arr) {
+//   for (let i=0; i<arr.length; i++){
+//     if (arr[i]%2===1) { return i }
+//   }
+//   return -1
+// }
 
 // 6) END===============================================================
 
