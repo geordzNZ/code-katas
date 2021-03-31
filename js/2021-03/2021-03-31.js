@@ -89,8 +89,9 @@
 
 
 // 6) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Odd One Out (beta)
+// rank before = 1113 / rank after completion = XXXX / rank after ranking = XXXX
+// LINK:  https://www.codewars.com/kata/59670a7591dae8b6900000e4
 
 // 6) END===============================================================
 
