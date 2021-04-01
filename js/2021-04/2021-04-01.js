@@ -64,8 +64,10 @@
 
 
 // 3) START===============================================================
-// TITLE: Temperature converter (6 kyu)
-// LINK:  https://www.codewars.com/kata/54ce9497975ca65e1a0008c6
+// TITLE: Temperature analysis I (7 kyu)
+// LINK:  https://www.codewars.com/kata/588e0f11b7b4a5b373000041
+
+
 
 // 3) END===============================================================
 
