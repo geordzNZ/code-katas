@@ -40,6 +40,13 @@
 // RANK: at start = 1127 / after completion =  / after completion = 
 // LINK:  https://www.codewars.com/kata/57e8e9df2aee49c0280009ab
 
+// v1
+// function bareable(heat, humidity){
+//   if (humidity > 0.5 || heat >= 36) { return false }
+//   if ((heat >= 25 && heat < 36) && humidity > 0.4) { return false }
+//   return true  
+// }
+
 // 2) END===============================================================
 
 
