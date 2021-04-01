@@ -10,6 +10,18 @@
 // TITLE: Racing #1: Simplified Drag Race (7 kyu)
 // LINK:  https://www.codewars.com/kata/5a40f5b01f7f70ed7600001e
 
+// v1
+// function dragRace(len, anna, bob) {
+
+//   let annaRaceTime = (len/anna.speed)+anna.reactionTime
+//   let bobRaceTime = (len/bob.speed)+bob.reactionTime
+  
+//   if (annaRaceTime<bobRaceTime) { return 'Anna is the winner' }
+//   if (bobRaceTime<annaRaceTime) { return 'Bob is the winner' }
+  
+  
+//   return "It's a draw";
+// }
 
 
 // 1) END===============================================================
