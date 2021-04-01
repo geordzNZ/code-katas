@@ -36,8 +36,9 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Holiday I - Temperature in Bali (beta)
+// RANK: at start = 1127 / after completion =  / after completion = 
+// LINK:  https://www.codewars.com/kata/57e8e9df2aee49c0280009ab
 
 // 2) END===============================================================
 
