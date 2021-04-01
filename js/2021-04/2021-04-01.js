@@ -67,7 +67,13 @@
 // TITLE: Temperature analysis I (7 kyu)
 // LINK:  https://www.codewars.com/kata/588e0f11b7b4a5b373000041
 
-
+// function lowestTemp(t) {
+//   if (t.length ===0) return null
+//   let temps = t.split(' ')
+//   let min = 9999
+//   for (let i=0; i<temps.length; i++)  { if (Number(temps[i]) < min) { min = Number(temps[i]) } }
+//   return min
+// }
 
 // 3) END===============================================================
 
