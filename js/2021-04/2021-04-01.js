@@ -54,12 +54,18 @@
 //   return true  
 // }
 
+// v3
+// function bareable(heat, humidity){
+//   return humidity > 0.5 || heat >= 36 ? false : 
+//          (heat >= 25 && heat < 36) && humidity > 0.4 ? false : true  
+// }
+
 // 2) END===============================================================
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Temperature converter (6 kyu)
+// LINK:  https://www.codewars.com/kata/54ce9497975ca65e1a0008c6
 
 // 3) END===============================================================
 
