@@ -7,8 +7,10 @@
 //   Updates to js file = comment = #X kata for 01/Apr/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Racing #1: Simplified Drag Race (7 kyu)
+// LINK:  https://www.codewars.com/kata/5a40f5b01f7f70ed7600001e
+
+
 
 // 1) END===============================================================
 
