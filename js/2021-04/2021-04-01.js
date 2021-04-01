@@ -23,6 +23,14 @@
 //   return "It's a draw";
 // }
 
+// v2
+// function dragRace(len, anna, bob) {
+//   let annaRaceTime = (len/anna.speed)+anna.reactionTime
+//   let bobRaceTime = (len/bob.speed)+bob.reactionTime
+  
+//   return (annaRaceTime<bobRaceTime) ? 'Anna is the winner' : 
+//          (bobRaceTime<annaRaceTime) ? 'Bob is the winner' : "It's a draw"
+//   }
 
 // 1) END===============================================================
 
