@@ -25,6 +25,15 @@
 // TITLE: Who is the killer? (7 kyu)
 // LINK:  https://www.codewars.com/kata/5f709c8fb0d88300292a7a9d
 
+// someone elses answer
+// function killer(suspectInfo, dead) {
+//   for (let name in suspectInfo) {
+//     if (dead.every(deadPerson => suspectInfo[name].includes(deadPerson))) {
+//       return name;
+//     }
+//   }
+// }
+
 // 2) END===============================================================
 
 
