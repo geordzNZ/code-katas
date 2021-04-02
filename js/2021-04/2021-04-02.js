@@ -128,6 +128,8 @@
 // TITLE: Invert values (8 kyu)
 // LINK:  https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad
 
+// const invert = array => array.map((x) => x*-1);
+
 // 4) END===============================================================
 
 
