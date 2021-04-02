@@ -15,6 +15,9 @@
 //   return name.length>2 ? [name, name.substr(0,2)] : [name]
 // }
 
+// v2
+// const whoIsPaying = name => name.length>2 ? [name, name.substr(0,2)] : [name]
+
 // 1) END===============================================================
 
 
