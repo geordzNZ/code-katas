@@ -7,8 +7,8 @@
 //   Updates to js file = comment = #X kata for 02/Apr/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Who is going to pay for the wall? (8 kyu)
+// LINK:  https://www.codewars.com/kata/58bf9bd943fadb2a980000a7
 
 // 1) END===============================================================
 
