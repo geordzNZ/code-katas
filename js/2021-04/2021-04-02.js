@@ -125,8 +125,8 @@
 
 
 // 4) START===============================================================
-// TITLE: Temperature analysis II (7 kyu)
-// LINK:  https://www.codewars.com/kata/588e10c5f051b147ff00004b
+// TITLE: Invert values (8 kyu)
+// LINK:  https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad
 
 // 4) END===============================================================
 
