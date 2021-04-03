@@ -37,6 +37,9 @@
 //   return Math.PI * Math.pow(circle.radius,2)
 // }
 
+// v2
+//const circleArea = circle => Math.PI * Math.pow(circle.radius,2)
+
 // 2) END===============================================================
 
 
