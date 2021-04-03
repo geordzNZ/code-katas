@@ -47,6 +47,11 @@
 // TITLE: Geometry Basics: Circle Circumference in 2D (8 kyu)
 // LINK:  https://www.codewars.com/kata/58e43389acfd3e81d5000a88
 
+// v1
+// function circleCircumference(circle) {
+//   return 2 * Math.PI * circle.radius
+// }
+
 // 3) END===============================================================
 
 
