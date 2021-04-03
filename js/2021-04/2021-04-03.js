@@ -7,8 +7,8 @@
 //   Updates to js file = comment = #X kata for 03/Apr/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Who ate the cookie? (8 kyu)
+// LINK:  https://www.codewars.com/kata/55a996e0e8520afab9000055
 
 // 1) END===============================================================
 
