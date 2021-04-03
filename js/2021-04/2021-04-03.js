@@ -52,6 +52,9 @@
 //   return 2 * Math.PI * circle.radius
 // }
 
+// v2
+// const circleCircumference = circle => 2 * Math.PI * circle.radius
+
 // 3) END===============================================================
 
 
