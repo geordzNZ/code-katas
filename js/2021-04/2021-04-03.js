@@ -32,6 +32,11 @@
 // TITLE: Geometry Basics: Circle Area in 2D (8 kyu)
 // LINK:  https://www.codewars.com/kata/58e3f824a33b52c1dc0001c0
 
+// v1
+// function circleArea(circle){
+//   return Math.PI * Math.pow(circle.radius,2)
+// }
+
 // 2) END===============================================================
 
 
