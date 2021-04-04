@@ -21,8 +21,8 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Geometry Basics: Triangle Perimeter in 2D (7 kyu)
+// LINK:  https://www.codewars.com/kata/58e3e62f20617b6d7700120a
 
 // 2) END===============================================================
 
