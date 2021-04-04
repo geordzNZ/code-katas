@@ -87,6 +87,18 @@
 // TITLE: Complementary DNA (7 kyu)
 // LINK:  https://www.codewars.com/kata/554e4a2f232cdd87d9000038
 
+// v1
+// function DNAStrand(dna){
+//   let splitDNAarr = dna.split('')
+//   let newDNAarr = splitDNAarr.map((char) => {
+//     return char === 'A' ? 'T' : 
+//            char === 'T' ? 'A' :
+//            char === 'C' ? 'G' : 'C'
+//   })
+  
+//   return newDNAarr.join('')
+// }
+
 // 6) END===============================================================
 
 
