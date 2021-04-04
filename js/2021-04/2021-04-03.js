@@ -59,8 +59,8 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Geometry Basics: Triangle Area in 2D (6 kyu)
+// LINK:  https://www.codewars.com/kata/58e4377c46e371aee7001262/train/javascript
 
 // 4) END===============================================================
 
