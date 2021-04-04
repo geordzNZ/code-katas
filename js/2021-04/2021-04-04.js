@@ -4,7 +4,6 @@
 //   Kyu = 4
 //   Clan = 10
 // Comments:
-//   New JS file = --Create code kata js file for 04/Apr/2021
 //   Updates to js file = comment = #X kata for 04/Apr/2021
 
 // 1) START===============================================================
