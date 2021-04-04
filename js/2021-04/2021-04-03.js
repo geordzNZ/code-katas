@@ -99,6 +99,9 @@
 //   return newDNAarr.join('')
 // }
 
+// v2
+// const DNAStrand = dna => dna.split('').map((char) => char === 'A' ? 'T' : char === 'T' ? 'A' : char === 'C' ? 'G' : 'C').join('')
+
 // 6) END===============================================================
 
 
