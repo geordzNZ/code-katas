@@ -7,8 +7,8 @@
 //   Updates to js file = comment = #X kata for 04/Apr/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Geometry Basics: Distance between points in 2D (8 kyu)
+// LINK:  https://www.codewars.com/kata/58dced7b702b805b200000be
 
 // 1) END===============================================================
 
