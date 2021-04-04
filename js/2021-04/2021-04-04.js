@@ -24,6 +24,15 @@
 // TITLE: Geometry Basics: Triangle Perimeter in 2D (7 kyu)
 // LINK:  https://www.codewars.com/kata/58e3e62f20617b6d7700120a
 
+// function trianglePerimeter(triangle){
+  
+//   let hyp1 = Math.hypot(triangle.a.x-triangle.b.x,triangle.a.y-triangle.b.y)
+//   let hyp2 = Math.hypot(triangle.b.x-triangle.c.x,triangle.b.y-triangle.c.y)
+//   let hyp3 = Math.hypot(triangle.c.x-triangle.a.x,triangle.c.y-triangle.a.y)
+  
+//   return hyp1 + hyp2 + hyp3
+// }
+
 // 2) END===============================================================
 
 
