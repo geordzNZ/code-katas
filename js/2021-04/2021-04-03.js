@@ -78,6 +78,8 @@
 // TITLE: Area of a Circle (7 kyu)
 // LINK:  https://www.codewars.com/kata/537baa6f8f4b300b5900106c
 
+// var circleArea = r => r>0 ? +(Math.PI*Math.pow(r,2)).toFixed(2) : false
+
 // 5) END===============================================================
 
 
