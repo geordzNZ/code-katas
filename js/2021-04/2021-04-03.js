@@ -62,6 +62,15 @@
 // TITLE: Geometry Basics: Triangle Area in 2D (6 kyu)
 // LINK:  https://www.codewars.com/kata/58e4377c46e371aee7001262/train/javascript
 
+// function triangleArea(triangle){
+  
+//   let hyp1 = Math.hypot(triangle.a.x-triangle.b.x,triangle.a.y-triangle.b.y)
+//   let hyp2 = Math.hypot(triangle.b.x-triangle.c.x,triangle.b.y-triangle.c.y)
+//   let hyp3 = Math.hypot(triangle.c.x-triangle.a.x,triangle.c.y-triangle.a.y)
+  
+//   return 0.25 * Math.sqrt((hyp1 + hyp2 + hyp3) * (-hyp1 + hyp2 + hyp3) * (hyp1 - hyp2 + hyp3) * (hyp1 + hyp2 - hyp3)) 
+// }
+
 // 4) END===============================================================
 
 
