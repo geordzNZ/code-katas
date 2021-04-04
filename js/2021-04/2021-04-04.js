@@ -10,6 +10,13 @@
 // TITLE: Geometry Basics: Distance between points in 2D (8 kyu)
 // LINK:  https://www.codewars.com/kata/58dced7b702b805b200000be
 
+// function distanceBetweenPoints(a, b) {
+//   let xDist = a.x - b.x
+//   let yDist = a.y - b.y
+
+//   return Math.sqrt( xDist*xDist + yDist*yDist )
+// }
+
 // 1) END===============================================================
 
 
