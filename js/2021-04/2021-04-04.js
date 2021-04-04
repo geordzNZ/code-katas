@@ -37,22 +37,48 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Geometry Basics: Triangle Area in 2D (6 kyu)
+// LINK:  https://www.codewars.com/kata/58e4377c46e371aee7001262/train/javascript
+
+// function triangleArea(triangle){
+  
+//   let hyp1 = Math.hypot(triangle.a.x-triangle.b.x,triangle.a.y-triangle.b.y)
+//   let hyp2 = Math.hypot(triangle.b.x-triangle.c.x,triangle.b.y-triangle.c.y)
+//   let hyp3 = Math.hypot(triangle.c.x-triangle.a.x,triangle.c.y-triangle.a.y)
+  
+//   return 0.25 * Math.sqrt((hyp1 + hyp2 + hyp3) * (-hyp1 + hyp2 + hyp3) * (hyp1 - hyp2 + hyp3) * (hyp1 + hyp2 - hyp3)) 
+// }
 
 // 3) END===============================================================
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Area of a Circle (7 kyu)
+// LINK:  https://www.codewars.com/kata/537baa6f8f4b300b5900106c
+
+// var circleArea = r => r>0 ? +(Math.PI*Math.pow(r,2)).toFixed(2) : false
 
 // 4) END===============================================================
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Complementary DNA (7 kyu)
+// LINK:  https://www.codewars.com/kata/554e4a2f232cdd87d9000038
+
+// v1
+// function DNAStrand(dna){
+//   let splitDNAarr = dna.split('')
+//   let newDNAarr = splitDNAarr.map((char) => {
+//     return char === 'A' ? 'T' : 
+//            char === 'T' ? 'A' :
+//            char === 'C' ? 'G' : 'C'
+//   })
+  
+//   return newDNAarr.join('')
+// }
+
+// v2
+// const DNAStrand = dna => dna.split('').map((char) => char === 'A' ? 'T' : char === 'T' ? 'A' : char === 'C' ? 'G' : 'C').join('')
 
 // 5) END===============================================================
 
