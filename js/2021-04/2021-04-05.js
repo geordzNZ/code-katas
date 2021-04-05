@@ -46,8 +46,9 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Thinkful - String Drills: Hello, World (beta)
+// RANK:  at start = 1170 / after completeion =  / after ranking = 
+// LINK:  https://www.codewars.com/kata/5859d3325a8a0747180000c6
 
 // 4) END===============================================================
 
