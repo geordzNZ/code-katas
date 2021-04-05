@@ -16,8 +16,8 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Thinkful - String Drills: Repeater level 2 (7 kyu)
+// LINK:  https://www.codewars.com/kata/585a1f0945376c112a00019a
 
 // 2) END===============================================================
 
