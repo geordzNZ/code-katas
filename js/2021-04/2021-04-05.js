@@ -47,7 +47,7 @@
 
 // 4) START===============================================================
 // TITLE: Thinkful - String Drills: Hello, World (beta)
-// RANK:  at start = 1170 / after completeion =  / after ranking = 
+// RANK:  at start = 1170 / after completeion = 1174 / after ranking = 1176
 // LINK:  https://www.codewars.com/kata/5859d3325a8a0747180000c6
 
 // const hello = n => `Hello, ${n}`
