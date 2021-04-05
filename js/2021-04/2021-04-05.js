@@ -7,8 +7,8 @@
 //   Updates to js file = comment = #X kata for 05/Apr/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Thinkful - String Drills: Repeater (7 kyu)
+// LINK:  https://www.codewars.com/kata/585a1a227cb58d8d740001c3
 
 // 1) END===============================================================
 
