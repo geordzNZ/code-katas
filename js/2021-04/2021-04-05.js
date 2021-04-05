@@ -24,6 +24,9 @@
 //   return `"${string}" repeated ${n} times is: "${string.repeat(n)}"`
 // }
 
+// v2
+// const repeater = (string, n) => `"${string}" repeated ${n} times is: "${string.repeat(n)}"`
+
 // 2) END===============================================================
 
 
