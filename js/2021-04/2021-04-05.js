@@ -50,6 +50,8 @@
 // RANK:  at start = 1170 / after completeion =  / after ranking = 
 // LINK:  https://www.codewars.com/kata/5859d3325a8a0747180000c6
 
+// const hello = n => `Hello, ${n}`
+
 // 4) END===============================================================
 
 
