@@ -19,6 +19,11 @@
 // TITLE: Thinkful - String Drills: Repeater level 2 (7 kyu)
 // LINK:  https://www.codewars.com/kata/585a1f0945376c112a00019a
 
+// v1
+// function repeater(string, n) {
+//   return `"${string}" repeated ${n} times is: "${string.repeat(n)}"`
+// }
+
 // 2) END===============================================================
 
 
