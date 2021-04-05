@@ -34,6 +34,11 @@
 // TITLE: Thinkful - String Drills: Poem formatter (7 kyu)
 // LINK:  https://www.codewars.com/kata/585af8f645376cda59000200
 
+// v1
+// function formatPoem(poem) {
+//   return poem.split('. ').join(`.\n`)
+// }
+
 // 3) END===============================================================
 
 
