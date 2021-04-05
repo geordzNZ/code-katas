@@ -31,8 +31,8 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Thinkful - String Drills: Quotable (7 kyu)
+// LINK:  https://www.codewars.com/kata/5859c82bd41fc6207900007a
 
 // 3) END===============================================================
 
