@@ -45,6 +45,21 @@
 // TITLE: The Office I - Outed (7 kyu)
 // LINK:  https://www.codewars.com/kata/the-office-i-outed
 
+// v1
+// function outed(meet, boss){
+//   let total = 0
+//   let avg = 0
+//   let ctr = 0
+  
+//   for (p in meet){
+//     total += meet[p]
+//     ctr++
+//   }
+//   total += meet[boss]
+//   avg = total / ctr
+//   return avg <= 5 ? 'Get Out Now!' : 'Nice Work Champ!'
+// }
+
 // 4) END===============================================================
 
 
