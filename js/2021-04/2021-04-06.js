@@ -42,8 +42,8 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: The Office I - Outed (7 kyu)
+// LINK:  https://www.codewars.com/kata/the-office-i-outed
 
 // 4) END===============================================================
 
