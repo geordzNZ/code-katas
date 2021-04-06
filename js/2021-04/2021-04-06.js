@@ -73,6 +73,11 @@
 //   return ((total + meet[boss]) / ctr) <= 5 ? 'Get Out Now!' : 'Nice Work Champ!'
 // }
 
+// v3 - better answer from someone else
+// function outed(c, b) {
+//   return Object.keys(c).reduce((s, e) => s + c[e] * (e === b ? 2 : 1), 0) / Object.keys(c).length > 5 ? "Nice Work Champ!" : "Get Out Now!";
+// }
+
 // 4) END===============================================================
 
 
