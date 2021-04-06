@@ -19,6 +19,8 @@
 // TITLE: Thinkful - Number Drills: Rømer temperature (7 kyu)
 // LINK:  https://www.codewars.com/kata/5862eeeae20244d5eb000005
 
+// const celsiusToRomer = t => t * 21/40 + 7.5
+
 // 2) END===============================================================
 
 
