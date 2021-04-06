@@ -60,6 +60,19 @@
 //   return avg <= 5 ? 'Get Out Now!' : 'Nice Work Champ!'
 // }
 
+
+// v2
+// function outed(meet, boss){
+//   let total = 0
+//   let ctr = 0
+
+//   for (p in meet){
+//     total += meet[p]
+//     ctr++
+//   }
+//   return ((total + meet[boss]) / ctr) <= 5 ? 'Get Out Now!' : 'Nice Work Champ!'
+// }
+
 // 4) END===============================================================
 
 
