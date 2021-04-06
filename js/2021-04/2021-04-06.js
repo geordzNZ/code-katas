@@ -35,6 +35,9 @@
 //   return max
 // }
 
+// v2
+// const longest = w => w.reduce((max,wrd) => wrd.length > max ? max = wrd.length : max,0)
+
 // 3) END===============================================================
 
 
