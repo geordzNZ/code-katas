@@ -28,6 +28,13 @@
 // TITLE: Thinkful - List Drills: Longest word (7 kyu)
 // LINK:  https://www.codewars.com/kata/58670300f04e7449290000e5
 
+// v1
+// function longest(words) {
+//   let max = 0
+//   words.forEach((w) => { if (w.length > max) {max = w.length} })
+//   return max
+// }
+
 // 3) END===============================================================
 
 
