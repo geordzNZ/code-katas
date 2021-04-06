@@ -7,8 +7,8 @@
 //   Updates to js file = comment = #X kata for 06/Apr/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Thinkful - String Drills: Areacode extractor (7 kyu)
+// LINK:  https://www.codewars.com/kata/585a36b445376cbc22000072
 
 // 1) END===============================================================
 
