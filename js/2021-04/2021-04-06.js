@@ -10,6 +10,8 @@
 // TITLE: Thinkful - String Drills: Areacode extractor (7 kyu)
 // LINK:  https://www.codewars.com/kata/585a36b445376cbc22000072
 
+// const areaCode = text => text.substr(text.indexOf('(')+1,3)
+
 // 1) END===============================================================
 
 
