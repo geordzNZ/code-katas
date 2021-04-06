@@ -16,8 +16,8 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Thinkful - Number Drills: Rømer temperature (7 kyu)
+// LINK:  https://www.codewars.com/kata/5862eeeae20244d5eb000005
 
 // 2) END===============================================================
 
