@@ -4,12 +4,11 @@
 //   Kyu = 4
 //   Clan = 10
 // Comments:
-//   New JS file = --Create code kata js file for 07/Apr/2021
 //   Updates to js file = comment = #X kata for 07/Apr/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Paul's Misery (7 kyu)
+// LINK:  https://www.codewars.com/kata/57ee31c5e77282c24d000024
 
 // 1) END===============================================================
 
