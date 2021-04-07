@@ -10,6 +10,22 @@
 // TITLE: Paul's Misery (7 kyu)
 // LINK:  https://www.codewars.com/kata/57ee31c5e77282c24d000024
 
+// function paul(x){
+//   let score = 0
+//   let ratings = {
+//     kata: 5,
+//     Peteskata: 10,
+//     life: 0,
+//     eating: 1
+// }
+
+// for (m of x){ score += ratings[m.replace(' ','')] }
+
+//   return score < 40  ? 'Super happy!' : 
+//          score < 70  ? 'Happy!' :
+//          score < 100 ? 'Sad!' : 'Miserable!'
+// }
+
 // 1) END===============================================================
 
 
