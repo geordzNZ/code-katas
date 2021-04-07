@@ -102,6 +102,11 @@
 // TITLE: Days in the year (8 kyu)
 // LINK:  https://www.codewars.com/kata/56d6c333c9ae3fc32800070f
 
+// function yearDays(y) {
+//   let ly = (y % 400 === 0) ? 366 : (y % 100 === 0) ? 365 : (y % 4 === 0) ? 366 : 365
+//   return `${y} has ${ly} days`
+// }
+
 // 4) END===============================================================
 
 
