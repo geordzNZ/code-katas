@@ -30,8 +30,8 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: The Baby Years III - First Tooth (7 kyu)
+// LINK:  https://www.codewars.com/kata/5bcac5a01cbff756e900003e
 
 // 2) END===============================================================
 
