@@ -84,6 +84,17 @@
 //   return arr[0] + ctrDays[arr[1]-1] + ((arr[1] > 2 && ly) ? 1 : 0)
 // }
 
+
+// v2
+// function toDayOfYear(arr) {
+//   let [d,m,y] = arr
+//   let ctrDays = [0,31,59,90,120,151,181,212,243,273,304,334]
+  
+//   let ly = m < 3 ? false : (y % 400 === 0) ? true : (y % 100 === 0) ? false : (y % 4 === 0) ? true : false
+  
+//   return d + ctrDays[m-1] + ly
+// }
+
 // 3) END===============================================================
 
 
