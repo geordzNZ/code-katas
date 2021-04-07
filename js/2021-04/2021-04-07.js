@@ -76,6 +76,14 @@
 // TITLE: Day of the Year (7 kyu)
 // LINK:  https://www.codewars.com/kata/5a1ebe0d46d843454100004c
 
+// v1
+// function toDayOfYear(arr) {
+//   let ctrDays = [0,31,59,90,120,151,181,212,243,273,304,334]
+//   let ly = (arr[2]%400 === 0) ? true : (arr[2]%100 === 0) ? false : (arr[2]%4 === 0) ? true : false
+  
+//   return arr[0] + ctrDays[arr[1]-1] + ((arr[1] > 2 && ly) ? 1 : 0)
+// }
+
 // 3) END===============================================================
 
 
