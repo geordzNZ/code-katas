@@ -33,6 +33,42 @@
 // TITLE: The Baby Years III - First Tooth (7 kyu)
 // LINK:  https://www.codewars.com/kata/5bcac5a01cbff756e900003e
 
+// function firstTooth(t) {
+//   let maxDiff = {
+//     value: 0,
+//     tooth: 0
+//   }
+//   let dupDiff = false
+
+//   for (let i = 0; i < t.length; i++){
+//     let lDiff = 0
+//     let rDiff = 0
+//     let tDiff = 0
+    
+//     if (i === 0) { 
+//       maxDiff.value = t[i] - t[i+1] 
+//       maxDiff.tooth = i
+//     } else if (i === t.length - 1) { 
+//       lDiff = t[i] - t[i-1]
+//       if (lDiff > maxDiff.value) { 
+//         maxDiff.value = lDiff 
+//         maxDiff.tooth = i
+//         dupDiff = false
+//       } else if ( lDiff === maxDiff.value ) { dupDiff = true }
+//     } else {
+//       lDiff = t[i] - t[i-1]
+//       rDiff = t[i] - t[i+1]
+//       tDiff = lDiff + rDiff
+//       if (tDiff > maxDiff.value) { 
+//         maxDiff.value = tDiff 
+//         maxDiff.tooth = i
+//         dupDiff = false
+//       } else if ( tDiff === maxDiff.value ) { dupDiff = true } 
+//     }
+//   }
+//   return !dupDiff ? maxDiff.tooth : -1
+// }
+
 // 2) END===============================================================
 
 
