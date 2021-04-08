@@ -23,6 +23,14 @@
 //   return m+'Run away,…'
 // }
 
+// v2 - 228 chars
+// let babySharkLyrics =()=>{
+//   let s=['Baby shark','Mommy shark','Daddy shark','Grandma shark','Grandpa shark',"Let's go hunt"]
+//   let d=`,${' doo'.repeat(6)}\n`
+//   let m=''
+//   for (t of s){m += (t + d).repeat(3)+`${t}!\n`}
+//   return m+'Run away,…'}
+
 // 1) END===============================================================
 
 
