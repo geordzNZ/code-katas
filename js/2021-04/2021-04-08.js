@@ -44,6 +44,10 @@
 //   s=["Baby shark","Mommy shark","Daddy shark","Grandma shark","Grandpa shark","Let's go hunt"]
 //   return s.map(t=>`${t},${" doo".repeat(6)}\n`.repeat(3)+`${t}!\n`).join("")+"Run away,…"}
 
+
+// v5 - 180 chars
+// babySharkLyrics=_=>[...["Baby","Mommy","Daddy","Grandma","Grandpa"].map(s=>s+' shark'),"Let's go hunt"].map(t=>`${t},${" doo".repeat(6)}\n`.repeat(3)+t+"!\n").join("")+"Run away,…"
+
 // 1) END===============================================================
 
 
