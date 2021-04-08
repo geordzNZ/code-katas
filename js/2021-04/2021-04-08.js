@@ -32,12 +32,17 @@
 //   return m+'Run away,…'}
 
 
-// v3 - 213
+// v3 - 213 chars
 // let babySharkLyrics =()=>{
 //   s=['Baby shark','Mommy shark','Daddy shark','Grandma shark','Grandpa shark',"Let's go hunt"]
 //   m=''
 //   for (t of s){m += (t + `,${' doo'.repeat(6)}\n`).repeat(3)+`${t}!\n`}
 //   return m+'Run away,…'}
+
+// v4 - 202 chars
+// babySharkLyrics=_=>{
+//   s=["Baby shark","Mommy shark","Daddy shark","Grandma shark","Grandpa shark","Let's go hunt"]
+//   return s.map((t)=>`${t},${" doo".repeat(6)}\n`.repeat(3)+`${t}!\n`).join("")+"Run away,…"}
 
 // 1) END===============================================================
 
