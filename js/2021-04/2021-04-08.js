@@ -70,6 +70,14 @@
   
 // }
 
+// v2
+// function leaderB(user, user_score, your_score){
+  
+//   return (your_score>user_score) ? "Winning!" :
+//          (your_score===user_score) ? "Only need one!" :
+//          `To beat ${user}'s score, I must complete ${Math.floor((user_score-your_score)/3)} Beta kata and ${(user_score-your_score)%3} 8kyu kata` + (((Math.floor((user_score-your_score)/3)) + ((user_score-your_score)%3) >1000) ? '. Dammit!' : '.')
+// }
+
 // 2) END===============================================================
 
 
