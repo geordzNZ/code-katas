@@ -7,8 +7,8 @@
 //   Updates to js file = comment = #X kata for 08/Apr/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Baby shark lyrics generator (7 kyu)
+// LINK:  https://www.codewars.com/kata/5d076515e102162ac0dc514e
 
 // 1) END===============================================================
 
