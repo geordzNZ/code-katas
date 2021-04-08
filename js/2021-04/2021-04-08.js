@@ -31,6 +31,14 @@
 //   for (t of s){m += (t + d).repeat(3)+`${t}!\n`}
 //   return m+'Run away,…'}
 
+
+// v3
+// let babySharkLyrics =()=>{
+//   s=['Baby shark','Mommy shark','Daddy shark','Grandma shark','Grandpa shark',"Let's go hunt"]
+//   m=''
+//   for (t of s){m += (t + `,${' doo'.repeat(6)}\n`).repeat(3)+`${t}!\n`}
+//   return m+'Run away,…'}
+
 // 1) END===============================================================
 
 
