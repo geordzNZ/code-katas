@@ -10,6 +10,19 @@
 // TITLE: Baby shark lyrics generator (7 kyu)
 // LINK:  https://www.codewars.com/kata/5d076515e102162ac0dc514e
 
+// v1 - 283 chars
+// function babySharkLyrics(){
+//   let s = ['Baby shark','Mommy shark','Daddy shark','Grandma shark','Grandpa shark',"Let's go hunt"]
+//   let d = `, doo doo doo doo doo doo\n`
+//   let m = ''
+  
+//   for (let i=0; i<6; i++){
+//     m += (s[i] + d).repeat(3)
+//     m += `${s[i]}!\n`
+//   }
+//   return m+'Run away,…'
+// }
+
 // 1) END===============================================================
 
 
