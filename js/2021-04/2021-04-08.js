@@ -55,6 +55,21 @@
 // TITLE: Codewars Leaderboard Climber (7 kyu)
 // LINK:  https://www.codewars.com/kata/57d28215264276ea010002cf
 
+// v1
+// function leaderB(user, user_score, your_score){
+  
+//   if (your_score>user_score) { return "Winning!" }
+//   if (your_score===user_score) { return "Only need one!" }
+  
+//   let beta = 3
+//   let k8 = 1
+//   let cntBeta = Math.floor((user_score-your_score)/beta)
+//   let cntK8 = (user_score-your_score)%beta
+  
+//   return `To beat ${user}'s score, I must complete ${cntBeta} Beta kata and ${cntK8} 8kyu kata` + ((cntBeta + cntK8 >1000) ? '. Dammit!' : '.')
+  
+// }
+
 // 2) END===============================================================
 
 
