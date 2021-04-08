@@ -7,8 +7,8 @@
 //   Updates to js file = comment = #X kata for 09/Apr/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: PopShift (7 kyu)
+// LINK:  https://www.codewars.com/kata/57cec34272f983e17800001e
 
 // 1) END===============================================================
 
