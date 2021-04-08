@@ -10,6 +10,20 @@
 // TITLE: PopShift (7 kyu)
 // LINK:  https://www.codewars.com/kata/57cec34272f983e17800001e
 
+// v1
+// function popShift(s){
+//   let splitS = s.split('')
+//   let sol1 = ''
+//   let sol2 = ''
+
+//   while (splitS.length > 1){
+//     sol1 += splitS.pop()
+//     sol2 += splitS.shift()
+//   }
+  
+//   return [sol1,sol2,splitS.toString()]
+// }
+
 // 1) END===============================================================
 
 
