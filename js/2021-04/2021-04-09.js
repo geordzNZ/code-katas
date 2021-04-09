@@ -41,6 +41,8 @@
 // TITLE: Holiday VII - Local Talk (7 kyu)
 // LINK:  https://www.codewars.com/kata/57e92812750fcc051800004d
 
+// const pak =s=> /\s{2}/.test(s) ? '' : s.split(' ').join(' pak ')
+
 // 2) END===============================================================
 
 
