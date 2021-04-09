@@ -24,6 +24,16 @@
 //   return [sol1,sol2,splitS.toString()]
 // }
 
+// v2
+// function popShift(s){
+//   let mid = s.length/2
+//   let sol1 = s.substr(Math.round(mid)).split('').reverse().join('')
+//   let sol2 = s.substr(0,Math.round(mid) - (mid%1===0 ? 0 : 1))
+//   let sol3 = mid%1===0 ? '' : s.substr(Math.round(mid)-1,1) 
+  
+//   return [sol1,sol2,sol3]
+// }
+
 // 1) END===============================================================
 
 
