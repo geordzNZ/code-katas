@@ -47,8 +47,9 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Car Door Roulette - Easy Version (beta)
+// RANK:  before: 1198 / after completion:  / after ranking:
+// LINK:  https://www.codewars.com/kata/57d1203395497e99120000c9
 
 // 3) END===============================================================
 
