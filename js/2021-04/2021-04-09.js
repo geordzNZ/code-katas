@@ -48,8 +48,15 @@
 
 // 3) START===============================================================
 // TITLE: Car Door Roulette - Easy Version (beta)
-// RANK:  before: 1198 / after completion:  / after ranking:
+// RANK:  before: 1198 / after completion: 1202 / after ranking: 1204
 // LINK:  https://www.codewars.com/kata/57d1203395497e99120000c9
+
+// function carD(s, x){
+//   for (let i = x; i<=x+2;i++) { if(s[i]==='\\') { return 'Crash, Bang, Ouch!' } }
+//   for (let i = x; i<=x+1;i++) { if(s[i]==='/') { return 'Knocked Off, Dust Yourself Down.' } }
+
+//   return 'Plain Sailing!'
+// }
 
 // 3) END===============================================================
 
