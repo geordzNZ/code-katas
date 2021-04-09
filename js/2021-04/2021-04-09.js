@@ -65,6 +65,8 @@
 // TITLE: ScholarStem: Unit 6- Baby count! (7 kyu)
 // LINK:  https://www.codewars.com/kata/5702f077e55d30a7af000115
 
+// const countName =(anArr, name)=> anArr.filter((x) => name===x).length
+
 // 4) END===============================================================
 
 
