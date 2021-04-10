@@ -90,6 +90,10 @@
 //   return [...pt].map((c)=>(alphabet.indexOf(c.toLowerCase())===-1) ? c : 
 //                            alphabet.indexOf(c.toLowerCase())%2===0 ? '0' : '1').join('')
 // }
+
+// v3 - copied and amended a bit...
+// const encode=pt=>pt.replace(/[a-z]/gi,c=>1-c.charCodeAt(0)%2)
+
 // 3) END===============================================================
 
 
