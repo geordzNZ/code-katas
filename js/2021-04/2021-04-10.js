@@ -36,6 +36,16 @@
 // TITLE: Cipher (7 kyu)
 // LINK:  https://www.codewars.com/kata/5a19701d80171fd71d000029
 
+// v1
+// function encode(str) {
+//   let spArr = str.split('')
+//   return spArr.map((c)=> String.fromCharCode(c.charCodeAt(0)*6) ).join('')
+// }
+
+// function decode(str) {
+//   let spArr = str.split('')
+//   return spArr.map((c)=> String.fromCharCode(c.charCodeAt(0)/6) ).join('')
+// }
 // 2) END===============================================================
 
 
