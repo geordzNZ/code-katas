@@ -67,6 +67,22 @@
 // TITLE: Ciphers #1 - The 01 Cipher (7 kyu)
 // LINK:  https://www.codewars.com/kata/593f50f343030bd35e0000c6
 
+// v1
+// function encode(plaintext){
+//   let alphabet = 'abcdefghijklmnopqrstuvwxyz'.split('')
+//   let newStr = ''
+  
+//   for (let i=0; i<plaintext.length;i++){
+//     if (alphabet.indexOf(plaintext[i].toLowerCase()) != -1){
+//       let indx = alphabet.indexOf(plaintext[i].toLowerCase())
+//       newStr += indx%2===0 ? '0' : '1'
+//     } else {
+//       newStr += plaintext[i]
+//     } 
+//   }
+//   return newStr
+// }
+
 // 3) END===============================================================
 
 
