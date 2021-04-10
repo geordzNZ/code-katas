@@ -51,6 +51,15 @@
 // const encode=str=>str.split('').map((c) => String.fromCharCode(c.charCodeAt()*6)).join('')
 // const decode=str=>str.split('').map((c) => String.fromCharCode(c.charCodeAt()/6)).join('')
 
+// v3
+// const encode=str=>str.split('').map((c) => String.fromCharCode(c.charCodeAt()*6)).join('')
+// const encode=s=> s.split('').map((c)=>String.fromCharCode(c.charCodeAt()*6)).join``
+// const encode=s=> [...s].map((c)=>String.fromCharCode(c.charCodeAt()*6)).join``
+
+// const decode =str=> str.split('').map((c) => String.fromCharCode(c.charCodeAt()/6)).join('')
+// const decode=s=> s.split('').map((c)=>String.fromCharCode(c.charCodeAt()/6)).join``
+//const decode=s=> [...s].map((c)=>String.fromCharCode(c.charCodeAt()/6)).join``
+
 // 2) END===============================================================
 
 
