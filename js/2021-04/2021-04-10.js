@@ -11,6 +11,24 @@
 // TITLE: Caesar Cipher Encryption - Variation (6kyu)
 // LINK:  https://www.codewars.com/kata/55ec55323c89fc5fbd000019
 
+// function caesarEncode(phrase, shift) {
+//   let spPh = phrase.split('')
+//   let newPh = spPh.map((c,i)=>{
+//     let newC = ''
+//     shift = shift>26 ? shift%26 : shift
+    
+//     if (c === ' ') {
+//       shift===26 ? shift=1 : shift++
+//       return ' '
+//     }
+//     else { 
+//         let adjSh = c.charCodeAt(0) + shift > 122 ? c.charCodeAt(0) + shift - 26 : c.charCodeAt(0) + shift
+//         return String.fromCharCode(adjSh)
+//       }
+//     })
+//   return newPh.join('')
+// }
+
 // 1) END===============================================================
 
 
