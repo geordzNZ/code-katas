@@ -46,6 +46,11 @@
 //   let spArr = str.split('')
 //   return spArr.map((c)=> String.fromCharCode(c.charCodeAt(0)/6) ).join('')
 // }
+
+// v2
+// const encode=str=>str.split('').map((c) => String.fromCharCode(c.charCodeAt()*6)).join('')
+// const decode=str=>str.split('').map((c) => String.fromCharCode(c.charCodeAt()/6)).join('')
+
 // 2) END===============================================================
 
 
