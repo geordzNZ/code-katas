@@ -83,6 +83,13 @@
 //   return newStr
 // }
 
+// v2
+// function encode(pt){
+//   let alphabet = 'abcdefghijklmnopqrstuvwxyz'.split('')
+  
+//   return [...pt].map((c)=>(alphabet.indexOf(c.toLowerCase())===-1) ? c : 
+//                            alphabet.indexOf(c.toLowerCase())%2===0 ? '0' : '1').join('')
+// }
 // 3) END===============================================================
 
 
