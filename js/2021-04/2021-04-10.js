@@ -8,7 +8,7 @@
 //   Updates to js file = comment = #X kata for 10/Apr/2021
 
 // 1) START===============================================================
-// TITLE: Caesar Cipher Encryption - Variation (6kyu)
+// TITLE: Caesar Cipher Encryption - Variation (6 kyu)
 // LINK:  https://www.codewars.com/kata/55ec55323c89fc5fbd000019
 
 // function caesarEncode(phrase, shift) {
@@ -33,8 +33,8 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Cipher (7 kyu)
+// LINK:  https://www.codewars.com/kata/5a19701d80171fd71d000029
 
 // 2) END===============================================================
 
