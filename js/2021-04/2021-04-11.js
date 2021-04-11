@@ -65,6 +65,13 @@
 //     return "Hello, my love!";
 // }
 
+// v1
+// function greet(name){
+//   if(name === "Johnny")
+//     return "Hello, my love!";
+//   return "Hello, " + name + "!";
+// }
+
 // 3) END===============================================================
 
 
