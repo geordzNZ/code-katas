@@ -20,6 +20,15 @@
 //   }
 //   return pt2.join(' ')
 // }
+
+// v2
+// function encode(pt){
+//   let pt2 = pt.split(' ')
+//   for (let i=0; i<pt2.length; i++){
+//     pt2[i] = pt2[i].split('').reverse().join('').concat(pt2[i][pt2[i].length-1]).substr(1)
+//   }
+//   return pt2.join(' ') 
+// }
 // 1) END===============================================================
 
 
