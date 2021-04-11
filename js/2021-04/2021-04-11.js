@@ -58,6 +58,13 @@
 // TITLE: Jenny's secret message (8 kyu)
 // LINK:  https://www.codewars.com/kata/55225023e1be1ec8bc000390
 
+// Fix this
+// function greet(name){
+//   return "Hello, " + name + "!";
+//   if(name === "Johnny")
+//     return "Hello, my love!";
+// }
+
 // 3) END===============================================================
 
 
