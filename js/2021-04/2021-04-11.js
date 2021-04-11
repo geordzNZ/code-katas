@@ -33,8 +33,8 @@
 
 
 // 2) START===============================================================
-// TITLE: Caesar Cipher Helper (5 kyu)
-// LINK:  https://www.codewars.com/kata/526d42b6526963598d0004db
+// TITLE: Sum of the first nth term of Series (7 kyu)
+// LINK:  https://www.codewars.com/kata/555eded1ad94b00403000071
 
 // 2) END===============================================================
 
