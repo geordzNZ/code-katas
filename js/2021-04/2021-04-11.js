@@ -10,6 +10,16 @@
 // TITLE: Ciphers #2 - The reversed Cipher (6 kyu)
 // LINK:  https://www.codewars.com/kata/59474c656ff02b21e20000fc
 
+// v1
+// function encode(pt){
+//   let pt2 = pt.split(' ')
+//   for (let i=0; i<pt2.length; i++){
+//     pt2[i] = pt2[i].split('').reverse().join('')
+//     pt2[i] += pt2[i][0]
+//     pt2[i] = pt2[i].substr(1)
+//   }
+//   return pt2.join(' ')
+// }
 // 1) END===============================================================
 
 
