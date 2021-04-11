@@ -72,6 +72,9 @@
 //   return "Hello, " + name + "!";
 // }
 
+// v2
+// const greet=n=> n==="Johnny" ? "Hello, my love!" : `Hello, ${n}!`
+
 // 3) END===============================================================
 
 
