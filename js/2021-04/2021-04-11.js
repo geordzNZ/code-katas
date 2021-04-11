@@ -36,6 +36,7 @@
 // TITLE: Sum of the first nth term of Series (7 kyu)
 // LINK:  https://www.codewars.com/kata/555eded1ad94b00403000071
 
+// v1
 // function SeriesSum(n) {
 //   if (n ===0) { return '0.00'}
 //   let sum = 0
