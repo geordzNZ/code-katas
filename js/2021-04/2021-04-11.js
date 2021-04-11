@@ -7,8 +7,8 @@
 //   Updates to js file = comment = #X kata for 11/Apr/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Ciphers #2 - The reversed Cipher (6 kyu)
+// LINK:  https://www.codewars.com/kata/59474c656ff02b21e20000fc
 
 // 1) END===============================================================
 
