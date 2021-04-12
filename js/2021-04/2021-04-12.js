@@ -7,8 +7,8 @@
 //   Updates to js file = comment = #X kata for 12/Apr/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Secret Agent 101: The secret password (beta)
+// LINK:  https://www.codewars.com/kata/56c5ac0803a14d43fd0026e6
 
 // 1) END===============================================================
 
