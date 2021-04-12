@@ -8,7 +8,7 @@
 
 // 1) START===============================================================
 // TITLE: Secret Agent 101: The secret password (beta)
-// RANK:  before: 1230 / after completion: / after ranking: 
+// RANK:  before: 1230 / after completion: 1234 / after ranking: 1236
 // LINK:  https://www.codewars.com/kata/56c5ac0803a14d43fd0026e6
 
 // Part 1
