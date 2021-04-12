@@ -125,6 +125,7 @@
 
 // 2) START===============================================================
 // TITLE: Secret Code (beta)
+// RANK:  before: 1236 / after completion:  / after ranking: 
 // LINK:  https://www.codewars.com/kata/596a6c6722407127d4000035
 
 // 2) END===============================================================
