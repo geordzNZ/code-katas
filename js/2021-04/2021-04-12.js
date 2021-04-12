@@ -128,6 +128,19 @@
 // RANK:  before: 1236 / after completion:  / after ranking: 
 // LINK:  https://www.codewars.com/kata/596a6c6722407127d4000035
 
+// function translate(str){
+//   let newStr = ''
+  
+//   for (let i=0; i<str.length; i++){
+//     if (str[i] === str[i].toUpperCase()) {
+//       if (i != str.length-1) { newStr += str[i+1].toLowerCase() }
+//       newStr += str[i].toLowerCase()
+//       i++
+//     } else { newStr += str[i] }
+//   }
+//   return newStr
+// }
+
 // 2) END===============================================================
 
 
