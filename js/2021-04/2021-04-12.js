@@ -36,6 +36,36 @@
 //     return newP2+newP3+newP1 
 //   }
 
+// part 2
+// function decrypt(pc) {
+//   if (pc.length<9 || pc.length>11) { return 'BANG!'}
+  
+//   let pcP2 = pc.substr(0,3)
+//   let pcP3 = pc.substr(3,3)
+//   let pcP1 = pc.substr(6)
+//   let newP1 = ''
+//   let newP2 = ''
+//   let newP3 = ''
+//   let fullPC = ''
+  
+//   pcP1 = pcP1.replace(/\D/,`,$&,`).split(',')
+//   //console.log(pcP1)
+  
+//   newP1 = String.fromCharCode(parseInt(pcP1[0])+96)
+//   newP1 += pcP1[1]
+//   newP1 += String.fromCharCode(parseInt(pcP1[2])+96)
+  
+//   newP2 = pcP2.split('').reverse().join('')
+  
+//   newP3 = String.fromCharCode(pcP3.charCodeAt(0) === 97 ? 122 : pcP3.charCodeAt(0)-1)
+//   newP3 += String.fromCharCode(pcP3.charCodeAt(1) === 97 ? 122 : pcP3.charCodeAt(1)-1)
+//   newP3 += String.fromCharCode(pcP3.charCodeAt(2) === 97 ? 122 : pcP3.charCodeAt(2)-1)
+ 
+//   fullPC = newP1+newP2+newP3
+//   return validPasscodes.includes(fullPC) ? 'Nice to meet you, fellow Agent!' : 'BANG!'
+  
+// }
+
 // 1) END===============================================================
 
 
