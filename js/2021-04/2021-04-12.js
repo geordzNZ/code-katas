@@ -141,6 +141,9 @@
 //   return newStr
 // }
 
+// nicer answer
+//const translate = str => str.replace(/([A-Z])(.)/g, "$2$1").toLowerCase();
+
 // 2) END===============================================================
 
 
