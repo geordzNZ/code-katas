@@ -11,6 +11,31 @@
 // RANK:  before: 1230 / after completion:  / after ranking: 
 // LINK:  https://www.codewars.com/kata/56c5ac0803a14d43fd0026e6
 
+// Part 1
+// //Section 1: Encryption
+// function encrypt(pc) {
+//     if (pc.length!=9) { return 'BANG!'}
+    
+//     let pcP1 = pc.substr(0,3)
+//     let pcP2 = pc.substr(3,3)
+//     let pcP3 = pc.substr(6,3)
+//     let newP1 = ''
+//     let newP2 = ''
+//     let newP3 = ''
+    
+//     newP1 = pcP1.charCodeAt(0)-96
+//     newP1 += pcP1[1]
+//     newP1 +=  pcP1.charCodeAt(2)-96
+    
+//     newP2 = pcP2.split('').reverse().join('')
+    
+//     newP3 = String.fromCharCode(pcP3.charCodeAt(0) === 122 ? 97 : pcP3.charCodeAt(0)+1)
+//     newP3 += String.fromCharCode(pcP3.charCodeAt(1) === 122 ? 97 : pcP3.charCodeAt(1)+1)
+//     newP3 += String.fromCharCode(pcP3.charCodeAt(2) === 122 ? 97 : pcP3.charCodeAt(2)+1)
+    
+//     return newP2+newP3+newP1 
+//   }
+
 // 1) END===============================================================
 
 
