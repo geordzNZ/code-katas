@@ -26,6 +26,8 @@
 // TITLE: Help the Fruit Guy (7 kyu)
 // LINK:  https://www.codewars.com/kata/557af4c6169ac832300000ba
 
+// const removeRotten =bagOfFruits=> !bagOfFruits ? [] : bagOfFruits.map(f=> f.replace('rotten','').toLowerCase())
+
 // 2) END===============================================================
 
 
