@@ -20,6 +20,13 @@
 // TITLE: All Star Code Challenge #7 (7 kyu)
 // LINK:  https://www.codewars.com/kata/586427d883f7e6b5670001dc
 
+// function compute(n){
+//   if (n%2===0 || n<3) { return 0 }
+//   let res = 1
+//   for (let i=3;i<=n;i+=2){ res += 1/Math.pow(i,2) }
+//   return res
+// }
+
 // 2) END===============================================================
 
 
