@@ -4,8 +4,8 @@
 //   Kyu = FIXME:X 
 //   Clan = FIXME:XX
 // Comments:
-//   New JS file = --Create code kata js file for FIXME:DD/Apr/2021
-//   Updates to js file = comment = #X kata for FIXME:DD/Apr/2021
+//   New JS file = git commit -m "--Create code kata js file for FIXME:DD/Apr/2021"
+//   Updates to js file = comment = git commit -am "#X kata for FIXME:DD/Apr/2021"
 
 // 1) START===============================================================
 // TITLE: 
