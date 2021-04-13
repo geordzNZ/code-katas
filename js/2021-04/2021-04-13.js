@@ -35,6 +35,8 @@
 // TITLE: All Star Code Challenge #3 (7 kyu)
 // LINK:  https://www.codewars.com/kata/58640340b3a675d9a70000b9
 
+// var removeVowels =str=> str.replace(/[aeiou]/g,'')
+
 // 3) END===============================================================
 
 
