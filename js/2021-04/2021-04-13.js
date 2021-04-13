@@ -4,12 +4,11 @@
 //   Kyu = 4
 //   Clan = 9
 // Comments:
-//   New JS file = --Create code kata js file for 13/Apr/2021
 //   Updates to js file = comment = #X kata for 13/Apr/2021
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Letterbox Paint-Squad (7 kyu)
+// LINK:  https://www.codewars.com/kata/597d75744f4190857a00008d
 
 // 1) END===============================================================
 
