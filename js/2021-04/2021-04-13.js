@@ -23,8 +23,8 @@
 
 
 // 2) START===============================================================
-// TITLE: Help the Elite Squad of Brazilian forces BOPE (8 kyu)
-// LINK:  https://www.codewars.com/kata/5ab52526379d20736b00000e
+// TITLE: Help the Fruit Guy (7 kyu)
+// LINK:  https://www.codewars.com/kata/557af4c6169ac832300000ba
 
 // 2) END===============================================================
 
