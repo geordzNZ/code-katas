@@ -7,8 +7,11 @@
 //   Updates to js file = comment = git commit -am "#X kata for 14/Apr/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: All Star Code Challenge #4 (beta)
+// RANK:  vefore kata: 1250 / on completion:  / on ranking: 
+// LINK:  https://www.codewars.com/kata/586405a639c5abc2db0000e8
+
+// const getCollege =p=> p.college
 
 // 1) END===============================================================
 
