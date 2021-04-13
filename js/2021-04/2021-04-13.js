@@ -10,6 +10,15 @@
 // TITLE: Letterbox Paint-Squad (7 kyu)
 // LINK:  https://www.codewars.com/kata/597d75744f4190857a00008d
 
+// var paintLetterboxes = function(start, end) {
+//   let countNums = [0,0,0,0,0,0,0,0,0,0]
+  
+//   for (let hse=start;hse<=end;hse++){
+//     hse.toString().split('').forEach((h)=> countNums[h] += 1)
+//   }
+//   return countNums
+// }
+
 // 1) END===============================================================
 
 
