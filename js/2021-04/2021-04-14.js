@@ -31,8 +31,9 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: All Star Code Challenge #9 (beta)
+// RANK:  vefore kata: 1258 / on completion:  / on ranking: 
+// LINK:  https://www.codewars.com/kata/5864614683f7e6e7830000c1
 
 // 3) END===============================================================
 
