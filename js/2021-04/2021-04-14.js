@@ -74,6 +74,12 @@
 // TITLE: All Star Code Challenge #15 (6 kyu)
 // LINK:  https://www.codewars.com/kata/586560a639c5ab3a260000f3
 
+// function rotate(str){
+//   let output = []
+//   for (let i=0;i<str.length;i++) { output.push(str.substr(i+1) + str.substr(0,i+1) ) }
+//   return output
+// }
+
 // 6) END===============================================================
 
 
