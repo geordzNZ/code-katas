@@ -32,8 +32,13 @@
 
 // 3) START===============================================================
 // TITLE: All Star Code Challenge #9 (beta)
-// RANK:  vefore kata: 1258 / on completion:  / on ranking: 
+// RANK:  vefore kata: 1258 / on completion: 1262 / on ranking: 1264
 // LINK:  https://www.codewars.com/kata/5864614683f7e6e7830000c1
+
+// function bite(thing){
+//   if (thing.race === 'human') { thing.race = 'zombie' }
+//   return thing
+// }
 
 // 3) END===============================================================
 
