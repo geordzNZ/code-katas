@@ -62,6 +62,11 @@
 // TITLE: All Star Code Challenge #20 (7 kyu)
 // LINK:  https://www.codewars.com/kata/5865a75da5f19147370000c7
 
+// function addArrays(a1, a2) {
+//   if (a1.length!=a2.length) { throw new Error() }
+//   return a1.map((_,i) => a1[i] + a2[i]);
+// }
+
 // 5) END===============================================================
 
 
