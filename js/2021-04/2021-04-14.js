@@ -47,6 +47,10 @@
 // TITLE: All Star Code Challenge #24 (7 kyu)
 // LINK:  https://www.codewars.com/kata/5866c6cf442e3f16f9000089
 
+// const hypotenuse=(a,b)=> Math.sqrt(Math.pow(a,2)+Math.pow(b,2))  
+
+// const leg =(c,a)=> Math.sqrt(Math.pow(c,2)-Math.pow(a,2))
+
 // 4) END===============================================================
 
 
