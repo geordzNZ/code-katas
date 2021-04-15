@@ -7,8 +7,8 @@
 //   Updates to js file = comment = git commit -am "#X kata for 15/Apr/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Javascript filter - 1 (7 kyu)
+// LINK:  https://www.codewars.com/kata/525d9b1a037b7a9da7000905
 
 // 1) END===============================================================
 
