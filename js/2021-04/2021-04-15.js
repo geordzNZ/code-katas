@@ -39,6 +39,16 @@
 // TITLE: Invalid Login - Bug Fixing #11 (8 kyu)
 // LINK:  https://www.codewars.com/kata/55e4c52ad58df7509c00007e
 
+// v1
+// function validate(username, password){
+//   var database = new Database();
+//   let patt1 = /[\/\/]/g;
+//   let patt2 = /[\|\|]/g;
+//   if (patt1.test(password) || patt2.test(password)) { return 'Wrong username or password!'}
+//   return database.login(username, password);
+// }
+
+
 // 4) END===============================================================
 
 
