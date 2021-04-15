@@ -27,8 +27,10 @@
 
 
 // 3) START===============================================================
-// TITLE: Javascript Mathematician (7 kyu)
-// LINK:  https://www.codewars.com/kata/55c211cce1ef691d9b000061
+// TITLE: Javascript filter - 2 (6 kyu)
+// LINK:  https://www.codewars.com/kata/5262fa26875ed24a3e000029
+
+
 
 // 3) END===============================================================
 
