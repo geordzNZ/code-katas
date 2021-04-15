@@ -48,6 +48,12 @@
 //   return database.login(username, password);
 // }
 
+// v2
+// function validate(username, password){
+//   var database = new Database();
+//   if (/[\/\/]/g.test(password) || /[\|\|]/g.test(password)) { return 'Wrong username or password!'}
+//   return database.login(username, password);
+// }
 
 // 4) END===============================================================
 
