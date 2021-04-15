@@ -27,8 +27,8 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Javascript Mathematician (7 kyu)
+// LINK:  https://www.codewars.com/kata/55c211cce1ef691d9b000061
 
 // 3) END===============================================================
 
