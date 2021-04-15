@@ -30,7 +30,7 @@
 // TITLE: Javascript filter - 2 (6 kyu)
 // LINK:  https://www.codewars.com/kata/5262fa26875ed24a3e000029
 
-
+// const roomMates =(rooms,floor)=> rooms.filter((r,i)=> i+1>((floor-1)*6) && (i+1<=floor*6) && r!='')
 
 // 3) END===============================================================
 
