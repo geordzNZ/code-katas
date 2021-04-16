@@ -38,8 +38,8 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Next birth-day of the week finder  (7 kyu)
+// LINK:  https://www.codewars.com/kata/547336f44481cf5ecc000dde
 
 // 2) END===============================================================
 
