@@ -10,6 +10,17 @@
 // TITLE: Day of The Week (7 kyu)
 // LINK:  https://www.codewars.com/kata/588d54c2ce8a3532a500001b
 
+// v1
+// function getDayOfTheWeek(date) {
+// let day = new Date(date).getDay()
+// return day === 0 ? "Sunday" : 
+//        day === 1 ? "Monday" :
+//        day === 2 ? "Tuesday" :
+//        day === 3 ? "Wednesday" :
+//        day === 4 ? "Thursday" :
+//        day === 5 ? "Friday" : "Saturday"
+// }
+
 // 1) END===============================================================
 
 
