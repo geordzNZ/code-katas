@@ -76,6 +76,20 @@
 // TITLE: #~For Kids~# d/m/Y -> Day of the week.  (7 kyu)
 // LINK:  https://www.codewars.com/kata/5885b5d2b632089dc30000cc
 
+// function dayOfTheWeek(date){
+//   let dateParts = date.split('/')
+  
+//   switch (new Date(dateParts[2], dateParts[1]-1, dateParts[0]).getDay())  {
+//     case 0: return "Sunday"
+//     case 1: return "Monday"
+//     case 2: return "Tuesday"
+//     case 3: return "Wednesday"
+//     case 4: return "Thursday"
+//     case 5: return "Friday"
+//     case 6: return "Saturday"
+//   }
+// }
+
 // 3) END===============================================================
 
 
