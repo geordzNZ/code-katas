@@ -57,6 +57,18 @@
 //   return i--
 // }
 
+// v2
+// var nextBirthdayOfTheWeek = function (birthday) {
+//   let theDay
+//   let i = 0
+  
+//   while (theDay != birthday.getDay()) {
+//     i++
+//     theDay = new Date(birthday.getFullYear() + i, birthday.getMonth(), birthday.getDate()).getDay()
+//   }
+//   return i--
+// }
+
 // 2) END===============================================================
 
 
