@@ -41,6 +41,22 @@
 // TITLE: Next birth-day of the week finder  (7 kyu)
 // LINK:  https://www.codewars.com/kata/547336f44481cf5ecc000dde
 
+// v1
+// var nextBirthdayOfTheWeek = function (birthday) {
+//   let birthDAY = birthday.getDate()
+//   let birthMonth = birthday.getMonth()
+//   let birthYEAR = birthday.getFullYear()
+  
+//   let theDay
+//   let i = 0
+  
+//   while (theDay != birthday.getDay()) {
+//     i++
+//     theDay = new Date(birthYEAR + i, birthMonth, birthDAY).getDay()
+//   }
+//   return i--
+// }
+
 // 2) END===============================================================
 
 
