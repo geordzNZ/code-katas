@@ -10,6 +10,18 @@
 // TITLE: 1st day of month that are Sunday in a year range (7 kyu)
 // LINK:  https://www.codewars.com/kata/587dfbfc80be384fd30002de
 
+// function getTotalSundays (yearInit, yearEnd) {
+//   let mths = 0
+//   yearEnd = yearEnd || yearInit
+  
+//   for (let y=yearInit; y<=yearEnd; y++){
+//     for (let m=0; m<12; m++){
+//       if (new Date(y,m,1).getDay() === 0) { mths++}
+//     }
+//   }
+//   return mths
+// }
+
 // 1) END===============================================================
 
 
