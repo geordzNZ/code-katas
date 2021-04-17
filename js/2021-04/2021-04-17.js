@@ -39,6 +39,25 @@
 // TITLE: Split The Bill (7 kyu)
 // LINK:  https://www.codewars.com/kata/5641275f07335295f10000d0
 
+// v1
+// function splitTheBill(x) {
+//   console.log(x)
+//   let total = 0
+//   let ctr = 0
+//   let ans = {}
+  
+//   for (const [key, value] of Object.entries(x)) {
+//     total += value
+//     ctr++
+//   }
+  
+//   for (const [key, value] of Object.entries(x)) {
+//     ans[key] = Number((value - (total/ctr)).toFixed(2))
+//   } 
+  
+//   return ans
+// }
+
 // 3) END===============================================================
 
 
