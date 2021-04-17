@@ -26,8 +26,11 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Split the Lyrics!! (beta)
+// RANK:  before: 1296 / after completion: 1300 / after ranking: 1302
+// LINK:  https://www.codewars.com/kata/5963b6f8a7000805ce000064
+
+// let lyricSplit =lyric=> lyric.split(' ')
 
 // 2) END===============================================================
 
