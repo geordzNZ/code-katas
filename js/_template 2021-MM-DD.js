@@ -1,11 +1,11 @@
-// CODE KATAS FOR FIXME:16 Apr 2021
+// CODE KATAS FOR FIXME:DD Apr 2021
 // Rankings at start of the day:
 //   Merit = FIXME:XXXX
 //   Kyu = FIXME:X 
 //   Clan = FIXME:XX
 // Comments:
-//   New JS file = git commit -m "--Create code kata js file for FIXME:16/Apr/2021"
-//   Updates to js file = comment = git commit -am "#X kata for FIXME:16/Apr/2021"
+//   New JS file = git commit -m "--Create code kata js file for FIXME:DD/Apr/2021"
+//   Updates to js file = comment = git commit -am "#X kata for FIXME:DD/Apr/2021"
 
 // 1) START===============================================================
 // TITLE: 
