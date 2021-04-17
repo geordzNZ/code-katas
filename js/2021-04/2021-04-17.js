@@ -41,7 +41,6 @@
 
 // v1
 // function splitTheBill(x) {
-//   console.log(x)
 //   let total = 0
 //   let ctr = 0
 //   let ans = {}
@@ -56,6 +55,13 @@
 //   } 
   
 //   return ans
+// }
+
+// v2
+// const splitTheBill = x => {
+//   let vals = Object.values(x),
+//       avg  = vals.reduce((s, v) => s + v) / vals.length;
+//   return Object.keys(x).reduce((y, v) => (y[v] = +(x[v] - avg).toFixed(2), y), {});
 // }
 
 // 3) END===============================================================
