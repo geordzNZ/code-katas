@@ -7,8 +7,8 @@
 //   Updates to js file = comment = git commit -am "#X kata for 17/Apr/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: 1st day of month that are Sunday in a year range (7 kyu)
+// LINK:  https://www.codewars.com/kata/587dfbfc80be384fd30002de
 
 // 1) END===============================================================
 
