@@ -16,8 +16,9 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: transform an array into a string (beta)
+// RANK:  before: 1306 / after completion:  / after ranking: 
+// LINK:  https://www.codewars.com/kata/59a602dc57019008d900004e
 
 // 2) END===============================================================
 
