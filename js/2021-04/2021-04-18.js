@@ -46,6 +46,20 @@
 // TITLE: Celebrity Baby Names (7 kyu)
 // LINK:  https://www.codewars.com/kata/577d5ce442a8d81e790002b2
 
+// function validName(a){
+//   console.log(a.length,a)
+//   if (a.length === 0) { return 'You must test at least one name.' }
+//   if (a.length === 1) { return 'Congratulations, you can choose any name you like!' }
+//   let matches = 0
+  
+//   for (let i=1; i<a.length; i++){
+//     if (a[i-1][a[i-1].length-1].toUpperCase() === a[i][0].toUpperCase()){ matches++ }
+//   }
+//   return matches === a.length-1 
+//                    ? 'Congratulations, your baby names are compatible!' 
+//                    : 'Back to the drawing board, your baby names are not compatible.'
+// } 
+
 // 3) END===============================================================
 
 
