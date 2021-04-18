@@ -19,6 +19,21 @@
 // TITLE: Is there a vowel in there? (8 kyu)
 // LINK:  https://www.codewars.com/kata/57cff961eca260b71900008f
 
+// v1
+// function isVow(a){
+//   for (let i=0; i<a.length; i++){
+//     switch (a[i]){
+//       case 97: a[i] = 'a';break;
+//       case 101: a[i] = 'e';break;
+//       case 105: a[i] = 'i';break;
+//       case 111: a[i] = 'o';break;
+//       case 117: a[i] = 'u';break;
+//     }
+//   }
+//   return a
+// }
+
+
 // 2) END===============================================================
 
 
