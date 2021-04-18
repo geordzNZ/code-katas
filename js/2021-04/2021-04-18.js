@@ -16,9 +16,8 @@
 
 
 // 2) START===============================================================
-// TITLE: transform an array into a string (beta)
-// RANK:  before: 1306 / after completion:  / after ranking: 
-// LINK:  https://www.codewars.com/kata/59a602dc57019008d900004e
+// TITLE: Is there a vowel in there? (8 kyu)
+// LINK:  https://www.codewars.com/kata/57cff961eca260b71900008f
 
 // 2) END===============================================================
 
