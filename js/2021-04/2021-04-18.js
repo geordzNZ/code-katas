@@ -7,8 +7,8 @@
 //   Updates to js file = comment = git commit -am "#X kata for 18/Apr/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Substituting Variables Into Strings: Padded Numbers (7 kyu)
+// LINK:  https://www.codewars.com/kata/51c89385ee245d7ddf000001
 
 // 1) END===============================================================
 
