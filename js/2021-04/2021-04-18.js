@@ -10,6 +10,8 @@
 // TITLE: Substituting Variables Into Strings: Padded Numbers (7 kyu)
 // LINK:  https://www.codewars.com/kata/51c89385ee245d7ddf000001
 
+// const solution = v => `Value is ${'0'.repeat(5-v.toString().length)}${v}`
+
 // 1) END===============================================================
 
 
