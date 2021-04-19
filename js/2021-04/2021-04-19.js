@@ -127,6 +127,11 @@
 //   return maxVal
 // }
 
+// v2
+// function findLongest(a){
+//   return a.reduce((mV, cV) => (String(mV).length < String(cV).length) ? cV : mV);
+// }
+
 // 6) END===============================================================
 
 
