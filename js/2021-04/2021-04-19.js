@@ -7,8 +7,8 @@
 //   Updates to js file = comment = git commit -am "#X kata for 19/Apr/2021"
 
 // 1) START===============================================================
-// TITLE: Sort with a sorting array (6 kyu)
-// LINK:  https://www.codewars.com/kata/59dc8288fc3c49cc3f000039
+// TITLE: Boiled Eggs (7 kyu)
+// LINK:  https://www.codewars.com/kata/52b5247074ea613a09000164
 
 // 1) END===============================================================
 
