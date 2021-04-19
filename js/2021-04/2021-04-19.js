@@ -85,8 +85,8 @@
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Validate Credit Card Number (6 kyu)
+// LINK:  https://www.codewars.com/kata/5418a1dd6d8216e18a0012b2
 
 // 5) END===============================================================
 
