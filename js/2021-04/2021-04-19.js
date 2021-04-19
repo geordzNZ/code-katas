@@ -51,6 +51,15 @@
 //   }
 //   return msg
 // }
+
+// v2
+// function caffeineBuzz(n){
+//   let t1 = n%3===0 && n%4===0
+//   let t2 = n%3===0
+//   let t3 = n%2===0
+  
+//   return t1 ? `Coffee${t3 ? 'Script' : ''}` : t2 ? `Java${t3 ? 'Script' : ''}` : 'mocha_missing!' 
+// }
 // 3) END===============================================================
 
 
