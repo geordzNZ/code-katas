@@ -113,6 +113,20 @@
 // TITLE: Most digits (7 kyu)
 // LINK:  https://www.codewars.com/kata/58daa7617332e59593000006
 
+// v1
+// function findLongest(a){
+//   let maxLen = 0
+//   let maxVal = 0
+  
+//   for (let i=0; i<a.length; i++){
+//     if (a[i].toString().length > maxLen) {
+//       maxLen = a[i].toString().length
+//       maxVal = a[i]
+//     } 
+//   }
+//   return maxVal
+// }
+
 // 6) END===============================================================
 
 
