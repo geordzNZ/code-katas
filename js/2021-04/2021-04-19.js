@@ -67,6 +67,16 @@
 // TITLE: Digitize (7 kyu)
 // LINK:  https://www.codewars.com/kata/5417423f9e2e6c2f040002ae
 
+// v1
+// function digitize(n) {
+//   let res = []
+  
+//   for (let i=0; i<n.toString().length; i++){
+//     res.push(+(n.toString()[i]))
+//   }
+//   return res
+// }
+
 // 4) END===============================================================
 
 
