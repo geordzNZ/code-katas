@@ -88,6 +88,24 @@
 // TITLE: Validate Credit Card Number (6 kyu)
 // LINK:  https://www.codewars.com/kata/5418a1dd6d8216e18a0012b2
 
+// function validate(n){
+//   let splitN = n.toString().split('').map(Number)
+  
+//   let step1 = splitN.map((v,i) => {
+//     if (splitN.length%2===0) {
+//       return i%2===0 ? v*2 : v
+//     } else {
+//       return i%2===0 ? v : v*2
+//     }
+//   })
+  
+//   let step2 = step1.map(v => v>9 ? v-9 : v) 
+  
+//   let step3 = step2.reduce((c,v) => c+v)
+  
+//   return step3%10===0
+// }
+
 // 5) END===============================================================
 
 
