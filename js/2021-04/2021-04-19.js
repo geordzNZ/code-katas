@@ -32,6 +32,25 @@
 // TITLE: Caffeine Script (7 kyu)
 // LINK:  https://www.codewars.com/kata/5434283682b0fdb0420000e6
 
+// v1
+// function caffeineBuzz(n){
+//   let msg = ''
+  
+//   if (n%3===0 && n%4===0) {
+//     msg += 'Coffee'
+//     if (n%2===0) { 
+//       msg += 'Script' 
+//     }
+//   } else if (n%3===0) {
+//     msg += 'Java'
+//     if (n%2===0) { 
+//       msg += 'Script' 
+//     }
+//   } else { 
+//     msg = 'mocha_missing!' 
+//   }
+//   return msg
+// }
 // 3) END===============================================================
 
 
