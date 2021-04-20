@@ -47,7 +47,7 @@
 //   }
   
 //   for (let i=2, j=3; i<=n; i++, j+=2){
-//     let row = 
+//     let row = '_'.repeat((w-j)/2)+'#'.repeat(j)+'_'.repeat((w-j)/2)
 //     tree.splice(i-1,0, row)
 //   }
 //   return tree
