@@ -10,6 +10,27 @@
 // TITLE: Polish alphabet (8 kyu)
 // LINK:  https://www.codewars.com/kata/57ab2d6072292dbf7c000039
 
+// function correctPolishLetters (str) {
+//   let res = ''
+
+// v1
+//   for (l of str){
+//     switch (l.charCodeAt(0)){
+//       default: res += l;break;
+//       case 261: res += 'a';break;
+//       case 263: res += 'c';break;
+//       case 281: res += 'e';break;
+//       case 322: res += 'l';break;
+//       case 324: res += 'n';break;
+//       case 243: res += 'o';break;
+//       case 347: res += 's';break;
+//       case 378: res += 'z';break;
+//       case 380: res += 'z';break;
+//     }
+//   }
+//   return res
+// }
+
 // 1) END===============================================================
 
 
