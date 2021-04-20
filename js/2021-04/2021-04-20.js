@@ -60,6 +60,26 @@
 // TITLE: Don't Drink the Water (5 kyu)
 // LINK:  https://www.codewars.com/kata/562e6df5cf2d3908ad00019e/train/javascript
 
+// v1
+// function separateLiquids(glass) {
+//   if (!glass.length) { return []}
+//   let w = glass[0].length
+  
+//   let fullGlass = glass.join(',').split(',')
+  
+//   let moleculeH = fullGlass.filter(m=> m==='H')
+//   let moleculeW = fullGlass.filter(m=> m==='W')
+//   let moleculeA = fullGlass.filter(m=> m==='A')
+//   let moleculeO = fullGlass.filter(m=> m==='O')
+  
+//   let sorted = moleculeO.concat(moleculeA,moleculeW,moleculeH)
+  
+//   let final = []
+//   for (let i=0; i<fullGlass.length; i+=w){ final.push(sorted.slice(i,i+w)) }
+  
+//   return final;
+// }
+
 // 3) END===============================================================
 
 
