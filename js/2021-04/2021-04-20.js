@@ -22,6 +22,21 @@
 // TITLE: Xmas Tree (7 kyu)
 // LINK:  https://www.codewars.com/kata/577c349edf78c178a1000108
 
+// v1
+// function xMasTree(n){
+//   let tree = []
+//   let w = (2*n)-1
+
+//   for (let i=1, j=1; i<=n; i++, j+=2){
+//     let row = '_'.repeat((w-j)/2)+'#'.repeat(j)+'_'.repeat((w-j)/2)
+//     tree.push(row)
+//   }
+//   tree.push('_'.repeat((w-1)/2)+'#'.repeat(1)+'_'.repeat((w-1)/2))
+//   tree.push('_'.repeat((w-1)/2)+'#'.repeat(1)+'_'.repeat((w-1)/2))
+
+//   return tree
+// }
+
 // 2) END===============================================================
 
 
