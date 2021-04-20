@@ -7,8 +7,8 @@
 //   Updates to js file = comment = git commit -am "#X kata for 21/Apr/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Polish alphabet (8 kyu)
+// LINK:  https://www.codewars.com/kata/57ab2d6072292dbf7c000039
 
 // 1) END===============================================================
 
