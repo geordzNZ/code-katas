@@ -10,6 +10,11 @@
 // TITLE: Spraying trees (7 kyu)
 // LINK:  https://www.codewars.com/kata/5981a139f5471fd1b2000071
 
+// function task(w, n, c) {
+//   let names = {Monday: 'James', Tuesday: 'John', Wednesday: 'Robert', Thursday: 'Michael', Friday: 'William'}
+  
+//   return `It is ${w} today, ${names[w]}, you have to work, you must spray ${n} trees and you need ${c*n} dollars to buy liquid`
+// }
 // 1) END===============================================================
 
 
