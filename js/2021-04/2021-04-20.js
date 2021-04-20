@@ -37,6 +37,22 @@
 //   return tree
 // }
 
+// v2
+// function xMasTree(n){
+//   let tree = []
+//   let w = (2*n)-1
+  
+//   for (let i=1; i<=3; i++){
+//     tree.push('_'.repeat((w-1)/2)+'#'.repeat(1)+'_'.repeat((w-1)/2))
+//   }
+  
+//   for (let i=2, j=3; i<=n; i++, j+=2){
+//     let row = 
+//     tree.splice(i-1,0, row)
+//   }
+//   return tree
+// }
+
 // 2) END===============================================================
 
 
