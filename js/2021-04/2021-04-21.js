@@ -44,6 +44,20 @@
 // TITLE: Alphabet symmetry (7 kyu)
 // LINK:  https://www.codewars.com/kata/59d9ff9f7905dfeed50000b0
 
+// function solve(arr){  
+//   let res = []
+//   let lpW = 0
+  
+//   for (let i=0; i<arr.length; i++){
+//     for (let j=0; j<arr[i].length; j++){
+//       if (arr[i][j],arr[i][j].toUpperCase().charCodeAt(0)-64===j+1) { lpW++ }
+//     }
+//     res.push(lpW)
+//     lpW=0
+//   }
+//   return res 
+// }
+
 // 2) END===============================================================
 
 
