@@ -65,6 +65,16 @@
 // TITLE: Alphabetical Sequence (7 kyu)
 // LINK:  https://www.codewars.com/kata/5bd00c99dbc73908bb00057a
 
+// function alphaSeq (str) {
+//   let res = []
+
+//   let ltrs = str.toLowerCase().split('')
+  
+//   for (ltr of ltrs){ res.push(ltr.toUpperCase() + ltr.repeat('abcdefghijklmnopqrstuvwxyz'.indexOf(ltr))) }
+  
+//   return res.sort().join(',')  
+// }
+
 // 3) END===============================================================
 
 
