@@ -82,6 +82,15 @@
 // TITLE: Alphabetical Addition (7 kyu)
 // LINK:  https://www.codewars.com/kata/5d50e3914861a500121e1958
 
+// function addLetters(...letters) {
+//   if (!letters.length) { return 'z' }
+//   let total = letters.reduce((t,v) => t+=v.charCodeAt(0)-96,0)
+  
+//   while (total>26){ total-=26 }
+  
+//   return String.fromCharCode(total<=26 ? total+96 : total+70)
+// }
+
 // 4) END===============================================================
 
 
