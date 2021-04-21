@@ -31,6 +31,12 @@
 //   return res
 // }
 
+// v2
+// function correctPolishLetters (str) {
+//   var pLtrs = {'ą':'a','ć':'c','ę':'e','ł':'l','ń':'n','ó':'o','ś':'s','ź':'z','ż':'z'};
+//   return str.replace(/[ąćęłńóśźż]/g, ltr => pLtrs[ltr]);
+// }
+
 // 1) END===============================================================
 
 
