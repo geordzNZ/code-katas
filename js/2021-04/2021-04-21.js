@@ -50,7 +50,7 @@
   
 //   for (let i=0; i<arr.length; i++){
 //     for (let j=0; j<arr[i].length; j++){
-//       if (arr[i][j],arr[i][j].toUpperCase().charCodeAt(0)-64===j+1) { lpW++ }
+//       if (arr[i][j].toUpperCase().charCodeAt(0)-64===j+1) { lpW++ }
 //     }
 //     res.push(lpW)
 //     lpW=0
