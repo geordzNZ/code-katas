@@ -88,7 +88,7 @@
   
 //   while (total>26){ total-=26 }
   
-//   return String.fromCharCode(total<=26 ? total+96 : total+70)
+//   return String.fromCharCode(total+96)
 // }
 
 // 4) END===============================================================
