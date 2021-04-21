@@ -95,8 +95,8 @@
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: noobCode 01: SUPERSIZE ME.... or rather, this integer! (8 kyu)
+// LINK:  https://www.codewars.com/kata/5709bdd2f088096786000008
 
 // 5) END===============================================================
 
