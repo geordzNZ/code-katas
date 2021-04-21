@@ -98,8 +98,10 @@
 // TITLE: noobCode 01: SUPERSIZE ME.... or rather, this integer! (8 kyu)
 // LINK:  https://www.codewars.com/kata/5709bdd2f088096786000008
 
-// v1
+
 // const superSize =n=> Number(n.toString().split('').sort((a,b)=>b-a).join(''))
+// const superSize =n=> +(n+'').split('').sort((a,b)=>b-a).join('')
+// const superSize =n=> +[...''+(n)].sort((a,b)=>b-a).join``
 
 // 5) END===============================================================
 
