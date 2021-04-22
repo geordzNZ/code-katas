@@ -47,6 +47,11 @@
 // TITLE: Find the middle element (7 kyu)
 // LINK:  https://www.codewars.com/kata/545a4c5a61aa4c6916000755
 
+// var gimme = function (inputA) {
+//   const sortedA = [...inputA].sort((a,b)=>a-b);
+//   return inputA.indexOf(sortedA[1])
+// };
+
 // 3) END===============================================================
 
 
