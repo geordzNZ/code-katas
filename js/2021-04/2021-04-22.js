@@ -11,6 +11,12 @@
 // TITLE: Middle Me (7 kyu)
 // LINK:  https://www.codewars.com/kata/59cd155d1a68b70f8e000117
 
+// v1 - 98 chars
+// function middleMe(N, X, Y){
+//   if (N%2===1) return X
+//   return Y.repeat(N/2)+ X + Y.repeat(N/2)
+// }
+
 // 1) END===============================================================
 
 
