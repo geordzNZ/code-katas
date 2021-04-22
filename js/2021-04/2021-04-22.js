@@ -17,9 +17,11 @@
 //   return Y.repeat(N/2)+ X + Y.repeat(N/2)
 // }
 
-
 // v2 - 66 chars
 // let middleMe =(N,X,Y)=> N%2==0 ? Y.repeat(N/2)+X+Y.repeat(N/2) : X
+
+// v3 - 57 chars
+// let middleMe=(N,X,Y)=>N%2?X:Y.repeat(N/2)+X+Y.repeat(N/2)
 
 // 1) END===============================================================
 
