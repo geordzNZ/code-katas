@@ -33,6 +33,13 @@
 // TITLE: noobCode 03: CHECK THESE LETTERS... see if letters in "String 1" are present in "String 2" (7 kyu)
 // LINK:  https://www.codewars.com/kata/57470efebf81fea166001627
 
+// function letterCheck(arr) {
+//   for (l of arr[1].toLowerCase()){
+//     if (!arr[0].toLowerCase().includes(l)) { return false }
+//   }
+//   return true
+// }
+
 // 2) END===============================================================
 
 
