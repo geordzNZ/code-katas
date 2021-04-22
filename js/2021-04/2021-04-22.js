@@ -24,7 +24,7 @@
 // let middleMe=(N,X,Y)=>N%2?X:Y.repeat(N/2)+X+Y.repeat(N/2)
 
 // v4 - 49 chars
-// let middleMe=(N,X,Y)=>N%2?X:(Y=Y.repeat(N/2))+X+Y
+// let middleMe=(N,X,Y)=>N%2?X:(Z=Y.repeat(N/2))+X+Z
 
 // 1) END===============================================================
 
