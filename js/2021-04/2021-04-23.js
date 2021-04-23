@@ -51,8 +51,8 @@
 
 
 // 3) START===============================================================
-// TITLE: What Color is Your Name? (6 kyu)
-// LINK:  https://www.codewars.com/kata/5705c699cb729350870003b7
+// TITLE: What's in a name? (6 kyu)
+// LINK:  https://www.codewars.com/kata/59daf400beec9780a9000045/javascript
 
 // 3) END===============================================================
 
