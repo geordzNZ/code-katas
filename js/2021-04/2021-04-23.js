@@ -54,6 +54,23 @@
 // TITLE: What's in a name? (6 kyu)
 // LINK:  https://www.codewars.com/kata/59daf400beec9780a9000045/javascript
 
+// function nameInStr(str, name){
+//   let splitName = name.toUpperCase().split('')
+//   let indx = 0
+  
+//   for (let i=0; i<splitName.length; i++){
+//     if (!str.toUpperCase().includes(splitName[i])) { return false }
+    
+//     if (str.toUpperCase().includes(splitName[i])) { 
+//       if (str.toUpperCase().indexOf(splitName[i],indx) >= indx){
+//         indx = str.toUpperCase().indexOf(splitName[i],indx)
+//         indx ++
+//       } else { return false }
+//     }
+//   }
+//   return true
+// }
+
 // 3) END===============================================================
 
 
