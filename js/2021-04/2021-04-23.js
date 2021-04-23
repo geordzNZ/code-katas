@@ -36,6 +36,17 @@
 // TITLE: What is my name score? #1 (7 kyu)
 // LINK:  https://www.codewars.com/kata/576a29ab726f4bba4b000bb1
 
+// function nameScore(name){
+//   let total = 0
+
+//   for (l of name){
+//     for (ll in alpha){
+//       if (ll.includes(l.toUpperCase())) { total += alpha[ll] }
+//     }
+//   }
+//   return { [name] : total }
+// }
+
 // 2) END===============================================================
 
 
