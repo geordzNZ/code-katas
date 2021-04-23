@@ -22,6 +22,13 @@
 // const golfScoreCalculator =(parList,scoreList)=>
 //   [...scoreList].reduce((result, score, index) => result += score - parList[index], 0)
 
+// v3
+// function golfScoreCalculator(parList, scoreList){
+//   var totalPar = 0; parList.split('').forEach(e => totalPar += +e)
+//   var totalScore = 0; scoreList.split('').forEach(e => totalScore += +e)
+//   return totalScore - totalPar
+// }
+
 // 1) END===============================================================
 
 
