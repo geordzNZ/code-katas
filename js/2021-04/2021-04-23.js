@@ -10,6 +10,14 @@
 // TITLE: What's my golf score? (7 kyu)
 // LINK:  https://www.codewars.com/kata/59f7a0a77eb74bf96b00006a
 
+
+// v1
+// function golfScoreCalculator(parList, scoreList){
+//   let total = 0
+//   for (let i=0; i<parList.length;i++){ total += scoreList[i]-parList[i] }
+//   return total
+// }
+
 // 1) END===============================================================
 
 
