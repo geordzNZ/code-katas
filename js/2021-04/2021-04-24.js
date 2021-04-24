@@ -7,8 +7,8 @@
 //   Updates to js file = comment = git commit -am "#X kata for 24/Apr/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: noobCode 04: HOT SINGLES...compare two arrays, return the unpaired items ! (7 kyu)
+// LINK:  https://www.codewars.com/kata/57475353facb0e7431000651
 
 // 1) END===============================================================
 
