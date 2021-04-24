@@ -52,6 +52,8 @@
 //   return diff>4 ? 'Escaped!' : 'Caught!'
 // }
   
+// v2
+// const catMouse =x=> (x.indexOf('m') - x.indexOf('C')>4) ? 'Escaped!' : 'Caught!'
 
 // 3) END===============================================================
 
