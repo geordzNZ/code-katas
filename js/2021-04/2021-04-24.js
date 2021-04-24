@@ -28,6 +28,14 @@
 // TITLE: Well of Ideas - Easy Version (8 kyu)
 // LINK:  https://www.codewars.com/kata/57f222ce69e09c3630000212
 
+// function well(x){
+//   let bad = x.filter(v=> v==='bad').length
+  
+//   let good = x.filter(v=> v==='good').length
+  
+//   return good>=1 && good<=2 ? 'Publish!' : good>2 ? 'I smell a series!' : 'Fail!'
+// }
+
 // 2) END===============================================================
 
 
