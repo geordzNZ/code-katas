@@ -10,6 +10,17 @@
 // TITLE: noobCode 04: HOT SINGLES...compare two arrays, return the unpaired items ! (7 kyu)
 // LINK:  https://www.codewars.com/kata/57475353facb0e7431000651
 
+// -- someone elses plan
+// function hotSingles(arr1, arr2) {
+//   return arr1.filter(function(x){
+//     return arr2.indexOf(x)==-1;
+//   }).concat(arr2.filter(function(x){
+//     return arr1.indexOf(x)==-1;
+//   })).filter(function(x,y,z){
+//     return z.indexOf(x)==y;
+//   });
+// }
+
 // 1) END===============================================================
 
 
