@@ -43,6 +43,16 @@
 // TITLE: Cat and Mouse - Easy Version (7 kyu)
 // LINK:  https://www.codewars.com/kata/57ee24e17b45eff6d6000164
 
+// v1
+// function catMouse(x){ 
+//   let indC = x.indexOf('C')
+//   let indM = x.indexOf('m')
+//   let diff = x.indexOf('m') - x.indexOf('C')
+  
+//   return diff>4 ? 'Escaped!' : 'Caught!'
+// }
+  
+
 // 3) END===============================================================
 
 
