@@ -61,6 +61,8 @@
 // TITLE: Average Scores (7 kyu)
 // LINK:  https://www.codewars.com/kata/57b68bc7b69bfc8209000307/train/javascript
 
+// const average =scores=> Math.round(scores.reduce((t,v)=> t+=v,0)/scores.length)
+
 // 5) END===============================================================
 
 
