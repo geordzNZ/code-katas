@@ -39,6 +39,9 @@
 // RANK:  before: 1374 / after completion:  / after ranking: 
 // LINK:  https://www.codewars.com/kata/583872e3c233416868000162
 
+// v1
+// const lowest =(a,b,c)=> [Math.min(...a),Math.min(...b),Math.min(...c)]
+
 // 3) END===============================================================
 
 
