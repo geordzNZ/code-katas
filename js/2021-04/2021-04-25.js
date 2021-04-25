@@ -42,6 +42,9 @@
 // v1
 // const lowest =(a,b,c)=> [Math.min(...a),Math.min(...b),Math.min(...c)]
 
+// v2
+// const lowest = (...days) => days.map(day => Math.min(...day));
+
 // 3) END===============================================================
 
 
