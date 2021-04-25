@@ -15,6 +15,13 @@
 //   return fns.reduce(function(v, fn) { return fn(v) }, v);
 // }
 
+// v2
+// function chain(x, fns) {
+//   return fns.reduce(function(x, fn) {
+//     return fn(x)
+//   }, x)
+// }
+
 // 1) END===============================================================
 
 
