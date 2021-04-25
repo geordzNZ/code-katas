@@ -7,8 +7,8 @@
 //   Updates to js file = comment = git commit -am "#X kata for 25/Apr/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Chain me (7 kyu)
+// LINK:  https://www.codewars.com/kata/54fb853b2c8785dd5e000957
 
 // 1) END===============================================================
 
