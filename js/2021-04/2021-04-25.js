@@ -10,6 +10,11 @@
 // TITLE: Chain me (7 kyu)
 // LINK:  https://www.codewars.com/kata/54fb853b2c8785dd5e000957
 
+// v1
+// function chain(v, fns) {
+//   return fns.reduce(function(v, fn) { return fn(v) }, v);
+// }
+
 // 1) END===============================================================
 
 
