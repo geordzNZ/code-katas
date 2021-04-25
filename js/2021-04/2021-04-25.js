@@ -36,7 +36,7 @@
 
 // 3) START===============================================================
 // TITLE: How low do you go? (beta)
-// RANK:  before: 1374 / after completion:  / after ranking: 
+// RANK:  before: 1374 / after completion: 1378 / after ranking: 1380
 // LINK:  https://www.codewars.com/kata/583872e3c233416868000162
 
 // v1
