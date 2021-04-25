@@ -52,6 +52,8 @@
 // TITLE: Calculate average (8 kyu)
 // LINK:  https://www.codewars.com/kata/57a2013acf1fa5bfc4000921
 
+// const find_average =arr=> arr.reduce((t,v)=> t+=v,0)/arr.length || 0
+
 // 4) END===============================================================
 
 
