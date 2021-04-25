@@ -26,8 +26,10 @@
 
 
 // 2) START===============================================================
-// TITLE: Strings, strings, strings (Easy) (7 kyu)
-// LINK:  https://www.codewars.com/kata/56d6b921c9ae3fd926000601
+// TITLE: How many lightsabers do you own? (8 kyu)
+// LINK:  https://www.codewars.com/kata/51f9d93b4095e0a7200001b8
+
+// const howManyLightsabersDoYouOwn =n=> n==='Zach' ? 18 : 0
 
 // 2) END===============================================================
 
