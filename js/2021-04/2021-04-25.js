@@ -58,8 +58,8 @@
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Average Scores (7 kyu)
+// LINK:  https://www.codewars.com/kata/57b68bc7b69bfc8209000307/train/javascript
 
 // 5) END===============================================================
 
