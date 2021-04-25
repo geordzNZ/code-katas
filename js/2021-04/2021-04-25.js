@@ -26,8 +26,8 @@
 
 
 // 2) START===============================================================
-// TITLE: String Breakers (6 kyu)
-// LINK:  https://www.codewars.com/kata/59d398bb86a6fdf100000031
+// TITLE: Strings, strings, strings (Easy) (7 kyu)
+// LINK:  https://www.codewars.com/kata/56d6b921c9ae3fd926000601
 
 // 2) END===============================================================
 
