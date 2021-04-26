@@ -31,6 +31,16 @@
 // TITLE: ASCII letters from Number (7 kyu)
 // LINK:  https://www.codewars.com/kata/589ebcb9926baae92e000001
 
+// v1
+// function convert(number){
+//   let arr = []
+//   for (let i=0; i<number.length; i+=2){
+//     arr.push(''+number.substr(i,2))
+//   }
+  
+//   let res = arr.map(c=>String.fromCharCode(c))
+//   return res.join('')
+// }
 // 2) END===============================================================
 
 
