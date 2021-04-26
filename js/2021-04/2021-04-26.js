@@ -75,6 +75,19 @@
 // TITLE: Do you speak retsec? (7 kyu)
 // LINK:  https://www.codewars.com/kata/5516ab668915478845000780
 
+// v1
+// function reverseByCenter(s){
+//   let newWord = ''
+//   let mid = Math.floor(s.length/2)
+  
+//   if (s.length%2===0){
+//     newWord = s.substr(mid) + s.substr(0,s.length/2)
+//   } else {
+//     newWord = s.substr(mid+1) + s.substr(mid,1) + s.substr(0,mid)
+//   }
+//   return newWord
+// }
+
 // 4) END===============================================================
 
 
