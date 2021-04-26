@@ -28,8 +28,8 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: ASCII letters from Number (7 kyu)
+// LINK:  https://www.codewars.com/kata/589ebcb9926baae92e000001
 
 // 2) END===============================================================
 
