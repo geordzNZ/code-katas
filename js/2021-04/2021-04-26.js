@@ -13,12 +13,16 @@
 
 // v1
 // function sortAndSum(...items) {
-//   let ltrs = (items).filter(c=> typeof c === 'string').sort(0)
-//   let num = (items).filter(c=> typeof c === 'number').reduce((t,c)=>t+=c,0)
+//   let ltrs = items.filter(c=> typeof c === 'string').sort(0)
+//   let num = items.filter(c=> typeof c === 'number').reduce((t,c)=>t+=c,0)
 //   ltrs.push(num)
 //   return ltrs
 // }
 
+// v2
+// function sortAndSum(...items) {
+//   return items.filter(c=> typeof c === 'string').sort().concat(items.reduce((t,c) => t+=(c|0), 0));
+//  }
 
 // 1) END===============================================================
 
