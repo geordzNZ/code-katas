@@ -57,6 +57,17 @@
 // TITLE: How much coffee do you need? (7 kyu)
 // LINK:  https://www.codewars.com/kata/57de78848a8b8df8f10005b1
 
+// v1
+// function howMuchCoffee(events) {
+//   let cawfees = 0
+  
+//   for (evt of events){
+//     if (evt == 'cw' || evt == 'dog' || evt == 'cat' || evt == 'movie') { cawfees+=1 }
+//     if (evt == 'CW' || evt == 'DOG' || evt == 'CAT' || evt == 'MOVIE') { cawfees+=2 }
+//   }  
+//   return cawfees <= 3 ? cawfees : 'You need extra sleep'
+// }
+
 // 3) END===============================================================
 
 
