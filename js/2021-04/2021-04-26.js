@@ -88,6 +88,13 @@
 //   return newWord
 // }
 
+// v2
+// function reverseByCenter(s){
+//   let mid = Math.floor(s.length/2)
+  
+//   return s.length%2===0 ? s.substr(mid) + s.substr(0,mid) : s.substr(mid+1) + s.substr(mid,1) + s.substr(0,mid)
+// }
+
 // 4) END===============================================================
 
 
