@@ -7,8 +7,18 @@
 //   Updates to js file = comment = git commit -am "#X kata for 26/Apr/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Sort Letters Sum Numbers (beta)
+// RANK:  before: 1386 / after completion: F / after ranking: 1388
+// LINK:  https://www.codewars.com/kata/58bae32c14f4f2d378000ce8
+
+// v1
+// function sortAndSum(...items) {
+//   let ltrs = (items).filter(c=> typeof c === 'string').sort(0)
+//   let num = (items).filter(c=> typeof c === 'number').reduce((t,c)=>t+=c,0)
+//   ltrs.push(num)
+//   return ltrs
+// }
+
 
 // 1) END===============================================================
 
