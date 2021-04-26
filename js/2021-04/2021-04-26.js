@@ -41,6 +41,15 @@
 //   let res = arr.map(c=>String.fromCharCode(c))
 //   return res.join('')
 // }
+
+// v2
+// function convert(number){
+//   let arr = []
+//   for (let i=0; i<number.length; i+=2){ arr.push(''+number.substr(i,2)) }
+  
+//   return arr.map(c=>String.fromCharCode(c)).join('')
+// }
+
 // 2) END===============================================================
 
 
