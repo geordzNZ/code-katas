@@ -20,8 +20,9 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Rock Bottom Speak (beta)
+// RANK:  before: 1394 / after completion:  / after ranking: 
+// LINK:  https://www.codewars.com/kata/59776a85515ce9e4e800004b
 
 // 2) END===============================================================
 
