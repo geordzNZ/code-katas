@@ -34,6 +34,16 @@
 // RANK:  before: 1396 / after completion:  / after ranking: 
 // LINK:  https://www.codewars.com/kata/58555e3db45c01bada0001e0
 
+// function worries(str){
+//   if (str === "Making last-minute changes" ||
+//       str === "Sitting in a dark room and shaking" ||
+//       str === "Crying" ||
+//       str === "Laughing hysterically" ||
+//       str === "Not eating") { return "Stop worrying, everything will be all right!" }
+
+//   return "Do you really care?"
+// }
+
 // 3) END===============================================================
 
 
