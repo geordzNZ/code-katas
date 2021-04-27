@@ -30,8 +30,9 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Stop worrying! (beta)
+// RANK:  before: 1396 / after completion:  / after ranking: 
+// LINK:  https://www.codewars.com/kata/58555e3db45c01bada0001e0
 
 // 3) END===============================================================
 
