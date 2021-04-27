@@ -24,6 +24,8 @@
 // RANK:  before: 1394 / after completion:  / after ranking: 
 // LINK:  https://www.codewars.com/kata/59776a85515ce9e4e800004b
 
+// const rockBottom =arr=> arr.replace(/\s/g,'PLHHHH')
+
 // 2) END===============================================================
 
 
