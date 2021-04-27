@@ -10,6 +10,8 @@
 // TITLE: Borrower Speak (7 kyu)
 // LINK:  https://www.codewars.com/kata/57d2ba8095497e484e00002e
 
+// v1
+// const borrow =s=> s.toLowerCase().replace(/[!?\s.;:,]/g,'')
 
 // 1) END===============================================================
 
