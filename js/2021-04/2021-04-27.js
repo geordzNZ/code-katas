@@ -31,7 +31,7 @@
 
 // 3) START===============================================================
 // TITLE: Stop worrying! (beta)
-// RANK:  before: 1396 / after completion:  / after ranking: 
+// RANK:  before: 1396 / after completion: 1400 / after ranking: 1402
 // LINK:  https://www.codewars.com/kata/58555e3db45c01bada0001e0
 
 // function worries(str){
