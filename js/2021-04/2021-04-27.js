@@ -13,6 +13,9 @@
 // v1
 // const borrow =s=> s.toLowerCase().replace(/[!?\s.;:,]/g,'')
 
+// v2
+// const borrow =s=> s.toLowerCase().replace(/\W/g,'')
+
 // 1) END===============================================================
 
 
