@@ -70,6 +70,8 @@
 // TITLE: Substring fun (7 kyu)
 // LINK:  https://www.codewars.com/kata/565b112d09c1adfdd500019c
 
+// const nthChar =words=> words.reduce((c,w,i)=> c+=w[i],'')
+
 // 4) END===============================================================
 
 
