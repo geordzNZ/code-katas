@@ -76,8 +76,10 @@
 
 
 // 5) START===============================================================
-// TITLE: Reversing Fun (7 kyu)
-// LINK:  https://www.codewars.com/kata/566efcfbf521a3cfd2000056
+// TITLE: Character Concatenation (7 kyu)
+// LINK:  https://www.codewars.com/kata/55147ff29cd40b43c600058b
+
+
 
 // 5) END===============================================================
 
