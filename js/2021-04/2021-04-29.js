@@ -51,6 +51,18 @@
 // TITLE: Median fun fun (7 kyu)
 // LINK:  https://www.codewars.com/kata/582609930626631a9600003e
 
+// function median(n){
+//   if (!n.length) { return false}
+  
+//   n.sort((a,b)=>a-b)
+  
+//   if (n.length%2===0){    
+//     return (n[Math.floor(n.length/2)-1] + n[Math.floor(n.length/2)])/2
+//   } else {
+//     return n[Math.floor(n.length/2)]
+//   }
+// }
+
 // 3) END===============================================================
 
 
