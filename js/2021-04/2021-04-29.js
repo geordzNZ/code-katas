@@ -7,8 +7,14 @@
 //   Updates to js file = comment = git commit -am "#X kata for 29/Apr/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Regex Ninja: Unique Digits (6 kyu)
+// LINK:  https://www.codewars.com/kata/57555810be106b613c000115
+
+// v1
+// var regex = /^(?:(\d)(?!.*\1))*$/;
+
+// v2
+// var regex = /^(?:(0-9)(?!.*\1))*$/;
 
 // 1) END===============================================================
 
