@@ -31,6 +31,19 @@
 //   return msg
 // }
 
+// v2 -- with recursion form someone else
+// function chirp(n){
+//   if(n === 1){
+//       return "chirp";
+//     }
+//   return chirp(n - 1) + "-chirp";
+// }
+
+// v3 -- with recursion form someone else
+// function chirp(n) {
+//   return n > 1 ? chirp(n - 1) + "-chirp" : "chirp";
+// }
+
 // 2) END===============================================================
 
 
