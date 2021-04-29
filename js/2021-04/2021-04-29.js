@@ -79,7 +79,15 @@
 // TITLE: Character Concatenation (7 kyu)
 // LINK:  https://www.codewars.com/kata/55147ff29cd40b43c600058b
 
-
+// function charConcat(s){
+//   let msg = ''
+  
+//   if (s.length%2===1) { s = s.slice(0,Math.floor(s.length/2))+s.slice(Math.floor(s.length/2)+1) }
+  
+//   for (let i=0;i<s.length/2;i++){ msg += s[i] + s[s.length-(1+i)] + (i+1) }
+  
+//   return msg  
+// }
 
 // 5) END===============================================================
 
