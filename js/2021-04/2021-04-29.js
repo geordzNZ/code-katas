@@ -23,6 +23,14 @@
 // TITLE: Recursive Ninja (7 kyu)
 // LINK:  https://www.codewars.com/kata/583ed487ee36e2a8d20000e8
 
+// v1
+// function chirp(n) {
+//   let msg = 'chirp'
+  
+//   for (let i=2; i<=n;i++){ msg += '-chirp' }
+//   return msg
+// }
+
 // 2) END===============================================================
 
 
