@@ -37,7 +37,7 @@
 
 // 4) START===============================================================
 // TITLE: No Loops 1 - Small enough? - Shortest Code Version (beta)
-// RANK:  before: 1432 / post solving: 1436 / post ranking: 
+// RANK:  before: 1432 / post solving: 1436 / post ranking: 1438
 // LINK:  https://www.codewars.com/kata/57cc91a458a06b1492000318
 
 // smallEnough=(a,l)=>a.every(v=>v<=l)
@@ -46,8 +46,11 @@
 
 
 // 5) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: No Loops 2 - You only need one - Shortest Code Version (beta)
+// RANK:  before: 1438 / post solving: 1442 / post ranking: 1444
+// LINK:  https://www.codewars.com/kata/57cc91361ccdc727f90000cf
+
+// check=(a,x)=>a.includes(x)
 
 // 5) END===============================================================
 
