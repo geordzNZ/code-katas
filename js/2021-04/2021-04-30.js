@@ -1,6 +1,6 @@
 // CODE KATAS FOR 30 Apr 2021
 // Rankings at start of the day:
-//   Merit = 1406
+//   Merit = 1422
 //   Kyu = 4
 //   Clan = 8
 // Comments:
@@ -16,8 +16,11 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: No Return #1: Multiply (beta)
+// RANK:  before: 1424 / post solving: 1428 / post ranking: 1430
+// LINK:  https://www.codewars.com/kata/5922009a5d4ad2322300008b
+
+// const multiply =(a,b)=> a*b
 
 // 2) END===============================================================
 
