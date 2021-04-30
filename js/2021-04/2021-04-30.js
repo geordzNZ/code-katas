@@ -36,8 +36,11 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: No Loops 1 - Small enough? - Shortest Code Version (beta)
+// RANK:  before: 1432 / post solving: 1436 / post ranking: 
+// LINK:  https://www.codewars.com/kata/57cc91a458a06b1492000318
+
+// smallEnough=(a,l)=>a.every(v=>v<=l)
 
 // 4) END===============================================================
 
