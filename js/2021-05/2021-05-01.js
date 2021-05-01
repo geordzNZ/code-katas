@@ -44,6 +44,41 @@
 // TITLE: Scrabble Score (7 kyu)
 // LINK:  https://www.codewars.com/kata/558fa34727c2d274c10000ae
 
+// v1
+// function scrabbleScore(str){
+//   let ltrs = str.replace(/\s/g,'').split('')
+//   let total = 0
+  
+//   for (l of ltrs){
+//     switch (l.toUpperCase()){
+//       case ('Q'): total+=10; break;
+//       case ('Z'): total+=10; break;
+        
+//       case ('J'): total+=8; break;
+//       case ('X'): total+=8; break;
+        
+//       case ('K'): total+=5; break;
+        
+//       case ('F'): total+=4; break;
+//       case ('H'): total+=4; break;
+//       case ('V'): total+=4; break;
+//       case ('W'): total+=4; break;
+//       case ('Y'): total+=4; break;
+      
+//       case ('B'): total+=3; break;
+//       case ('C'): total+=3; break;
+//       case ('M'): total+=3; break;
+//       case ('P'): total+=3; break;
+        
+//       case ('D'): total+=2; break;
+//       case ('G'): total+=2; break;
+        
+//       default: total+=1; break;
+//     }
+//   }
+//   return total
+// }
+
 // 3) END===============================================================
 
 
