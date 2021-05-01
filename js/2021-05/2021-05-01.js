@@ -22,7 +22,7 @@
 
 // 2) START===============================================================
 // TITLE: Diving Scores (beta)
-// RANK:  before: 1446 / post kata:  / post ranking
+// RANK:  before: 1446 / post kata: 1450 / post ranking 1452
 // LINK:  https://www.codewars.com/kata/5c97be7d856e611dbb78805f
 
 // function scoreOfDive(scores, tariff) {
