@@ -106,6 +106,9 @@
 //   return total
 // }
 
+// v4
+// const scrabbleScore =str=> str.toUpperCase().replace(/\s/g,'').split('').reduce((t,v)=>t+=$dict[v],0)
+
 // 3) END===============================================================
 
 
