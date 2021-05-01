@@ -21,8 +21,9 @@
 
 
 // 2) START===============================================================
-// TITLE: Most sales (7 kyu)
-// LINK:  https://www.codewars.com/kata/5e16ffb7297fe00001114824
+// TITLE: Diving Scores (beta)
+// RANK:  before: 1446 / post kata:  / post ranking
+// LINK:  https://www.codewars.com/kata/5c97be7d856e611dbb78805f
 
 // 2) END===============================================================
 
