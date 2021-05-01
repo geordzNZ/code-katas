@@ -34,6 +34,9 @@
 //   return (total*tariff).toFixed(2)
 // }
 
+// v2
+// const scoreOfDive =(s, t)=>(s.sort((a,b) => a-b).slice(2,-2).reduce((a,v) => a+=v)*t).toFixed(2)
+
 // 2) END===============================================================
 
 
