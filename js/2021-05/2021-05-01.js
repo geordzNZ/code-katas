@@ -97,6 +97,15 @@
 //   return total
 // }
 
+// v3
+// function scrabbleScore(str){
+//   let total = 0
+//   let ltrs = str.toUpperCase().replace(/\s/g,'').split('')
+  
+//   for (l of ltrs){ total += $dict[l] }
+//   return total
+// }
+
 // 3) END===============================================================
 
 
