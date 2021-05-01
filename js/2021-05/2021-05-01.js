@@ -10,7 +10,12 @@
 // TITLE: Most Likely (7 kyu)
 // LINK:  https://www.codewars.com/kata/56644a421b7c94c622000056
 
-
+// function mostLikely(prob1,prob2){
+//   let p1 = prob1.split(':')
+//   let p2 = prob2.split(':')
+  
+//   return p1[0]/p1[1] > p2[0]/p2[1]
+// }
 
 // 1) END===============================================================
 
