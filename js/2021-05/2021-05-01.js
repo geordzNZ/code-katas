@@ -25,6 +25,15 @@
 // RANK:  before: 1446 / post kata:  / post ranking
 // LINK:  https://www.codewars.com/kata/5c97be7d856e611dbb78805f
 
+// function scoreOfDive(scores, tariff) {
+//   let total = 0
+//   scores.sort((a,b)=>a-b)
+  
+//   for (let i=2;i<scores.length-2;i++) { total +=  scores[i] }
+  
+//   return (total*tariff).toFixed(2)
+// }
+
 // 2) END===============================================================
 
 
