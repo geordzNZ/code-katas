@@ -79,6 +79,24 @@
 //   return total
 // }
 
+// v2
+// function scrabbleScore(str){
+//   let ltrs = str.replace(/\s/g,'').split('')
+//   let total = 0
+//   let s10 = 'QZ', s8 = 'JX', s5 = 'K', s4 = 'FHVWY', s3 = 'BCMP', s2 = 'DG', s1 = 'AEIOULNRST'
+  
+//   for (l of ltrs){    
+//     if (s10.includes(l.toUpperCase())) { total+=10 }
+//     else if (s8.includes(l.toUpperCase())) { total+=8 }
+//     else if (s5.includes(l.toUpperCase())) { total+=5 } 
+//     else if (s4.includes(l.toUpperCase())) { total+=4 }
+//     else if (s3.includes(l.toUpperCase())) { total+=3 }
+//     else if (s2.includes(l.toUpperCase())) { total+=2 }
+//     else { total+=1 }
+//   }
+//   return total
+// }
+
 // 3) END===============================================================
 
 
