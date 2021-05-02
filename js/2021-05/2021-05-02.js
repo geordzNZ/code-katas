@@ -7,8 +7,9 @@
 //   Updates to js file = comment = git commit -am "#X kata for 02/May/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: No Loops 3 - Copy Within (beta)
+// RANK:  before 1454 / post kata:  / post ranking: 
+// LINK:  https://www.codewars.com/kata/57cc5f9258da9e47bc000143
 
 // 1) END===============================================================
 
