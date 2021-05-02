@@ -28,8 +28,10 @@
 
 // 3) START===============================================================
 // TITLE: No Loops 3 - Copy Within - Shortest Code Version (beta)
-// RANK:  before 1466 / post kata:  / post ranking: 
-// LINK:  
+// RANK:  before 1466 / post kata: 1470 / post ranking: 1472
+// LINK:  https://www.codewars.com/kata/57cc8f3058da9e302a0001c4
+
+// copy=(a,b,e,p)=>a.copyWithin(p,b,e)
 
 // 3) END===============================================================
 
