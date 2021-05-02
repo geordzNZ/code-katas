@@ -4,12 +4,12 @@
 //   Kyu = 4
 //   Clan = 9
 // Comments:
-//   New JS file = git commit -m "--Create code kata js file for 03/May/2021"
 //   Updates to js file = comment = git commit -am "#X kata for 03/May/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Count the likes (beta)
+// RANK:  before 1474 / post kata:  / post ranking: 
+// LINK:  https://www.codewars.com/kata/5532686f0408dfe458000117
 
 // 1) END===============================================================
 
