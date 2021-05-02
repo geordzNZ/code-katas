@@ -18,7 +18,7 @@
 
 // 2) START===============================================================
 // TITLE: Copy Within - Beginner (beta)
-// RANK:  before 1460 / post kata:  / post ranking: 
+// RANK:  before 1460 / post kata: 1464 / post ranking: 1466
 // LINK:  https://www.codewars.com/kata/57cc992b484cf908740001af
 
 // const copy =(array, start, stop, place)=> array.copyWithin(place, start, stop)
@@ -27,7 +27,8 @@
 
 
 // 3) START===============================================================
-// TITLE: 
+// TITLE: No Loops 3 - Copy Within - Shortest Code Version (beta)
+// RANK:  before 1466 / post kata:  / post ranking: 
 // LINK:  
 
 // 3) END===============================================================
