@@ -40,6 +40,12 @@
 // TITLE: Responsible Drinking (7 kyu)
 // LINK:  https://www.codewars.com/kata/5aee86c5783bb432cd000018
 
+// function hydrate(s) {
+//   let drinks = s.replace(/[^0-9]/g,'').split('').reduce((t,v)=>t=parseInt(t)+parseInt(v))
+  
+//   return `${drinks} glass${drinks>1?'es':''} of water`
+// }
+
 // 4) END===============================================================
 
 
