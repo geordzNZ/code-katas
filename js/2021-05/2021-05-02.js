@@ -8,8 +8,10 @@
 
 // 1) START===============================================================
 // TITLE: No Loops 3 - Copy Within (beta)
-// RANK:  before 1454 / post kata:  / post ranking: 
+// RANK:  before 1454 / post kata: 1458 / post ranking: 1460
 // LINK:  https://www.codewars.com/kata/57cc5f9258da9e47bc000143
+
+// const copy =(array, start, stop, place)=> array.copyWithin(place, start, stop)
 
 // 1) END===============================================================
 
