@@ -17,8 +17,9 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Copy Within - Beginner (beta)
+// RANK:  before 1460 / post kata:  / post ranking: 
+// LINK:  https://www.codewars.com/kata/57cc992b484cf908740001af
 
 // 2) END===============================================================
 
