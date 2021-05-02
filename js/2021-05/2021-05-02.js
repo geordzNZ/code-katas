@@ -21,6 +21,8 @@
 // RANK:  before 1460 / post kata:  / post ranking: 
 // LINK:  https://www.codewars.com/kata/57cc992b484cf908740001af
 
+// const copy =(array, start, stop, place)=> array.copyWithin(place, start, stop)
+
 // 2) END===============================================================
 
 
