@@ -48,6 +48,15 @@
 // TITLE: Scoring Tests (7 kyu)
 // LINK:  https://www.codewars.com/kata/55d2aee99f30dbbf8b000001
 
+// v1
+// function scoreTest(str, right, omit, wrong){  
+//   let cAns = str.filter(m=>m===0)
+//   let oAns = str.filter(m=>m===1)
+//   let wAns = str.filter(m=>m===2)
+
+//   return (cAns.length * right) + (oAns.length * omit) - (wAns.length * wrong)
+// }
+
 // 4) END===============================================================
 
 
