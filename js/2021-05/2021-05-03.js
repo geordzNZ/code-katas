@@ -17,8 +17,9 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Counting like a kid. (beta)
+// RANK:  before 1480 / post kata: 14 / post ranking: 
+// LINK:  https://www.codewars.com/kata/58e8c25806db4de3da00011c
 
 // 2) END===============================================================
 
