@@ -18,8 +18,17 @@
 
 // 2) START===============================================================
 // TITLE: Counting like a kid. (beta)
-// RANK:  before 1480 / post kata: 14 / post ranking: 
+// RANK:  before 1480 / post kata: 1484 / post ranking: 
 // LINK:  https://www.codewars.com/kata/58e8c25806db4de3da00011c
+
+// v1
+// function  kidoCount(n){
+//   let res = []
+//   for (let i=1;i<=n;i+=2){
+//     res.push(i)
+//   }
+//   return res
+// }
 
 // 2) END===============================================================
 
