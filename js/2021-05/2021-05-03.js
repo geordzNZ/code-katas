@@ -8,8 +8,10 @@
 
 // 1) START===============================================================
 // TITLE: Count the likes (beta)
-// RANK:  before 1474 / post kata:  / post ranking: 
+// RANK:  before 1474 / post kata: 1478 / post ranking: 1480
 // LINK:  https://www.codewars.com/kata/5532686f0408dfe458000117
+
+// var evalLikes =words=> words.filter(w=>w.match(/^like$/i)).length/words.length>0.05
 
 // 1) END===============================================================
 
