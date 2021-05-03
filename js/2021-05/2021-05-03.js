@@ -37,7 +37,9 @@
 // TITLE: Monkey Tennis - The Aftermath (7 kyu)
 // LINK:  https://www.codewars.com/kata/5a0c5b3206d5b696940000b8
 
-// const ballCollector =d=> {weight: d.filter(r=>r===58).length*58}
+// function ballCollector(d) {
+//   return {weight: d.filter(r=>r===58).length*58}
+// }
 
 // 3) END===============================================================
 
