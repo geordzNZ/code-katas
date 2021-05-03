@@ -57,6 +57,9 @@
 //   return (cAns.length * right) + (oAns.length * omit) - (wAns.length * wrong)
 // }
 
+// v2
+// const scoreTest =(mks,c,o,w)=> mks.reduce((t,m)=> t+= m===0?c:m===1?o:-w,0)
+
 // 4) END===============================================================
 
 
