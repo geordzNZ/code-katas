@@ -10,6 +10,7 @@
 // TITLE: Well of Ideas - Harder Version (7 kyu)
 // LINK:  https://www.codewars.com/kata/57f22b0f1b5432ff09001cab
 
+// v1
 // function well(x){
 //   let good = 0
   
@@ -21,6 +22,17 @@
 //   return good === 0 ? 'Fail!' : good <= 2 ? 'Publish!' : 'I smell a series!'
 // }
 
+// v2
+// function well(x){
+//   let good = 0
+  
+//   for (a1 in x){
+//     for (a2 in x[a1]){
+//       if (typeof x[a1][a2] === 'string' && x[a1][a2].search(/good/i) != -1) { good++ }
+//     }
+//   }
+//   return good === 0 ? 'Fail!' : good <= 2 ? 'Publish!' : 'I smell a series!'
+// }
 // 1) END===============================================================
 
 
