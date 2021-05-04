@@ -41,6 +41,18 @@
 // RANK:  before kata: 1492 / post kata:  / post ranking:
 // LINK:  https://www.codewars.com/kata/56c5f2098046ec919a00063b
 
+// v1
+// function multiplus(array){
+//   let ans =[]
+  
+//   for (num of array){
+//     if (num % 2 === 0 && num % 3 === 0) { ans.push('Well Done') }
+//     else if (num % 2 === 0) { ans.push('Well') } 
+//     else if (num % 3 === 0) { ans.push('Done') }
+//   }
+//   return ans
+// }
+
 // 2) END===============================================================
 
 
