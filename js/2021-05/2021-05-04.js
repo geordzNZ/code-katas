@@ -72,6 +72,17 @@
 // TITLE: Simple Fun #13: Magical Well (7 kyu)
 // LINK:  https://www.codewars.com/kata/588463cae61257e44600006d
 
+// v1
+// function magicalWell(a, b, n) {
+//   let total = 0
+//   for (let i=1;i<=n;i++){
+//     total += a*b
+//     a++
+//     b++
+//   }
+//   return total
+// }
+
 // 3) END===============================================================
 
 
