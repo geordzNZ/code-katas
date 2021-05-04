@@ -83,6 +83,14 @@
 //   return total
 // }
 
+// v2
+// function magicalWell(a, b, n) {
+//   let total = 0
+//   for (let i=1;i<=n;i++,a++,b++){ total += a*b }
+  
+//   return total
+// }
+
 // 3) END===============================================================
 
 
