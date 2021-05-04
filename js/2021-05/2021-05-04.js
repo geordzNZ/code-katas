@@ -7,8 +7,8 @@
 //   Updates to js file = comment = git commit -am "#X kata for 04/May/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Well of Ideas - Harder Version (7 kyu)
+// LINK:  https://www.codewars.com/kata/57f22b0f1b5432ff09001cab
 
 // 1) END===============================================================
 
