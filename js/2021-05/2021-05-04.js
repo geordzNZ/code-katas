@@ -38,7 +38,7 @@
 
 // 2) START===============================================================
 // TITLE: Well Done Multiplus (beta)
-// RANK:  before kata: 1492 / post kata:  / post ranking:
+// RANK:  before kata: 1492 / post kata: 1496 / post ranking: 1498
 // LINK:  https://www.codewars.com/kata/56c5f2098046ec919a00063b
 
 // v1
