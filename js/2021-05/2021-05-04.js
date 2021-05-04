@@ -53,6 +53,18 @@
 //   return ans
 // }
 
+// v2
+// function multiplus(array){
+//   let ans =[]
+  
+//   array.forEach(num=> {
+//     if (num % 2 === 0 && num % 3 === 0) { ans.push('Well Done') }
+//     else if (num % 2 === 0) { ans.push('Well') } 
+//     else if (num % 3 === 0) { ans.push('Done') }   
+//   })
+
+//   return ans
+// }
 // 2) END===============================================================
 
 
