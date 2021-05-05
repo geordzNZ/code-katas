@@ -19,6 +19,13 @@
 // TITLE: Keep the Order (7 kyu)
 // LINK:  https://www.codewars.com/kata/582aafca2d44a4a4560000e7
 
+// function keepOrder(ary, val) {
+//   for (let i=0; i<=ary.length; i++){
+//       if (val <= ary[i]) { return i }
+//   }
+//   return ary.length;
+// }
+
 // 2) END===============================================================
 
 
