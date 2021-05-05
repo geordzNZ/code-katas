@@ -49,6 +49,11 @@
 //   return res
 // }
 
+// v2 (from someone else)
+// function nameFile(fmt, nbr, start) {
+//   return nbr <= 0 || start % 1 !== 0 || nbr % 1 !== 0 ? [] : Array(nbr).fill(0).map((_, i) => fmt.replace(/\<index\_no\>/g, start + i));
+// }
+
 // 3) END===============================================================
 
 
