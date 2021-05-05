@@ -37,6 +37,18 @@
 // TITLE: Naming Files (7 kyu)
 // LINK:  https://www.codewars.com/kata/naming-files
 
+// v1
+// function nameFile(fmt, nbr, start) {
+//   let res = []
+
+//   if ((nbr <= 0 || nbr%1!=0) || (start > 0 && start%1!=0)) { return [] }
+  
+//   for (let i=start; i<start+nbr; i++){
+//     res.push(fmt.replace(/<index_no>/ig,i))
+//   }
+//   return res
+// }
+
 // 3) END===============================================================
 
 
