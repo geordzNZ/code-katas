@@ -7,8 +7,8 @@
 //   Updates to js file = comment = git commit -am "#X kata for 05/May/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Array Leaders (Array Series #3) (7 kyu)
+// LINK:  https://www.codewars.com/kata/5a651865fd56cb55760000e0
 
 // 1) END===============================================================
 
