@@ -29,7 +29,7 @@
 
 // 2) START===============================================================
 // TITLE: Dora Explores! Help Dora keep her lassi (beta)
-// RANK:  before kata: 1508 / post kata:  / post rating: 
+// RANK:  before kata: 1508 / post kata: 1512 / post rating: 1514
 // LINK:  https://www.codewars.com/kata/58f9fda15b7df65fca000004
 
 // function holaDora (v) {
