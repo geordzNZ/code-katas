@@ -46,6 +46,14 @@
 // TITLE: pick a set of first elements (7kyu)
 // LINK:  https://www.codewars.com/kata/572b77262bedd351e9000076
 
+// v1
+// function first(arr, n) {
+//   if (n===0) { return [] }
+//   if (!n) { return [arr[0]] }
+  
+//   return arr.slice(0,n)
+// }
+
 // 3) END===============================================================
 
 
