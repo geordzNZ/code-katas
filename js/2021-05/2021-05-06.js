@@ -10,7 +10,16 @@
 // TITLE: KISS - Keep It Simple Stupid (7 kyu)
 // LINK:  https://www.codewars.com/kata/57eeb8cc5f79f6465a0015c1
 
-
+// v1
+// function isKiss( words ){
+//   let splitWords = words.split(' ')
+//   let max = 0
+  
+//   for (let i=0; i<splitWords.length; i++){
+//     if (splitWords[i].length>max) { max = splitWords[i].length }
+//   }
+//   return max<=splitWords.length ? 'Good work Joe!' : 'Keep It Simple Stupid'
+// }
 
 // 1) END===============================================================
 
