@@ -21,6 +21,9 @@
 //   return max<=splitWords.length ? 'Good work Joe!' : 'Keep It Simple Stupid'
 // }
 
+// v2
+// const isKiss =words=> words.split(' ').reduce((m,w)=> m=Math.max(m,w.length),0)<=words.split(' ').length ? 'Good work Joe!' : 'Keep It Simple Stupid'
+
 // 1) END===============================================================
 
 
