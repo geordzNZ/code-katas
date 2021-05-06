@@ -7,8 +7,10 @@
 //   Updates to js file = comment = git commit -am "#X kata for 06/May/2021"
 
 // 1) START===============================================================
-// TITLE: extract file name (6 kyu)
-// LINK:  https://www.codewars.com/kata/597770e98b4b340e5b000071
+// TITLE: KISS - Keep It Simple Stupid (7 kyu)
+// LINK:  https://www.codewars.com/kata/57eeb8cc5f79f6465a0015c1
+
+
 
 // 1) END===============================================================
 
