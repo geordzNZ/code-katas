@@ -32,6 +32,13 @@
 // RANK:  before kata: 1508 / post kata:  / post rating: 
 // LINK:  https://www.codewars.com/kata/58f9fda15b7df65fca000004
 
+// function holaDora (v) {
+//   let dora = v.lastIndexOf('x')
+//   let swiper = v.indexOf(v.find((v)=> v.match(/[aeiou]/i) ))
+//   let msg = swiper===-1 ? "You're safe Dora!" : Math.abs(dora-swiper)===1 ? "Swiper, no swiping!" : "Keep your eyes peel Dora!" 
+//   return msg 
+// }
+
 // 2) END===============================================================
 
 
