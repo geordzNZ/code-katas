@@ -33,8 +33,10 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Sushi-go-round (Beginner's) (7 kyu)
+// LINK:  https://www.codewars.com/kata/59619e4609868dd923000041
+
+// const totalBill =str=> str.replace(/\s/g,'').length * 2 - (Math.floor(str.replace(/\s/g,'').length/5) * 2)
 
 // 2) END===============================================================
 
