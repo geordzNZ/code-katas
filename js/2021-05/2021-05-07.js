@@ -42,8 +42,17 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Find the vowels (7 kyu)
+// LINK:  https://www.codewars.com/kata/5680781b6b7c2be860000036
+
+// function vowelIndices(w){
+//   let ltrs = w.split('')
+//   let res = []
+//   for (let j=0; j<ltrs.length; j++){
+//     if( (/[aeiouy]/ig).test(ltrs[j]) ) { res.push(j+1) }
+//   }
+//   return res
+// }
 
 // 3) END===============================================================
 
