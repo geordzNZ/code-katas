@@ -3,12 +3,31 @@
 //   Merit = 1516
 //   Kyu = 4
 //   Clan = 9
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 07/May/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Larger Product or Sum (7 kyu)
+// LINK:  https://www.codewars.com/kata/5c4cb8fc3cf185147a5bdd02
+
+// v1
+// function sumOrProduct(arr, n) {
+//   arr.sort((a,b)=>a-b)
+//   let mnN = arr.slice(0,n)
+//   let mnT = mnN.reduce((t,v)=>t*=v)
+
+//   arr.sort((a,b)=>b-a)
+//   let mxN = arr.slice(0,n)
+//   let mxT = mxN.reduce((t,v)=>t+=v)
+  
+//   return (mxT>mnT) ? 'sum' : (mxT<mnT) ? 'product' : 'same'
+// }
+
+// v2
+// function sumOrProduct(arr, n) {
+//   let mnT = arr.sort((a,b)=>a-b).slice(0,n).reduce((t,v)=>t*=v)
+//   let mxT = arr.sort((a,b)=>b-a).slice(0,n).reduce((t,v)=>t+=v)
+  
+//   return (mxT>mnT) ? 'sum' : (mxT<mnT) ? 'product' : 'same'
+// }
 
 // 1) END===============================================================
 
