@@ -3,12 +3,10 @@
 //   Merit = 1522
 //   Kyu = 4
 //   Clan = 9
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 08/May/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Sort the Vowels! (7 Kyu)
+// LINK:  https://www.codewars.com/kata/59e49b2afc3c494d5d00002a
 
 // 1) END===============================================================
 
