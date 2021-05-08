@@ -19,6 +19,13 @@
 //   return res.substr(0,res.length-1)
 // }
 
+// v2
+// function sortVowels(s){
+//   if (!s || typeof s!='string') {return '' }
+  
+//   return s.split('').reduce((r,c)=> r+= (/[aeiou]/i).test(c) ?  `|${c}\n` : `${c}|\n`,'').substr(0,(s.length*3)-1)
+// }
+
 // 1) END===============================================================
 
 
