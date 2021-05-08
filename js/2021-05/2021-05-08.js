@@ -26,6 +26,13 @@
 //   return s.split('').reduce((r,c)=> r+= (/[aeiou]/i).test(c) ?  `|${c}\n` : `${c}|\n`,'').substr(0,(s.length*3)-1)
 // }
 
+// v3
+// function sortVowels(s){
+//   if (!s || typeof s!='string') {return '' }
+  
+//   return [...s].map(c=> (/[aeiou]/i).test(c) ?  `|${c}` : `${c}|`).join('\n')
+// }
+
 // 1) END===============================================================
 
 
