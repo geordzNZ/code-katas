@@ -8,6 +8,17 @@
 // TITLE: Sort the Vowels! (7 Kyu)
 // LINK:  https://www.codewars.com/kata/59e49b2afc3c494d5d00002a
 
+// v1
+// function sortVowels(s){
+//   let res = ''
+//   if (!s) {return res }
+//   for (let i=0; i<s.length; i++){
+//     if (/[aeiou]/i.test(s[i])) { res += `|${s[i]}\n`}
+//     else { res += `${s[i]}|\n` }
+//   }
+//   return res.substr(0,res.length-1)
+// }
+
 // 1) END===============================================================
 
 
