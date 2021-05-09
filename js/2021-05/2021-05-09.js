@@ -34,8 +34,9 @@
 
 
 // 3) START===============================================================
-// TITLE: esreveR gnirtS (7 kyu)
-// LINK:  https://www.codewars.com/kata/52b74e0936d582d9210005ff
+// TITLE: Inverted school grades (beta)
+// RANK:  pre-kata:  / post-kata:  / post-ranking:
+// LINK:  https://www.codewars.com/kata/57a5f023e298a767da0000d5
 
 // 3) END===============================================================
 
