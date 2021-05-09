@@ -17,6 +17,16 @@
 // TITLE: Milk and Cookies for Santa (7 kyu)
 // LINK: https://www.codewars.com/kata/52af7bf41f5a1291a6000025
 
+// v1
+// function timeForMilkAndCookies(date){
+//   if (date.getMonth()===11){
+//     if (date.getDate()===24) {
+//       return true
+//     }
+//   }
+//   return false
+// }
+
 // 2) END===============================================================
 
 
