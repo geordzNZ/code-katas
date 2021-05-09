@@ -38,6 +38,8 @@
 // RANK:  pre-kata:  / post-kata:  / post-ranking:
 // LINK:  https://www.codewars.com/kata/57a5f023e298a767da0000d5
 
+// const invertGrades =(scale, value)=> scale - (value-1)
+
 // 3) END===============================================================
 
 
