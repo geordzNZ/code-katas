@@ -35,7 +35,7 @@
 
 // 3) START===============================================================
 // TITLE: Inverted school grades (beta)
-// RANK:  pre-kata:  / post-kata:  / post-ranking:
+// RANK:  pre-kata: 1528 / post-kata:1532  / post-ranking: 1534
 // LINK:  https://www.codewars.com/kata/57a5f023e298a767da0000d5
 
 // const invertGrades =(scale, value)=> scale - (value-1)
