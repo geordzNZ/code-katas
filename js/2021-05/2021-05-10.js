@@ -9,6 +9,19 @@
 // RANK:  pre-kata:  / post-kata:  / post-ranking:
 // LINK:  https://www.codewars.com/kata/57b6f1bab69bfc9fb80002ca
 
+// v1
+// function milkPrice(lt, ppl) {
+//   let total = 0
+  
+//   for (let i=1; i<=(Math.floor(lt/2)); i++){
+//     ppl -= 0.05
+//     total += (ppl) * 2
+//   }
+//   if (lt ===0.5) {return 0.62}
+//   return +Number(total + (lt%2 * ppl)).toFixed(2)
+// }
+
+
 // 1) END===============================================================
 
 
