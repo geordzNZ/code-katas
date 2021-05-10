@@ -41,6 +41,13 @@
 // TITLE: Palindrome Strings (8 kyu)
 // LINK:  https://www.codewars.com/kata/57a5015d72292ddeb8000b31
 
+// v1
+// function isPalindrome(line) {
+//   let revd = [...String(line)].reverse().join('')
+  
+//   return typeof line === 'number' ? line === Number(revd) : line === revd
+// }
+
 // 2) END===============================================================
 
 
