@@ -48,6 +48,9 @@
 //   return typeof line === 'number' ? line === Number(revd) : line === revd
 // }
 
+// v2
+// const isPalindrome =line=> line == [...String(line)].reverse().join('')
+
 // 2) END===============================================================
 
 
