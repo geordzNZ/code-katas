@@ -58,6 +58,18 @@
 // TITLE: Palindrome Pairs (7 kyu)
 // LINK:  https://www.codewars.com/kata/5772ded6914da62b4b0000f8
 
+// const palindromePairs = words => {
+//   let res = []
+//   for (let i=0; i<words.length; i++){
+//     for (let j=0; j<words.length; j++){      
+//       if (String(words[i])+String(words[j])===[...String(words[i])+String(words[j])].reverse().join('') && i!=j) { 
+//         res.push([i,j]) 
+//       }
+//     }
+//   }
+//   return res
+// }
+
 // 3) END===============================================================
 
 
