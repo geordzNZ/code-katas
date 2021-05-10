@@ -6,7 +6,7 @@
 
 // 1) START===============================================================
 // TITLE: Gradually discounted milk price (beta)
-// RANK:  pre-kata:  / post-kata:  / post-ranking:
+// RANK:  pre-kata: 1534 / post-kata: 1538 / post-ranking: 1540
 // LINK:  https://www.codewars.com/kata/57b6f1bab69bfc9fb80002ca
 
 // v1
