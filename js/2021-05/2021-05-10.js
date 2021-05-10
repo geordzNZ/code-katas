@@ -3,12 +3,11 @@
 //   Merit = 1534
 //   Kyu = 4
 //   Clan = 9
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 10/May/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Gradually discounted milk price (beta)
+// RANK:  pre-kata:  / post-kata:  / post-ranking:
+// LINK:  https://www.codewars.com/kata/57b6f1bab69bfc9fb80002ca
 
 // 1) END===============================================================
 
