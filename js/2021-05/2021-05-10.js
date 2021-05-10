@@ -21,6 +21,18 @@
 //   return +Number(total + (lt%2 * ppl)).toFixed(2)
 // }
 
+// v2
+// function milkPrice(lt, ppl) {
+//   let total = 0;
+//   while(lt >= 2){
+//     lt -= 2;
+//     ppl -= 0.05;
+//     total += 2 * ppl;
+//   }
+//   total += lt * ppl;
+  
+//   return Math.round(total * 100) / 100;
+// }
 
 // 1) END===============================================================
 
