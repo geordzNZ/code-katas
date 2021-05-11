@@ -3,12 +3,10 @@
 //   Merit = 1544
 //   Kyu = 4
 //   Clan = 9
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 11/May/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: esrever esreveR! (7 kyu)
+// LINK:  https://www.codewars.com/kata/57e0206335e198f82b00001d/train/javascript
 
 // 1) END===============================================================
 
