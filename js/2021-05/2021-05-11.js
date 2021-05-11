@@ -28,6 +28,17 @@
 // TITLE: What's the real floor? (8 kyu)
 // LINK:  https://www.codewars.com/kata/574b3b1599d8f897470018f6
 
+// v1
+// function getRealFloor(n) {
+//   console.log('Floor:',n)
+//   let res = 0
+//   if (n<=0) { res = n }
+//   else if (n===1) { res = 0 }
+//   else if (n<=13) { res = n-1 }
+//   else { res = n-2 }
+//   return res
+// }
+
 // 3) END===============================================================
 
 
