@@ -5,8 +5,10 @@
 //   Clan = 9
 
 // 1) START===============================================================
-// TITLE: esrever esreveR! (7 kyu)
-// LINK:  https://www.codewars.com/kata/57e0206335e198f82b00001d/train/javascript
+// TITLE: Potenciation (8 kyu)
+// LINK:  https://www.codewars.com/kata/59fc72fe235f93838b002235
+
+
 
 // 1) END===============================================================
 
