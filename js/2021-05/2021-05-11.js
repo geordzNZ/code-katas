@@ -17,6 +17,10 @@
 // TITLE: shorter concat [reverse longer] (7 kyu)
 // LINK:  https://www.codewars.com/kata/54557d61126a00423b000a45
 
+// function shorter_reverse_longer(a,b){
+//   return a.length<b.length ? a+[...b].reverse(0).join('')+a : b+[...a].reverse(0).join('')+b
+// }
+
 // 2) END===============================================================
 
 
