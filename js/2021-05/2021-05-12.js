@@ -3,12 +3,10 @@
 //   Merit = 1550
 //   Kyu = 4
 //   Clan = 9
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 12/May/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Find the next perfect square! (7 kyu)
+// LINK:  https://www.codewars.com/kata/56269eb78ad2e4ced1000013
 
 // 1) END===============================================================
 
