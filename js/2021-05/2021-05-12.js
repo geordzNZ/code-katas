@@ -51,6 +51,19 @@
 // TITLE: Perfect Square. (6 kyu)
 // LINK:  https://www.codewars.com/kata/584e93a70f60247eb8000132
 
+// v1
+// function perfectSquare(str){
+//   let splitStr = str.split('\n')
+//   let splitStrLen = splitStr[0].length
+//   for (let i=1;i<splitStr.length;i++) { 
+//     if (splitStrLen != splitStr[i].length) { return false }
+//   }
+  
+  
+//   let cleanStr = str.replace(/[^.]/ig,'')
+//   return Math.sqrt(cleanStr.length)%1 || cleanStr.length===0 ? false : true
+// }
+
 // 3) END===============================================================
 
 
