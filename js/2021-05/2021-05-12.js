@@ -8,6 +8,12 @@
 // TITLE: Find the next perfect square! (7 kyu)
 // LINK:  https://www.codewars.com/kata/56269eb78ad2e4ced1000013
 
+// v1
+// function findNextSquare(sq) {
+//   let sqrt = Math.sqrt(sq)
+//   return sqrt%1===0 ? Math.pow(sqrt+1,2) : -1
+// }
+
 // 1) END===============================================================
 
 
