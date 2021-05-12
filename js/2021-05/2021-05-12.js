@@ -40,6 +40,10 @@
 //   return sq%1 ? Number(sq.toFixed(5)) : sq;
 // }
 
+
+// v2
+// const squareRoot =x=> +(x**0.5).toFixed(5)
+
 // 2) END===============================================================
 
 
