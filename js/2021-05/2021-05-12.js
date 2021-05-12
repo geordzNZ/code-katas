@@ -27,6 +27,19 @@
 // TITLE: Find the Square Root (7 kyu)
 // LINK:  https://www.codewars.com/kata/56426b4e971f01fd2f00005b
 
+// v1
+// function squareRoot(x) {
+//   let sq = 1
+//   let i=0;
+  
+//   while(true) {
+//     i++
+//     sq = (x / sq + sq) / 2
+//     if (i==x+1) { break }
+//   }
+//   return sq%1 ? Number(sq.toFixed(5)) : sq;
+// }
+
 // 2) END===============================================================
 
 
