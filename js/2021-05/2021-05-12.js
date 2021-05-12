@@ -14,6 +14,9 @@
 //   return sqrt%1===0 ? Math.pow(sqrt+1,2) : -1
 // }
 
+// v2
+// const findNextSquare =sq=> Math.sqrt(sq)%1===0 ? Math.pow(Math.sqrt(sq)+1,2) : -1
+
 // 1) END===============================================================
 
 
