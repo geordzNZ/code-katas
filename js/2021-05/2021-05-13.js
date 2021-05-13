@@ -65,6 +65,17 @@
 // TITLE: esrever esreveR!
 // LINK:  https://www.codewars.com/kata/57e0206335e198f82b00001d/
 
+// function esrever( str ){
+//   if (!str.length) { return '' }
+//   let res = []
+//   let revWords = str.substr(0,str.length-1).split(' ').reverse()
+
+//   for (wrd of revWords){
+//     res.push(wrd.split('').reverse().join(''))
+//   }
+//   return res.join(' ') + str[str.length-1]
+// }
+
 // 3) END===============================================================
 
 
