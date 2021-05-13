@@ -29,6 +29,21 @@
 // TITLE: WeIrD StRiNg CaSe (6 kyu)
 // LINK:  https://www.codewars.com/kata/52b757663a95b11b3d00062d
 
+// v1
+// function toWeirdCase(string){
+//   let splitStr = string.split(' ')
+//   let newStr = ''
+  
+//   for (wrd of splitStr){
+//     for (let i=0;i<wrd.length;i++){
+//       if (i%2===0) { newStr += wrd[i].toUpperCase() }
+//       else { newStr += wrd[i].toLowerCase() }
+//     }
+//     newStr += ' '
+//   }
+//   return newStr.trim()
+// }
+
 // 2) END===============================================================
 
 
