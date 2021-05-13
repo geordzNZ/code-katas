@@ -17,6 +17,11 @@
 //   return revStr
 // }
 
+// v2
+// String.prototype.reverse = function() {  
+//   return [...this].reverse().reduce((rev,l)=> rev+=l,'')
+// }
+
 // 1) END===============================================================
 
 
