@@ -8,6 +8,15 @@
 // TITLE: esreveR gnirtS (7 kyu)
 // LINK:  https://www.codewars.com/kata/52b74e0936d582d9210005ff
 
+// v1
+// String.prototype.reverse = function() {
+//   let revStr = ''
+//   for (let i=this.length-1;i>=0;i--){
+//     revStr += this[i]
+//   }
+//   return revStr
+// }
+
 // 1) END===============================================================
 
 
