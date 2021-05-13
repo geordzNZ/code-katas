@@ -44,6 +44,19 @@
 //   return newStr.trim()
 // }
 
+// v2
+// function toWeirdCase(string){
+//   let res = []
+//   string.split(' ').forEach(wrd=>{
+//     let newStr  = ''
+//     for (let i=0;i<wrd.length;i++){
+//       if (i%2===0) { newStr += wrd[i].toUpperCase() }
+//       else { newStr += wrd[i].toLowerCase() }
+//     }
+//     res.push(newStr)
+//   })
+//   return res.join(' ')
+// }
 // 2) END===============================================================
 
 
