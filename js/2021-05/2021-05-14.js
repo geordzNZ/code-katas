@@ -8,6 +8,16 @@
 // TITLE: Simple string reversal (7 kyu)
 // LINK:  https://www.codewars.com/kata/5a71939d373c2e634200008e
 
+// v1
+// function solve(str){
+//   let revdStr = str.replace(/\s/g,'').split('').reverse()
+
+//   for (let i=0;i<str.length;i++){
+//     if (str[i]===' ') { revdStr.splice(i,0,' ') }
+//   }
+//   return revdStr.join('')
+// }
+
 // 1) END===============================================================
 
 
