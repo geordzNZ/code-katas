@@ -5,9 +5,8 @@
 //   Clan = 9
 
 // 1) START===============================================================
-// TITLE: Strip external rows and columns when only zeros (beta)
-// RANK:  pre-kata: 1574 / post-kata:  / post-ranking: 
-// LINK:  https://www.codewars.com/kata/57bd5fc0615f0bda9a000221
+// TITLE: Simple string reversal (7 kyu)
+// LINK:  https://www.codewars.com/kata/5a71939d373c2e634200008e
 
 // 1) END===============================================================
 
