@@ -31,6 +31,10 @@
 //   for (let i=0;i<=n;i++) { res.push(Math.pow(2,i)) }
 //   return res
 // }
+
+// v2
+// const powersOfTwo =n=> Array.from({length: n + 1}, (_,i)=> 2**i)
+
 // 2) END===============================================================
 
 
