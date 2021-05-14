@@ -25,6 +25,12 @@
 // TITLE: Powers of 2 (8 kyu)
 // LINK:  https://www.codewars.com/kata/57a083a57cb1f31db7000028
 
+// v1
+// function powersOfTwo(n){
+//   let res = []
+//   for (let i=0;i<=n;i++) { res.push(Math.pow(2,i)) }
+//   return res
+// }
 // 2) END===============================================================
 
 
