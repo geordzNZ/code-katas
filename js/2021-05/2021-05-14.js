@@ -69,6 +69,7 @@
 // TITLE: Words to sentence (7 kyu)
 // LINK:  https://www.codewars.com/kata/57a06005cf1fa5fbd5000216
 
+// const wordsToSentence =words=> words.join(' ')
 // 5) END===============================================================
 
 
