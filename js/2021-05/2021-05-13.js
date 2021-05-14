@@ -3,12 +3,11 @@
 //   Merit = 1562
 //   Kyu = 4
 //   Clan = 9
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 13/May/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Strip external rows and columns when only zeros (beta)
+// RANK:  pre-kata: 1562 / post-kata:  / post-ranking: 
+// LINK:  https://www.codewars.com/kata/57bd5fc0615f0bda9a000221
 
 // 1) END===============================================================
 
