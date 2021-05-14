@@ -42,6 +42,15 @@
 // TITLE: Reverse list (7 kyu)
 // LINK:  https://www.codewars.com/kata/57a04da9e298a7ee43000111
 
+// v1
+// function reverseList(arr) {
+//   let res = []
+//   if (!arr.length) { return [] }
+//   for (let i=arr.length-1;i>=0;i--){
+//     res.push(arr[i])
+//   }
+//   return res
+// }
 // 3) END===============================================================
 
 
