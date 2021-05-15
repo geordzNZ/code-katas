@@ -45,6 +45,9 @@
 //   return hC;
 // }
 
+// v2
+// const holycats =input=> input.filter(x=> /^\W/i.test(x[0]))
+
 // 2) END===============================================================
 
 
