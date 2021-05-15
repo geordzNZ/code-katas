@@ -8,6 +8,7 @@
 // TITLE: Cat years, Dog years (8 kyu)
 // LINK:  https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b
 
+// v1
 // var humanYearsCatYearsDogYears = function(hY) {
 //   let cY=0,dY=0;
   
@@ -25,6 +26,10 @@
 //   }
 //   return [hY,cY,dY];
 // }
+
+//v2
+// var humanYearsCatYearsDogYears =hY=> hY===1 ? [hY, 15, 15] : hY===2 ? [hY, 24, 24] : [hY, (hY-2) * 4 + 24, (hY-2) * 5 + 24]
+
 // 1) END===============================================================
 
 
