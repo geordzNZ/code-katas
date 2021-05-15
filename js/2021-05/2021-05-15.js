@@ -34,8 +34,9 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Holy cats (beta)
+// RANK:  pre-kata  / post-kata:  / post-rank: 
+// LINK:  https://www.codewars.com/kata/58ebfa6ef7cda1a3d4000048
 
 // 2) END===============================================================
 
