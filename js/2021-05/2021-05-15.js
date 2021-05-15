@@ -3,12 +3,10 @@
 //   Merit = 1584
 //   Kyu = 4
 //   Clan = 9
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 15/May/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Cat years, Dog years (8 kyu)
+// LINK:  https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b
 
 // 1) END===============================================================
 
