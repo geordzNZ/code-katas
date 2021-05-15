@@ -38,6 +38,13 @@
 // RANK:  pre-kata  / post-kata:  / post-rank: 
 // LINK:  https://www.codewars.com/kata/58ebfa6ef7cda1a3d4000048
 
+// v1
+// function holycats(input){
+//   let hC = input.filter(x=> x==='^(~_~)^' || x==='"(^_^)"' || x==='*(^_^)*')
+  
+//   return hC;
+// }
+
 // 2) END===============================================================
 
 
