@@ -80,6 +80,12 @@
 //   return resArr
 // }
 
+// v3
+// function tacofy(word) {
+//   let ings = {a:'beef',c:'cheese',e:'beef',g:'guacamole',i:'beef',l:'lettuce',o:'beef',s:'salsa',t:'tomato',u:'beef'}
+//   return ['shell',...[...word].map(c=> ings[c.toLowerCase()]).filter(l=>l),'shell'];
+// }
+
 // 2) END===============================================================
 
 
