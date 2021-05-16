@@ -5,8 +5,8 @@
 //   Clan = 8
 
 // 1) START===============================================================
-// TITLE: Arrays of cats and dogs (6 kyu)
-// LINK:  https://www.codewars.com/kata/5a5f48f2880385daac00006c
+// TITLE: Format words into a sentence(6 kyu)
+// LINK:  https://www.codewars.com/kata/51689e27fe9a00b126000004
 
 // 1) END===============================================================
 
