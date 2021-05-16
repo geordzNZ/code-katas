@@ -3,12 +3,10 @@
 //   Merit = 1592
 //   Kyu = 4
 //   Clan = 8
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 16/May/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Arrays of cats and dogs (6 kyu)
+// LINK:  https://www.codewars.com/kata/5a5f48f2880385daac00006c
 
 // 1) END===============================================================
 
