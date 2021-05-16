@@ -58,6 +58,28 @@
 //   return res
 // }
 
+// v2
+// function tacofy(word) {
+//   let resArr = [...word].filter(c=>/[aeioutlcgs]/i.test(c)).map((c)=> {
+//     let res = ''
+//     if (/[aeiou]/i.test(c)) { res = 'beef' }
+    
+//     switch (c.toLowerCase()) {
+//       case 't': res ='tomato'; break;
+//       case 'l': res = 'lettuce'; break;
+//       case 'c': res ='cheese'; break;
+//       case 'g': res ='guacamole'; break;
+//       case 's': res ='salsa'; break;
+//     }
+//     return res
+//   })
+  
+//   resArr.unshift('shell')
+//   resArr.push('shell')
+  
+//   return resArr
+// }
+
 // 2) END===============================================================
 
 
