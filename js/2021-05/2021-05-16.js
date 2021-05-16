@@ -32,6 +32,32 @@
 // TITLE: Turn any word into a beef taco  (7 kyu)
 // LINK:  https://www.codewars.com/kata/59414b46d040b7b8f7000021
 
+// v1
+// function tacofy(word) {
+//   let res = []
+  
+//   for (c of [...word]){
+//     //if (/aeiou/i.test(c)) { res.push('beef') }
+    
+//     switch (c.toLowerCase()) {
+//       case 'a': res.push('beef'); break;
+//       case 'e': res.push('beef'); break;
+//       case 'i': res.push('beef'); break;
+//       case 'o': res.push('beef'); break;
+//       case 'u': res.push('beef'); break;
+//       case 't': res.push('tomato'); break;
+//       case 'l': res.push('lettuce'); break;
+//       case 'c': res.push('cheese'); break;
+//       case 'g': res.push('guacamole'); break;
+//       case 's': res.push('salsa'); break;
+//     }
+//   }
+//   res.unshift('shell')
+//   res.push('shell')
+  
+//   return res
+// }
+
 // 2) END===============================================================
 
 
