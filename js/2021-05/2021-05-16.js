@@ -8,6 +8,23 @@
 // TITLE: Format words into a sentence(6 kyu)
 // LINK:  https://www.codewars.com/kata/51689e27fe9a00b126000004
 
+//v1
+// function formatWords(words){
+//   if (words===null|| !words.length) { return '' }
+
+//   let res = ''
+//   let cleanedWords = words.filter(w=> w.length>=1)
+
+//   if (cleanedWords.length===0) { return res = `` }
+//   if (cleanedWords.length===1) { return res = `${cleanedWords[0]}` }
+//   if (cleanedWords.length===2) { return res = `${cleanedWords[0]} and ${cleanedWords[1]}` }
+  
+//   for (let i=0;i<cleanedWords.length-1;i++){
+//     res += cleanedWords[i] + ', '
+//   }
+//   return res.substr(0,res.length-2) + ` and ${cleanedWords[cleanedWords.length-1]}`
+// }
+
 // 1) END===============================================================
 
 
