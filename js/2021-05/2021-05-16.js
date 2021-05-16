@@ -93,6 +93,17 @@
 // TITLE: Enumerable Magic #25 - Take the First N Elements (8 kyu)
 // LINK:  https://www.codewars.com/kata/545afd0761aa4c3055001386/
 
+// v1
+// function take(arr, n) {
+//   let res = []
+//   let size = Math.min(arr.length,n)
+  
+//   for (let i=0; i<size; i++){
+//     res.push(arr[i])
+//   }
+//   return res
+// }
+
 // 3) END===============================================================
 
 
