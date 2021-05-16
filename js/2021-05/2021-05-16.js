@@ -90,8 +90,8 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Enumerable Magic #25 - Take the First N Elements (8 kyu)
+// LINK:  https://www.codewars.com/kata/545afd0761aa4c3055001386/
 
 // 3) END===============================================================
 
