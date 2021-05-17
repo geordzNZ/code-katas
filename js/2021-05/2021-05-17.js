@@ -84,6 +84,14 @@
 //   return true
 // }
 
+// v2
+// function checkCoupon(eC, cC, cD, eD){
+//   let cDate2 = new Date( cD ) 
+//   let eDate2 = new Date( eD )
+  
+//   if (eC!==cC || cDate2>eDate2)  { return false }
+//   return true
+// }
 // 2) END===============================================================
 
 
