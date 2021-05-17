@@ -48,6 +48,15 @@
 //   return res
 // }
 
+// v3
+// function decode(string) {
+//   let digs = {0:5,1:9,2:8,3:7,4:6,5:0,6:4,7:3,8:2,9:1}
+//   let res = ''
+  
+//   for (n of [...string]) { res += digs[n] }
+//   return res
+// }
+
 // 1) END===============================================================
 
 
