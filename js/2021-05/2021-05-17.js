@@ -3,12 +3,10 @@
 //   Merit = 1604
 //   Kyu = 4
 //   Clan = 8
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 17/May/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: The Barksdale Code (7 kyu)
+// LINK:  https://www.codewars.com/kata/573d498eb90ccf20a000002a
 
 // 1) END===============================================================
 
