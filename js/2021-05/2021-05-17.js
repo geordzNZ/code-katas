@@ -73,6 +73,17 @@
 // TITLE: The Coupon Code (7 kyu)
 // LINK:  https://www.codewars.com/kata/539de388a540db7fec000642
 
+// v1
+// function checkCoupon(eC, cC, cD, eD){
+//   let cDate2 = new Date( cD ) 
+//   let eDate2 = new Date( eD )
+  
+//   if (eC!==cC)  { return false }
+//   if (cDate2>eDate2) { return false }
+  
+//   return true
+// }
+
 // 2) END===============================================================
 
 
