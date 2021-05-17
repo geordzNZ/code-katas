@@ -27,6 +27,27 @@
 //   return res
 // }
 
+// v2
+// function decode(string) {
+//   let res = ''
+  
+//   for (n of [...string]){
+//     switch (parseInt(n)){
+//       case 0: res += 5; break;
+//       case 1: res += 9; break;
+//       case 2: res += 8; break;
+//       case 3: res += 7; break;
+//       case 4: res += 6; break;
+//       case 5: res += 0; break;
+//       case 6: res += 4; break;
+//       case 7: res += 3; break;
+//       case 8: res += 2; break;
+//       case 9: res += 1; break;
+//    }
+//   }
+//   return res
+// }
+
 // 1) END===============================================================
 
 
