@@ -8,6 +8,25 @@
 // TITLE: The Barksdale Code (7 kyu)
 // LINK:  https://www.codewars.com/kata/573d498eb90ccf20a000002a
 
+// v1
+// function decode(string) {
+//   let res = ''
+  
+//   for (n of [...string]){
+//     if (n==0) { res += 5 }
+//     else if (n==1) { res += 9 }
+//     else if (n==2) { res += 8 }
+//     else if (n==3) { res += 7 }
+//     else if (n==4) { res += 6 }
+//     else if (n==5) { res += 0 }
+//     else if (n==6) { res += 4 }
+//     else if (n==7) { res += 3 }
+//     else if (n==8) { res += 2 }
+//     else if (n==9) { res += 1 }
+//   }
+//   return res
+// }
+
 // 1) END===============================================================
 
 
