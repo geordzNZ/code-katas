@@ -92,6 +92,14 @@
 //   if (eC!==cC || cDate2>eDate2)  { return false }
 //   return true
 // }
+
+// v3
+// function checkCoupon(eC, cC, cD, eD){
+//   let cDate2 = new Date( cD ) 
+//   let eDate2 = new Date( eD )
+  
+//   return (eC!==cC || cDate2>eDate2) ? false : true
+// }
 // 2) END===============================================================
 
 
