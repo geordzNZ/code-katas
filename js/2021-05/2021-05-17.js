@@ -63,6 +63,9 @@
   
 //   return [... string].map(x=> digs[x]).join('') 
 // }
+
+// v5
+// const decode =string=> string.replace(/./g, d=>'5987604321'[d])
 // 1) END===============================================================
 
 
