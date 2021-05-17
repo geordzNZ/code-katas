@@ -100,6 +100,9 @@
   
 //   return (eC!==cC || cDate2>eDate2) ? false : true
 // }
+
+// v4
+// const checkCoupon =(eC,cC,cD,eD)=> (eC!==cC || new Date(cD) > new Date(eD)) ? false : true
 // 2) END===============================================================
 
 
