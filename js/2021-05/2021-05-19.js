@@ -6,7 +6,7 @@
 
 // 1) START===============================================================
 // TITLE: Operator Precedence (for beginners) (beta)
-// RANK:  pre-kata:  / post-kata:  / post-rank: 
+// RANK:  pre-kata: 1614 / post-kata: 1618 / post-rank: 1620
 // LINK:  https://www.codewars.com/kata/5a32c292b6cfd7e83200017d
 
 //Fix this:
