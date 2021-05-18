@@ -33,6 +33,14 @@
 // TITLE: Fix string case (7 kyu)
 // LINK:  https://www.codewars.com/kata/5b180e9fedaa564a7000009a
 
+// v1
+function solve(s){
+  let uc = [...s].filter((c,i)=> c.charCodeAt(0)<=90)
+  let lc = [...s].filter((c,i)=> c.charCodeAt(0)>=97)
+
+  return uc.length>lc.length ? s.toUpperCase() : s.toLowerCase() 
+}
+
 // 3) END===============================================================
 
 
