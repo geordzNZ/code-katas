@@ -1,14 +1,13 @@
 // CODE KATAS FOR 19 May 2021
 // Rankings at start of the day:
-//   Merit = 1608
+//   Merit = 1614
 //   Kyu = 4
 //   Clan = 8
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 19/May/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Operator Precedence (for beginners) (beta)
+// RANK:  pre-kata:  / post-kata:  / post-rank: 
+// LINK:  https://www.codewars.com/kata/5a32c292b6cfd7e83200017d
 
 // 1) END===============================================================
 
