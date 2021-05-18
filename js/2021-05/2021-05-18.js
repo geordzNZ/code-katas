@@ -8,6 +8,14 @@
 // TITLE: Last Survivor (7 kyu)
 // LINK:  https://www.codewars.com/kata/609eee71109f860006c377d1
 
+//v1
+// function lastSurvivor(letters, coords) {
+//   let res = letters.split('')
+  
+//   for (c of coords){ res.splice(c,1) }
+//   return res.join('')
+// }
+
 // 1) END===============================================================
 
 
