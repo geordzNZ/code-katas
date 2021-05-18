@@ -3,12 +3,10 @@
 //   Merit = 1608
 //   Kyu = 4
 //   Clan = 8
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 18/May/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Last Survivor (7 kyu)
+// LINK:  https://www.codewars.com/kata/609eee71109f860006c377d1
 
 // 1) END===============================================================
 
