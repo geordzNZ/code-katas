@@ -13,6 +13,11 @@
 // function fahrenheitToCelsius(fahrenheit) {  
 //   return fahrenheit - 32 / 9/5
 // }
+
+// Fixed
+// function fahrenheitToCelsius(fahrenheit) {  
+//   return (fahrenheit - 32) / (9/5);  
+// }
 // 1) END===============================================================
 
 
