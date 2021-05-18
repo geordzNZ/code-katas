@@ -25,6 +25,12 @@
 // TITLE: Check RNA Nucleotides (7 kyu)
 // LINK:  https://www.codewars.com/kata/5a3325b4b6486ab367000064
 
+// function checkNucleotides(seq) {
+//   for (let i=0; i<seq.length; i++){
+//     if ( /[^AGCU]/i.test(seq[i]) ) { return `There is an invalid letter: ${seq[i]}. At position: ${i+1}`}
+//   }
+//   return `Valid Sequence: ${seq}`
+// }
 // 2) END===============================================================
 
 
