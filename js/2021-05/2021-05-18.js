@@ -41,6 +41,10 @@
 //   return uc.length>lc.length ? s.toUpperCase() : s.toLowerCase() 
 // }
 
+// v2
+// function solve(s){
+//   return [...s].filter((c,i)=> c.charCodeAt(0)<=90).length>[...s].filter((c,i)=> c.charCodeAt(0)>=97).length ? s.toUpperCase() : s.toLowerCase()
+// }
 // 3) END===============================================================
 
 
