@@ -9,6 +9,10 @@
 // RANK:  pre-kata:  / post-kata:  / post-rank: 
 // LINK:  https://www.codewars.com/kata/5a32c292b6cfd7e83200017d
 
+//Fix this:
+// function fahrenheitToCelsius(fahrenheit) {  
+//   return fahrenheit - 32 / 9/5
+// }
 // 1) END===============================================================
 
 
