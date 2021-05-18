@@ -38,6 +38,21 @@
 // TITLE: Credit card issuer checking (7 kyu)
 // LINK:  https://www.codewars.com/kata/5701e43f86306a615c001868
 
+
+// v1
+// function getIssuer(number) {
+//   let len = String(number).length
+ 
+//   if (len===15 && (String(number).substr(0,2)==34 || String(number).substr(0,2)==37)) { return 'AMEX'}
+  
+//   if (len===16 && (String(number).substr(0,4)==6011)) { return 'Discover'}
+  
+//   if (len===16 && (String(number).substr(0,2)>=51 && String(number).substr(0,2)<=55)) { return 'Mastercard'}
+  
+//   if ((len===13 || len===16) && (String(number)[0]==4)) { return 'VISA'}
+  
+//   return 'Unknown'
+// }
 // 3) END===============================================================
 
 
