@@ -52,6 +52,15 @@
 // TITLE: Flatten (7 kyu)
 // LINK:  https://www.codewars.com/kata/5250a89b1625e5decd000413
 
+// v1
+// var flatten = function (array){
+//   let res = []
+//   for (let i=0; i<array.length; i++){
+//     if (!array[i].length) { res.push(array[i]) }
+//     else { for (let j=0; j<array[i].length; j++){ res.push(array[i][j]) } }
+//   }
+//   return res
+// }
 // 4) END===============================================================
 
 
