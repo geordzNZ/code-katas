@@ -7,7 +7,7 @@
 // 1) START===============================================================
 // TITLE: Validate credit card expiry date (7 kyu)
 // LINK:  https://www.codewars.com/kata/58c3fbe3ea65729f3800007d
-
+ 
 // 1) END===============================================================
 
 
