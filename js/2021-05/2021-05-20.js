@@ -51,6 +51,16 @@
 // TITLE: Credit Card Mask (7 kyu)
 // LINK:  https://www.codewars.com/kata/5412509bd436bd33920011bc
 
+// v1
+// function maskify(cc) {
+//   let res =''
+//   if (cc.length<5) { return cc }
+  
+//   for (let i=0; i<cc.length-4; i++) { 
+//     res += '#' 
+//   }
+//   return res+cc.substring(cc.length-4)
+// }
 // 3) END===============================================================
 
 
