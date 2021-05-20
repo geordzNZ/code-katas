@@ -61,6 +61,9 @@
 //   }
 //   return res+cc.substring(cc.length-4)
 // }
+
+// v2
+// const maskify =cc=> (cc.length<5) ? cc : '#'.repeat(cc.length-4)+cc.substring(cc.length-4)
 // 3) END===============================================================
 
 
