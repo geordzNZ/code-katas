@@ -7,7 +7,19 @@
 // 1) START===============================================================
 // TITLE: Validate credit card expiry date (7 kyu)
 // LINK:  https://www.codewars.com/kata/58c3fbe3ea65729f3800007d
- 
+
+// v1
+// function checkExpiryValid (date) {
+//   let curYear = 2021
+//   let curMonth = 05
+  
+//   let spltDate = date.replace(/\s/g,'').split(date.includes('-') ? '-' : '/')
+//   spltDate[1] = spltDate[1].length===2 ?  '20'+spltDate[1] : spltDate[1]
+  
+  
+//   if (spltDate[1]>curYear || spltDate[1]==curYear && spltDate[0]>=curMonth) { return true }
+//   else { return false}
+// }
 // 1) END===============================================================
 
 
