@@ -20,6 +20,14 @@
 //   if (spltDate[1]>curYear || spltDate[1]==curYear && spltDate[0]>=curMonth) { return true }
 //   else { return false}
 // }
+
+// v2
+// function checkExpiryValid (date) {  
+//   let spltDate = date.replace(/\s/g,'').split(date.includes('-') ? '-' : '/')
+//   spltDate[1] = spltDate[1].length===2 ?  '20'+spltDate[1] : spltDate[1]
+
+//   return (spltDate[1]>2021 || spltDate[1]==2021 && spltDate[0]>=05)
+// }
 // 1) END===============================================================
 
 
