@@ -35,8 +35,14 @@
 // TITLE: Date Format Validation (7 kyu)
 // LINK:  https://www.codewars.com/kata/57ce0c634001a5f3c7000006
 
+// v1
 // function dateChecker(date){
 //   return /^(0[1-9]|[12][0-9]|3[01])-(0[1-9]|[12][0-9]|3[01])-\d\d\d\d (0[1-9]|1[0-9]|2[0-3]):[0-5][0-9]$/.test(date)
+// }
+
+// v2
+// function dateChecker(date){
+// 	return /^(\d\d-){2}\d{4} \d\d:\d\d$/.test(date);
 // }
 // 2) END===============================================================
 
