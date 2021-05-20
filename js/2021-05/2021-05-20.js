@@ -3,12 +3,10 @@
 //   Merit = 1624
 //   Kyu = 4
 //   Clan = 7
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 20/May/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Validate credit card expiry date (7 kyu)
+// LINK:  https://www.codewars.com/kata/58c3fbe3ea65729f3800007d
 
 // 1) END===============================================================
 
