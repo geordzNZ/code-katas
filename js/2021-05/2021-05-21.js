@@ -35,6 +35,16 @@
 // TITLE: Bingo ( Or Not ) (7 kyu)
 // LINK:  https://www.codewars.com/kata/5a1ee4dfffe75f0fcb000145
 
+// v1
+// function bingo(a) {
+//   let b = a.includes(2)
+//   let i = a.includes(9)
+//   let n = a.includes(14)
+//   let g = a.includes(7)
+//   let o = a.includes(15)
+  
+//   return b && i && n && g && o ? 'WIN' : 'LOSE'
+// }
 // 2) END===============================================================
 
 
