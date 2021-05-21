@@ -50,6 +50,11 @@
 // function bingo(a) {  
 //   return a.includes(2) && a.includes(9) && a.includes(14) && a.includes(7) && a.includes(15) ? 'WIN' : 'LOSE'
 // }
+
+// v3
+// function bingo(a) {
+//   return [2,9,14,7,15].every(n => a.includes(n)) ? "WIN" : "LOSE"
+// }
 // 2) END===============================================================
 
 
