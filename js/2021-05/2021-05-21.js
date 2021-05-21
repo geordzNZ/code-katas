@@ -3,12 +3,10 @@
 //   Merit = 1630
 //   Kyu = 4
 //   Clan = 7
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 21/May/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Bingo Card (6 kyu)
+// LINK:  https://www.codewars.com/kata/566d5e2e57d8fae53c00000c
 
 // 1) END===============================================================
 
