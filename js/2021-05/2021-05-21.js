@@ -8,6 +8,26 @@
 // TITLE: Bingo Card (6 kyu)
 // LINK:  https://www.codewars.com/kata/566d5e2e57d8fae53c00000c
 
+// function getCard() {
+//   let b = 'BINGO'
+//   let bCard =[]
+    
+//   for (let i=0; i<5; i++){
+//     let randos =[]
+//     for (let j=0; j<5; j++){
+//       let min = (i*15) + 1
+//       let max = min + 14
+      
+//       while(randos.length < 5){
+//         let rando = Math.floor(Math.random() * (max - min + 1) ) + min
+//         if(randos.indexOf(rando) === -1) { randos.push(rando) }
+//       } 
+//       if (i===2 && j===4) { randos.pop() }
+//     }
+//     for (r of randos){ bCard.push(b[i]+r) }
+//   }
+//   return bCard
+// }
 // 1) END===============================================================
 
 
