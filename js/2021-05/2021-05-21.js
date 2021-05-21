@@ -63,6 +63,16 @@
 // RANK:  pre-kata: 1640 / post-kata:  / post-rank: 
 // LINK:  https://www.codewars.com/kata/5843baa8673ea2668c0001e4/train/javascript
 
+// v1
+// function cc(card) {
+//   let pts = {2:1,3:1,4:1,5:1,6:1,7:0,8:0,9:0,10:-1,'J':-1,'Q':-1,'K':-1,'A':-1}
+//   let res = 0
+  
+//   for (c of card){
+//     res += pts[c]
+//   }
+//   return `${res} ${res>0 ? 'Bet' : 'Hold'}`
+// };
 // 3) END===============================================================
 
 
