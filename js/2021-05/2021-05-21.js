@@ -60,7 +60,7 @@
 
 // 3) START===============================================================
 // TITLE: Card Counting (beta)
-// RANK:  pre-kata: 1640 / post-kata:  / post-rank: 
+// RANK:  pre-kata: 1640 / post-kata: 1644 / post-rank: 1646
 // LINK:  https://www.codewars.com/kata/5843baa8673ea2668c0001e4/train/javascript
 
 // v1
