@@ -3,13 +3,10 @@
 //   Merit = 1646
 //   Kyu = 4
 //   Clan = 8
-// Comments:
-//   New JS file = git commit -m "--Create code kata js file for 22/May/2021"
-//   Updates to js file = comment = git commit -am "#X kata for 22/May/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Opposite number (8 kyu)
+// LINK:  https://www.codewars.com/kata/56dec885c54a926dcd001095
 
 // 1) END===============================================================
 
