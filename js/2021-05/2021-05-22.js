@@ -36,6 +36,14 @@
 //   }
 // }
 
+// v2
+// function calculateTip(amount, rating) {
+//   return rating.toLowerCase() === 'terrible' ? 0 :
+//          rating.toLowerCase() === 'poor' ? Math.ceil(amount * 0.05) :
+//          rating.toLowerCase() === 'good' ? Math.ceil(amount * 0.10) :
+//          rating.toLowerCase() === 'great' ? Math.ceil(amount * 0.15):
+//          rating.toLowerCase() === 'excellent' ? Math.ceil(amount * 0.20) : 'Rating not recognised'
+// }
 // 2) END===============================================================
 
 
