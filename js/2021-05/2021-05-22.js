@@ -8,12 +8,14 @@
 // TITLE: Opposite number (8 kyu)
 // LINK:  https://www.codewars.com/kata/56dec885c54a926dcd001095
 
-// 1) END===============================================================
-
-//v1
+// v1
 // function opposite(number) {
 //   return number*-1
 // }
+
+// v2
+// const opposite =n=> n*-1
+// 1) END===============================================================
 
 // 2) START===============================================================
 // TITLE: 
