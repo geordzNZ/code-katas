@@ -44,6 +44,14 @@
 //          rating.toLowerCase() === 'great' ? Math.ceil(amount * 0.15):
 //          rating.toLowerCase() === 'excellent' ? Math.ceil(amount * 0.20) : 'Rating not recognised'
 // }
+
+// v3
+// function calculateTip(amt, rtg){
+//   const TIPS = {"terrible": 0,"poor": 0.05,"good": 0.1,"great": 0.15,"excellent": 0.2};
+//   const tip = TIPS[rtg.toLowerCase()]
+  
+//   return tip != undefined ? Math.ceil(tip * amt) : "Rating not recognised";
+// }
 // 2) END===============================================================
 
 
