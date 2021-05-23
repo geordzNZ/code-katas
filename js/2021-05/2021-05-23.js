@@ -19,6 +19,16 @@
 // TITLE: Finding Remainder Without Using '%' Operator (7 kyu)
 // LINK:  https://www.codewars.com/kata/564f458b4d75e24fc9000041
 
+// v1
+// const remainder = (D, d) => {
+//   let x = D-d
+  
+//   while (x >= d){
+//     x-=d
+//   }
+//   return x
+// };
+
 // 2) END===============================================================
 
 
