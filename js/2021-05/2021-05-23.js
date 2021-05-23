@@ -7,8 +7,8 @@
 //   Updates to js file = comment = git commit -am "#X kata for 23/May/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: 5 without numbers !!(8 kyu)
+// LINK:  https://www.codewars.com/kata/59441520102eaa25260000bf/train/javascript
 
 // 1) END===============================================================
 
