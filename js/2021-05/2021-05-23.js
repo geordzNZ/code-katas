@@ -33,8 +33,8 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: For UFC Fans (Total Beginners): Conor McGregor vs George Saint Pierre (8 kyu)
+// LINK:  https://www.codewars.com/kata/582dafb611d576b745000b74
 
 // 3) END===============================================================
 
