@@ -36,6 +36,9 @@
 // TITLE: For UFC Fans (Total Beginners): Conor McGregor vs George Saint Pierre (8 kyu)
 // LINK:  https://www.codewars.com/kata/582dafb611d576b745000b74
 
+// var quote =f=> f.toLowerCase() === 'conor mcgregor' 
+//                       ? "I'd like to take this chance to apologize.. To absolutely NOBODY!" 
+//                       : "I am not impressed by your performance."
 // 3) END===============================================================
 
 
