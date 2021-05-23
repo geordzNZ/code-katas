@@ -10,6 +10,8 @@
 // TITLE: 5 without numbers !!(8 kyu)
 // LINK:  https://www.codewars.com/kata/59441520102eaa25260000bf/train/javascript
 
+//v1
+// const unusualFive=()=> 'abcde'.length
 // 1) END===============================================================
 
 
