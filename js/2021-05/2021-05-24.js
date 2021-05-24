@@ -22,12 +22,18 @@
 //     if (haystack[i] === 'needle') { return `found the needle at position ${i}` }
 //   } 
 // }
+
+// v2
+// const findNeedle =haystack=> `found the needle at position ${haystack.findIndex(v => v==='needle')}`
+
+// v3
+// const findNeedle =hay=> `found the needle at position ${hay.indexOf('needle')}`
 // 2) END===============================================================
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: A Strange Trip to the Market (8 kyu)
+// LINK:  https://www.codewars.com/kata/55ccdf1512938ce3ac000056
 
 // 3) END===============================================================
 
