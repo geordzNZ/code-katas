@@ -22,15 +22,12 @@
 //     if (haystack[i] === 'needle') { return `found the needle at position ${i}` }
 //   } 
 // }
-<<<<<<< HEAD
 
 // v2
 // const findNeedle =haystack=> `found the needle at position ${haystack.findIndex(v => v==='needle')}`
 
 // v3
 // const findNeedle =hay=> `found the needle at position ${hay.indexOf('needle')}`
-=======
->>>>>>> f66d55e5f16205db011d280a59b8a6fad71a1f3e
 // 2) END===============================================================
 
 
