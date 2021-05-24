@@ -16,6 +16,12 @@
 // TITLE: A Needle in the Haystack (8 kyu)
 // LINK:  https://www.codewars.com/kata/56676e8fabd2d1ff3000000c
 
+// v1
+// function findNeedle(haystack) {
+//   for (let i=0; i<haystack.length; i++){
+//     if (haystack[i] === 'needle') { return `found the needle at position ${i}` }
+//   } 
+// }
 // 2) END===============================================================
 
 
