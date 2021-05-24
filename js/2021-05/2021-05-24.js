@@ -35,12 +35,15 @@
 // TITLE: A Strange Trip to the Market (8 kyu)
 // LINK:  https://www.codewars.com/kata/55ccdf1512938ce3ac000056
 
+// v1
 // function isLockNessMonster(s) {
 //   return s.includes('tree fiddy') || 
 //          s.includes('3.50') || 
 //          s.includes('three fifty')
 // }
 
+// v2
+// const isLockNessMonster = (s) => /tree fiddy|3.50|three fifty/.test(s);
 // 3) END===============================================================
 
 
