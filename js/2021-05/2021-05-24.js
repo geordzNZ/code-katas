@@ -3,12 +3,10 @@
 //   Merit = 1656
 //   Kyu = 4
 //   Clan = 8
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 24/May/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Third Angle of a Triangle (8 kyu)
+// LINK:  https://www.codewars.com/kata/5a023c426975981341000014
 
 // 1) END===============================================================
 
