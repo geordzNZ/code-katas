@@ -3,12 +3,10 @@
 //   Merit = 1663
 //   Kyu = 4
 //   Clan = 8
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 25/May/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Ermahgerd (6 kyu)
+// LINK:  https://www.codewars.com/kata/5660c1e9fae768c3b50000a6/train/javascript
 
 // 1) END===============================================================
 
