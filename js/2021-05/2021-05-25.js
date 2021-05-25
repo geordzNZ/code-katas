@@ -8,6 +8,25 @@
 // TITLE: Ermahgerd (6 kyu)
 // LINK:  https://www.codewars.com/kata/5660c1e9fae768c3b50000a6/train/javascript
 
+// v1
+// function ermahgerd(text) {
+//   let t1 = text.toUpperCase()
+//   let t2 = t1.replace(/[AEIOU]/g,'ER')
+//   let t3 = t2.replace(/ERER|ERH/g,'ER')
+//   let t4 = t3.replace(/MY/g,'MAH')
+//   let t5 = t4.replace(/RR/g,'R')
+//   let t6 = t5.split(' ')
+//   for (let i=0; i<t6.length; i++){
+//     if (t6[i].length>4){
+//       if (t6[i][t6[i].length-1]===',' || t6[i][t6[i].length-1]==='!'){        
+//         if (t6[i].substr(t6[i].length-3,2)==='ER') { t6[i]=t6[i].substr(0,t6[i].length-3) +t6[i][t6[i].length-1]  }
+//       }else{
+//         if (t6[i].substr(t6[i].length-2,2)==='ER') { t6[i]=t6[i].substr(0,t6[i].length-2) }
+//       }
+//     }
+//   }
+//   return t6.join(' ')
+// }
 // 1) END===============================================================
 
 
