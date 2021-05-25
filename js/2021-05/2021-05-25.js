@@ -58,6 +58,15 @@
 //   }
 //   return t6.join(' ')
 // }
+
+// v4 - someone elses
+// const ermahgerd = text =>
+//   text.toUpperCase()
+//     .replace(/[AEIOU]/g, `ER`)
+//     .replace(/ER(ER|H)/g, `ER`)
+//     .replace(/MY/g, `MAH`)
+//     .replace(/RR/g, `R`)
+//     .replace(/(?<=\w{4,})ER\b/g, ``);
 // 1) END===============================================================
 
 
