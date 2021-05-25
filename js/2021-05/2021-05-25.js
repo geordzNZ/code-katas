@@ -27,6 +27,22 @@
 //   }
 //   return t6.join(' ')
 // }
+
+// v2
+// function ermahgerd(text) {
+//   let t5 = text.toUpperCase().replace(/[AEIOU]/g,'ER').replace(/ERER|ERH/g,'ER').replace(/MY/g,'MAH').replace(/RR/g,'R')
+//   let t6 = t5.split(' ')
+//   for (let i=0; i<t6.length; i++){
+//     if (t6[i].length>4){
+//       if (t6[i][t6[i].length-1]===',' || t6[i][t6[i].length-1]==='!'){        
+//         if (t6[i].substr(t6[i].length-3,2)==='ER') { t6[i]=t6[i].substr(0,t6[i].length-3) +t6[i][t6[i].length-1]  }
+//       }else{
+//         if (t6[i].substr(t6[i].length-2,2)==='ER') { t6[i]=t6[i].substr(0,t6[i].length-2) }
+//       }
+//     }
+//   }
+//   return t6.join(' ')
+// }
 // 1) END===============================================================
 
 
