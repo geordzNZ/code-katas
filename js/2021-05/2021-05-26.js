@@ -3,12 +3,10 @@
 //   Merit = 1671
 //   Kyu = 4
 //   Clan = 8
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 26/May/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: draw me a chessboard (7 kyu)
+// LINK:  https://www.codewars.com/kata/56242b89689c35449b000059/train/javascript
 
 // 1) END===============================================================
 
