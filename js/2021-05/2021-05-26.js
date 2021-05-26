@@ -69,8 +69,8 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Correct the mistakes of the character recognition software (8 kyu)
+// LINK:  https://www.codewars.com/kata/577bd026df78c19bca0002c0
 
 // 3) END===============================================================
 
