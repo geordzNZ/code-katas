@@ -34,6 +34,24 @@
 // TITLE: ChessBoard (7 kyu)
 // LINK:  https://www.codewars.com/kata/581c894633b9fe465d0000a6
 
+// v1
+// function board(size) {
+//   let board = []
+//   let row = ''
+//   for (let i=0; i<size; i++){
+//     for (let j=0; j<size; j++){
+//       if (i%2===0){
+//         if (j%2===0){ row += '#' }
+//         else { row += ' ' }
+//       }else{
+//         if (j%2===0){ row += ' ' }
+//         else { row += '#' }
+//       }
+//     }
+//     row += '\n'
+//   }
+//   return row
+// }
 // 2) END===============================================================
 
 
