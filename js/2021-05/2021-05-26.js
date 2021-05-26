@@ -79,6 +79,11 @@
 //   let s3 = s2.replace(/1/g,'I')
 //   return s3
 // }
+
+// v2
+// function correct(string){
+// 	return string.replace(/5/g,'S').replace(/0/g,'O').replace(/1/g,'I')
+// }
 // 3) END===============================================================
 
 
