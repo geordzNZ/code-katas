@@ -72,6 +72,13 @@
 // TITLE: Correct the mistakes of the character recognition software (8 kyu)
 // LINK:  https://www.codewars.com/kata/577bd026df78c19bca0002c0
 
+// v1
+// function correct(string){
+// 	let s1 = string.replace(/5/g,'S')
+//   let s2 = s1.replace(/0/g,'O')
+//   let s3 = s2.replace(/1/g,'I')
+//   return s3
+// }
 // 3) END===============================================================
 
 
