@@ -8,6 +8,25 @@
 // TITLE: draw me a chessboard (7 kyu)
 // LINK:  https://www.codewars.com/kata/56242b89689c35449b000059/train/javascript
 
+// v1
+// function chessBoard(rows, cols) {  
+//   let board = []
+//   for (let i=0; i<rows; i++){
+//     let row = []
+//     for (let j=0; j<cols; j++){
+//       if (i%2===0){
+//         if (j%2===0){ row.push('O') }
+//         else { row.push('X') }
+//       }else{
+//         if (j%2===0){ row.push('X') }
+//         else { row.push('O') }
+//       }
+//     }
+//     board.push(row)
+//   }
+//   return board
+// }
+
 // 1) END===============================================================
 
 
