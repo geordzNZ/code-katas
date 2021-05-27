@@ -3,12 +3,10 @@
 //   Merit = 1677
 //   Kyu = 4
 //   Clan = 8
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 27/May/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Battle of the characters (Easy) (7 kyu)
+// LINK:  https://www.codewars.com/kata/595519279be6c575b5000016
 
 // 1) END===============================================================
 
