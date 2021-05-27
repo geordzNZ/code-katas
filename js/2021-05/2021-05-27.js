@@ -38,8 +38,8 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Battle of the characters (Medium) (7 kyu)
+// LINK:  https://www.codewars.com/kata/595e9f258b763bc2d2000032
 
 // 2) END===============================================================
 
