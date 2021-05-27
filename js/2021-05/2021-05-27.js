@@ -28,6 +28,12 @@
 //   let score = x.split('').reduce((t,c) => t+=c.charCodeAt(0)-64,0) - y.split('').reduce((t,c) => t+=c.charCodeAt(0)-64,0)
 //   return score > 0 ? x : score < 0 ? y : 'Tie!'
 // }
+
+// v4
+// function battle(x, y) {
+//   let score = [...x].reduce((t,c) => t+=c.charCodeAt(0)-64,0) - [...y].reduce((t,c) => t+=c.charCodeAt(0)-64,0)
+//   return score > 0 ? x : score < 0 ? y : 'Tie!'
+// }
 // 1) END===============================================================
 
 
