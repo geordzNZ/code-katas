@@ -41,6 +41,20 @@
 // TITLE: Battle of the characters (Medium) (7 kyu)
 // LINK:  https://www.codewars.com/kata/595e9f258b763bc2d2000032
 
+// v1
+// function battle(x, y) {
+  
+//   let ucX = [...x].filter(c=> c.charCodeAt(0)<91)
+//   let lcX = [...x].filter(c=> c.charCodeAt(0)>91)
+  
+//   let ucY = [...y].filter(c=> c.charCodeAt(0)<91)
+//   let lcY = [...y].filter(c=> c.charCodeAt(0)>91)
+  
+//   let scoreX = ucX.reduce((t,c) => t+=c.charCodeAt(0)-64,0) + (lcX.reduce((t,c) => t+=c.charCodeAt(0)-96,0))/2 
+//   let scoreY = ucY.reduce((t,c) => t+=c.charCodeAt(0)-64,0) + (lcY.reduce((t,c) => t+=c.charCodeAt(0)-96,0))/2 
+                     
+//   return scoreX > scoreY ? x : scoreY > scoreX ? y : 'Tie!'
+// }
 // 2) END===============================================================
 
 
