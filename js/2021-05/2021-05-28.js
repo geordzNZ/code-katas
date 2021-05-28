@@ -13,6 +13,9 @@
 
 // v2
 // const simpleMultiplication =num=> num *= num%2===0 ? 8 : 9
+
+// v3
+// const simpleMultiplication =num=> num *= num%2 ? 9 : 8
 // 1) END===============================================================
 
 
