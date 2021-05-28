@@ -5,8 +5,8 @@
 //   Clan = 8
 
 // 1) START===============================================================
-// TITLE: Happy Coding : Correct The Leaderboard (7 kyu)
-// LINK:  https://www.codewars.com/kata/599cdc22675e5f43f1000005
+// TITLE: Simple multiplication (8 kyu)
+// LINK:  https://www.codewars.com/kata/583710ccaa6717322c000105
 
 // 1) END===============================================================
 
