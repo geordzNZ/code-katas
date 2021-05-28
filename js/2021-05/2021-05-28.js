@@ -8,7 +8,11 @@
 // TITLE: Simple multiplication (8 kyu)
 // LINK:  https://www.codewars.com/kata/583710ccaa6717322c000105
 
+// v1
 // const simpleMultiplication =num=> num%2===0 ? num*=8 : num*=9
+
+// v2
+// const simpleMultiplication =num=> num *= num%2===0 ? 8 : 9
 // 1) END===============================================================
 
 
