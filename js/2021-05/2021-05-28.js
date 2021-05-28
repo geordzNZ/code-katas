@@ -41,6 +41,8 @@
 // RANK:  pre-kata: 1691 / post-kata:  /  post rank: 
 // LINK:  https://www.codewars.com/kata/583845d32fb0bab919000004
 
+// v1
+//const oddOnly =arr1=> arr1.filter(n=> n%2)
 // 3) END===============================================================
 
 
