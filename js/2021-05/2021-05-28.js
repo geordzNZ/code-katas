@@ -3,13 +3,10 @@
 //   Merit = 1681
 //   Kyu = 4
 //   Clan = 8
-// Comments:
-//   New JS file = 
-//   Updates to js file = comment = git commit -am "#X kata for 28/May/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Happy Coding : Correct The Leaderboard (7 kyu)
+// LINK:  https://www.codewars.com/kata/599cdc22675e5f43f1000005
 
 // 1) END===============================================================
 
