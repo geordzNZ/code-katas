@@ -58,8 +58,6 @@
 
 // v2
 // function battle(x, y) {
-//   console.log(x,y)
-  
 //   let ucX = [...x].filter(c=> c.charCodeAt(0)<91).reduce((t,c) => t+=c.charCodeAt(0)-64,0)
 //   let lcX = [...x].filter(c=> c.charCodeAt(0)>91).reduce((t,c) => t+=c.charCodeAt(0)-96,0)/2
   
@@ -71,6 +69,18 @@
                      
 //   return scoreX > scoreY ? x : scoreY > scoreX ? y : 'Tie!'
 // }
+
+// v3
+// function battle(x, y) {
+//   let scoreX = [...x].filter(c=> c.charCodeAt(0)<91).reduce((t,c) => t+=c.charCodeAt(0)-64,0) +
+//                [...x].filter(c=> c.charCodeAt(0)>91).reduce((t,c) => t+=c.charCodeAt(0)-96,0)/2
+  
+//   let scoreY = [...y].filter(c=> c.charCodeAt(0)<91).reduce((t,c) => t+=c.charCodeAt(0)-64,0) +
+//                [...y].filter(c=> c.charCodeAt(0)>91).reduce((t,c) => t+=c.charCodeAt(0)-96,0)/2
+                     
+//   return scoreX > scoreY ? x : scoreY > scoreX ? y : 'Tie!'
+// }
+
 // 2) END===============================================================
 
 
