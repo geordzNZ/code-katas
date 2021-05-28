@@ -38,7 +38,7 @@
 
 // 3) START===============================================================
 // TITLE: Odd only (beta)
-// RANK:  pre-kata: 1691 / post-kata:  /  post rank: 
+// RANK:  pre-kata: 1691 / post-kata: 1695 /  post rank: 1697
 // LINK:  https://www.codewars.com/kata/583845d32fb0bab919000004
 
 // v1
