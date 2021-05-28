@@ -23,6 +23,16 @@
 // TITLE: Multiplication Tables (6 kyu)
 // LINK:  https://www.codewars.com/kata/5432fd1c913a65b28f000342
 
+// v1
+// function multiplicationTable(row,col){
+//   let tbl =[]
+//   for (let i=1; i<=row; i++){
+//     let row = []
+//     for (let j=1; j<=col; j++) { row.push(i*j) }
+//     tbl.push(row)
+//   }
+//   return tbl
+// }
 // 2) END===============================================================
 
 
