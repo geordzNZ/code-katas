@@ -14,6 +14,11 @@
 //   for (a of arguments) { if(a) { trues++} }
 //   return trues===1
 // }
+
+// v2
+// function onlyOne() {
+//   return [...arguments].filter(a=> a).length===1
+// }
 // 1) END===============================================================
 
 
