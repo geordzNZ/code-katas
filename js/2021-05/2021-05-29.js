@@ -8,6 +8,12 @@
 // TITLE: Only one (7 kyu)
 // LINK:  https://www.codewars.com/kata/5734c38da41454b7f700106e
 
+// v1
+// function onlyOne() {
+//   let trues = 0
+//   for (a of arguments) { if(a) { trues++} }
+//   return trues===1
+// }
 // 1) END===============================================================
 
 
