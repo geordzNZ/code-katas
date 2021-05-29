@@ -27,6 +27,8 @@
 // RANK:  pre-kata: 1699 / post-kata:  / post rank: 
 // LINK:  https://www.codewars.com/kata/554003323fd6af1c4200004e
 
+// v1
+// const isOdd =n=> Math.abs(n%2)===1
 // 2) END===============================================================
 
 
