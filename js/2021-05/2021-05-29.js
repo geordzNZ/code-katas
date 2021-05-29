@@ -23,8 +23,9 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: This is odd (beta)
+// RANK:  pre-kata: 1699 / post-kata:  / post rank: 
+// LINK:  https://www.codewars.com/kata/554003323fd6af1c4200004e
 
 // 2) END===============================================================
 
