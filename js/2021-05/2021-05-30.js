@@ -27,6 +27,11 @@
 // TITLE: Grid blast! (7 kyu)
 // LINK:  https://www.codewars.com/kata/54fdfe14762e2edf4a000a33
 
+// v1
+// function fire(x,y) {
+//   let coOrd = (y*3)+x
+//   return grid[coOrd]
+// }
 // 2) END===============================================================
 
 
