@@ -8,6 +8,16 @@
 // TITLE: Grid index (7 kyu)
 // LINK:  https://www.codewars.com/kata/5f5802bf4c2cc4001a6f859e
 
+// v1
+// function gridIndex(grid, indices) {
+//   let ans = ''
+//   let newGrid = [...grid].join('').replace(/,/g,'').split('')
+//   for (i of indices){ 
+//     ans += newGrid[i-1] 
+//   }
+//   return ans
+// }
+
 // 1) END===============================================================
 
 
