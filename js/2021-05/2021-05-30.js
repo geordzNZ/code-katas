@@ -18,6 +18,8 @@
 //   return ans
 // }
 
+// v2 - from someone else
+// const gridIndex = (grid, indices) => indices.map(c => grid.flat(2)[c-1]).join('')
 // 1) END===============================================================
 
 
