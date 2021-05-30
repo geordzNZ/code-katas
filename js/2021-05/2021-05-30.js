@@ -3,12 +3,10 @@
 //   Merit = 1707
 //   Kyu = 4
 //   Clan = 8
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 30/May/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Grid index (7 kyu)
+// LINK:  https://www.codewars.com/kata/5f5802bf4c2cc4001a6f859e
 
 // 1) END===============================================================
 
