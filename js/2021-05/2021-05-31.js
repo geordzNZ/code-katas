@@ -3,12 +3,10 @@
 //   Merit = 1711
 //   Kyu = 4
 //   Clan = 8
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 31/May/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: String ends with? (7 kyu)
+// LINK:  https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d
 
 // 1) END===============================================================
 
