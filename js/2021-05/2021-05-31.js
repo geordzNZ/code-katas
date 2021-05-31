@@ -25,6 +25,22 @@
 // RANK:  pre-kata: 1713 / post-kata: / post rank:
 // LINK:  https://www.codewars.com/kata/58dc46b8fffa53a79e00009d
 
+// v1
+// function printValues(n){
+//   let res = []
+//   for (let i=1; i<=n; i++){
+//     if (i%7===0 && i%5===0) { 
+//       res.push('CodeWars') 
+//     } else if (i%7===0) { 
+//       res.push('Code') 
+//     } else if (i%5===0) { 
+//       res.push('Wars') 
+//     } else {
+//       res.push(i) 
+//     }
+//   }
+//   return res
+// }
 // 2) END===============================================================
 
 
