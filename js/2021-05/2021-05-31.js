@@ -14,6 +14,9 @@
 //   let res = patt.test(str);
 //   return res
 // }
+
+// v2
+//const solution =(str,ending)=> str.endsWith(ending)
 // 1) END===============================================================
 
 
