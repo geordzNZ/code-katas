@@ -21,8 +21,9 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Replace values with strings (beta)
+// RANK:  pre-kata: 1713 / post-kata: / post rank:
+// LINK:  https://www.codewars.com/kata/58dc46b8fffa53a79e00009d
 
 // 2) END===============================================================
 
