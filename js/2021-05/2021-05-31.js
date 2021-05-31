@@ -8,6 +8,12 @@
 // TITLE: String ends with? (7 kyu)
 // LINK:  https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d
 
+// v1
+// function solution(str, ending){
+//   let patt = new RegExp(ending+'$');
+//   let res = patt.test(str);
+//   return res
+// }
 // 1) END===============================================================
 
 
