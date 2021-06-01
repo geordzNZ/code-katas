@@ -31,6 +31,14 @@
 // RANK:  pre-kata: 1721 / post-kata:  / post rank: 
 // LINK:  https://www.codewars.com/kata/58b7fafd0571aa5f44000038
 
+// v1
+// function surviveFirst(str) {
+//   let res = str[0]
+//   for (let i=1; i<str.length; i++){
+//     res += '*'  
+//   }
+//   return res
+// }
 // 2) END===============================================================
 
 
