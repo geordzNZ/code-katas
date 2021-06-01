@@ -1,14 +1,12 @@
 // CODE KATAS FOR 01 June 2021
 // Rankings at start of the day:
-//   Merit = XXXX
-//   Kyu = X 
-//   Clan = XX
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 01/Jun/2021"
+//   Merit = 1719
+//   Kyu = 4
+//   Clan = 8
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Growth of a Population (7 kyu)
+// LINK:  https://www.codewars.com/kata/563b662a59afc2b5120000c6
 
 // 1) END===============================================================
 
