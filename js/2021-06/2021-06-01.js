@@ -39,6 +39,9 @@
 //   }
 //   return res
 // }
+
+// v2
+// const surviveFirst =str=> str[0] + '*'.repeat(str.length-1)
 // 2) END===============================================================
 
 
