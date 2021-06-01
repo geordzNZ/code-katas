@@ -28,7 +28,7 @@
 
 // 2) START===============================================================
 // TITLE: replace a string with * except the first letter (beta)
-// RANK:  pre-kata: 1721 / post-kata:  / post rank: 
+// RANK:  pre-kata: 1721 / post-kata: 1725 / post rank: 1727
 // LINK:  https://www.codewars.com/kata/58b7fafd0571aa5f44000038
 
 // v1
