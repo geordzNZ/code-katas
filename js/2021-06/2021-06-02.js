@@ -36,6 +36,11 @@
 // RANK:  pre-kata: 1727 / post-kata:  / post rank:
 // LINK:  https://www.codewars.com/kata/58db95e7091c114391000040
 
+// v1
+// function calculateCAGR(fv,pv,n){
+//   let calc = (Math.pow((fv/pv),(1/n))-1)*100
+//   return Number(calc.toFixed(2))  
+// }
 // 3) END===============================================================
 
 
