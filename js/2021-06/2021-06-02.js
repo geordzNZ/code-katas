@@ -3,12 +3,10 @@
 //   Merit = 1725
 //   Kyu = 4
 //   Clan = 7
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 02/Jun/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: A string with bugs? (6 kyu)
+// LINK:  https://www.codewars.com/kata/599beb63b7a0473b1b000049
 
 // 1) END===============================================================
 
