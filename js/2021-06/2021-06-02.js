@@ -13,8 +13,8 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: String Templates - Bug Fixing #5 (8 kyu)
+// LINK:  https://www.codewars.com/kata/55c90cad4b0fe31a7200001f
 
 // 2) END===============================================================
 
