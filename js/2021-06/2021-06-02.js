@@ -21,7 +21,10 @@
 //   return `I like #{template.join(',')}`;
 // }
 
-
+// fix
+// function buildString(...template){
+//   return `I like ${template.join(',')}!`;
+// }
 // 2) END===============================================================
 
 
