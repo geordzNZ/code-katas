@@ -16,6 +16,12 @@
 // TITLE: String Templates - Bug Fixing #5 (8 kyu)
 // LINK:  https://www.codewars.com/kata/55c90cad4b0fe31a7200001f
 
+// Starting code to fix
+// function buildString(...template){
+//   return `I like #{template.join(',')}`;
+// }
+
+
 // 2) END===============================================================
 
 
