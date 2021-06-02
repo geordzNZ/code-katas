@@ -33,7 +33,7 @@
 
 // 3) START===============================================================
 // TITLE: Calculate Compound Annual Growth Rate of an investment (beta)
-// RANK:  pre-kata: 1727 / post-kata:  / post rank:
+// RANK:  pre-kata: 1727 / post-kata: 1731 / post rank: 1733
 // LINK:  https://www.codewars.com/kata/58db95e7091c114391000040
 
 // v1
