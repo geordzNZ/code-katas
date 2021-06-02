@@ -32,8 +32,8 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Algorithmic predicament- Bug Fixing #9 (7 kyu)
+// LINK:  https://www.codewars.com/kata/55d3b1f2c1b2f0d3470000a9
 
 // 3) END===============================================================
 
