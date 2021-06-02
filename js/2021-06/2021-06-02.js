@@ -32,8 +32,9 @@
 
 
 // 3) START===============================================================
-// TITLE: Algorithmic predicament- Bug Fixing #9 (7 kyu)
-// LINK:  https://www.codewars.com/kata/55d3b1f2c1b2f0d3470000a9
+// TITLE: Calculate Compound Annual Growth Rate of an investment (beta)
+// RANK:  pre-kata: 1727 / post-kata:  / post rank:
+// LINK:  https://www.codewars.com/kata/58db95e7091c114391000040
 
 // 3) END===============================================================
 
