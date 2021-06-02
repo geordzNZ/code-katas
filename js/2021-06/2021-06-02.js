@@ -8,6 +8,7 @@
 // TITLE: A string with bugs? (6 kyu)
 // LINK:  https://www.codewars.com/kata/599beb63b7a0473b1b000049
 
+// var reg = /^(?!.*bug).*$/
 // 1) END===============================================================
 
 
