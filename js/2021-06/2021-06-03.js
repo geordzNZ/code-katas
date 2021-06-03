@@ -78,6 +78,9 @@
 //   }
 //   return res
 // }
+
+// v3
+// const myTasks =arr=> arr.map(a=> a==='buy food' ? 'learn Node.js' : a==='sleep' ? 'make a weather app' : a)
 // 2) END===============================================================
 
 
