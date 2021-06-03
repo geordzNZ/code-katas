@@ -69,6 +69,15 @@
 //   }
 //   return res
 // }
+
+// v2
+// function myTasks(array) {
+//   let res = []
+//   for (a of array) {
+//     res.push(a==='buy food' ? 'learn Node.js' : a==='sleep' ? 'make a weather app' : a)
+//   }
+//   return res
+// }
 // 2) END===============================================================
 
 
