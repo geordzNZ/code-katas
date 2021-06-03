@@ -55,8 +55,9 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: A (no more) bugs trilogy: Episode 2 - An Array of Tasks (beta)
+// RANK: pre-kata: 1735 / post-kata: / post rank:
+// LINK:  https://www.codewars.com/kata/5630c81e8e90d20992000051
 
 // 2) END===============================================================
 
