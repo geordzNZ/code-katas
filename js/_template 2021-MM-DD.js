@@ -54,6 +54,14 @@
 // TITLE: Build a square (7 kyu)
 // LINK:  https://www.codewars.com/kata/59a96d71dbe3b06c0200009c
 
+// v1
+// function generateShape(int){
+//   let res = []
+//   for (let i=1; i<=int; i++){
+//     res.push('+'.repeat(int))
+//   }
+//   return res.join('\n')
+// }
 // 2) END===============================================================
 
 
