@@ -1,16 +1,26 @@
-// CODE KATAS FOR FIXME:DD June 2021
+// CODE KATAS FOR 04 June 2021
 // Rankings at start of the day:
-//   Merit = FIXME:XXXX
-//   Kyu = FIXME:X 
-//   Clan = FIXME:XX
-// Comments:
-//   New JS file = git commit -m "--Create code kata js file for FIXME:DD/Jun/2021"
-//   Updates to js file = comment = git commit -am "#X kata for FIXME:DD/Jun/2021"
+//   Merit = 1743
+//   Kyu = 4
+//   Clan = 7
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Switch/Case - Bug Fixing #6 (7 kyu)
+// LINK:  https://www.codewars.com/kata/55c933c115a8c426ac000082
 
+// Fix this Code
+// function evalObject(value){
+//   var result = 0;
+//   switch(value.operation){
+//     case'+': result = value.a + value.b;
+//     case'-': result = value.a - value.b;
+//     case'/': result = value.a / value.b;
+//     case'*': result = value.a * value.b;
+//     case'%': result = value.a % value.b;
+//     case'^': result = Math.pow(value.a, value.b);
+//   }
+//   return result;
+// }
 // 1) END===============================================================
 
 
