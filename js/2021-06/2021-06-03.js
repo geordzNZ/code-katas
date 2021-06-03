@@ -3,13 +3,22 @@
 //   Merit = 1733
 //   Kyu = 4
 //   Clan = 7
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 03/Jun/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: A bugs trilogy: Episode 1 - "Let Math.Random(); decide your future" (8 kyu)
+// LINK:  https://www.codewars.com/kata/562e98755e9214cd2500003d
 
+// Start code to fix
+// function {
+// 	var : Math.random()
+// 		if (career <= 0.32) {
+// 			return = FrontEnd Developer
+// 		 else if (career <= 0.65) 
+// 			return : BackEnd Developer,
+// 		} else {
+// 			return 'Full-Stack Developer'
+// 		}
+// yourFutureCareer();
 // 1) END===============================================================
 
 
