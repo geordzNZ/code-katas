@@ -59,6 +59,16 @@
 // RANK: pre-kata: 1735 / post-kata: / post rank:
 // LINK:  https://www.codewars.com/kata/5630c81e8e90d20992000051
 
+// v1
+// function myTasks(array) {
+//   let res = []
+//   for (a of array){
+//     if (a==='buy food') { res.push('learn Node.js') }
+//     else if (a==='sleep') { res.push('make a weather app') }
+//     else { res.push(a)} 
+//   }
+//   return res
+// }
 // 2) END===============================================================
 
 
