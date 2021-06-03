@@ -20,7 +20,7 @@
 // 		}
 // yourFutureCareer();
 
-// my fix v1
+// fix v1
 // function yourFutureCareer(){
 // 	let career = Math.random()
 // 	if (career <= 0.32) { 
@@ -30,6 +30,15 @@
 //   }	else { 
 //     return 'Full-Stack Developer' 
 //   }
+// }
+
+// fix v2
+// my fix v2
+// function yourFutureCareer(){
+// 	let career = Math.random()
+// 	if (career <= 0.32) { return 'FrontEnd Developer' }
+//   else if (career <= 0.65) { return 'BackEnd Developer' }
+// 	else { return 'Full-Stack Developer' }
 // }
 // 1) END===============================================================
 
