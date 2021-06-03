@@ -88,6 +88,21 @@
 // TITLE: A Letter from Your Niece (7 kyu)
 // LINK:  https://www.codewars.com/kata/589f8bb8423ac3576a00000b
 
+// v1
+// function nonsense(str) {
+//   let fixedStr = str.toLowerCase()
+//                  .replace(/0/g,'a')
+//                  .replace(/1/g,'e')
+//                  .replace(/2/g,'i')
+//                  .replace(/3/g,'o')
+//                  .replace(/4/g,'u')
+//                  .replace(/trex/g,'')
+//                  .replace(/raptor/g,'')
+//                  .replace(/( i )/g,' I ')
+//                  .replace(/(^\w)/, function(l) { return l.toUpperCase(); })
+  
+//   return fixedStr[fixedStr.length-1]==='.' ? fixedStr : fixedStr+'.'
+// }
 // 3) END===============================================================
 
 
