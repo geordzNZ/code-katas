@@ -1,82 +1,30 @@
-// CODE KATAS FOR 04 June 2021
+// CODE KATAS FOR FIXME:DD June 2021
 // Rankings at start of the day:
-//   Merit = 1743
-//   Kyu = 4
-//   Clan = 7
+//   Merit = FIXME:XXXX
+//   Kyu = FIXME:X
+//   Clan = FIXME:X
+// Comments:
+//   Create new js file = comment = git commit -m "--Create code kata js file for FIXME:DD/Jun/2021"
+//   Updates to js file = comment = git commit -am "#X kata for FIXME:DD/Jun/2021"
 
 // 1) START===============================================================
-// TITLE: Switch/Case - Bug Fixing #6 (7 kyu)
-// LINK:  https://www.codewars.com/kata/55c933c115a8c426ac000082
+// TITLE: 
+// LINK:  
 
-// Fix this Code
-// function evalObject(value){
-//   var result = 0;
-//   switch(value.operation){
-//     case'+': result = value.a + value.b;
-//     case'-': result = value.a - value.b;
-//     case'/': result = value.a / value.b;
-//     case'*': result = value.a * value.b;
-//     case'%': result = value.a % value.b;
-//     case'^': result = Math.pow(value.a, value.b);
-//   }
-//   return result;
-// }
-
-// the fix
-// function evalObject(value){
-//   var result = 0;
-//   switch(value.operation){
-//     case'+': result = value.a + value.b; break;
-//     case'-': result = value.a - value.b; break;
-//     case'/': result = value.a / value.b; break;
-//     case'*': result = value.a * value.b; break;
-//     case'%': result = value.a % value.b; break;
-//     case'^': result = Math.pow(value.a, value.b); break;
-//   }
-//   return result;
-// }
-
-// fix v2
-// function evalObject(value){
-//   switch(value.operation){
-//     case'+': return value.a + value.b;
-//     case'-': return value.a - value.b;
-//     case'/': return value.a / value.b;
-//     case'*': return value.a * value.b;
-//     case'%': return value.a % value.b;
-//     case'^': return Math.pow(value.a, value.b);
-//   }
-// }
 // 1) END===============================================================
 
 
 // 2) START===============================================================
-// TITLE: Build a square (7 kyu)
-// LINK:  https://www.codewars.com/kata/59a96d71dbe3b06c0200009c
+// TITLE: 
+// LINK:  
 
-// v1
-// function generateShape(int){
-//   let res = []
-//   for (let i=1; i<=int; i++){
-//     res.push('+'.repeat(int))
-//   }
-//   return res.join('\n')
-// }
-
-// v2
-// const generateShape =int=> Array(int).fill('+'.repeat(int)).join('\n')
 // 2) END===============================================================
 
 
 // 3) START===============================================================
-// TITLE: Largest pair sum in array (7 kyu)
-// LINK:  https://www.codewars.com/kata/556196a6091a7e7f58000018
+// TITLE: 
+// LINK:  
 
-//v1
-// function largestPairSum(numbers){
-//   numbers.sort((a,b)=>b-a)
-//   return numbers[0] + numbers[1] 
-// }
 // 3) END===============================================================
 
 
