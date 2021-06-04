@@ -62,6 +62,9 @@
 //   }
 //   return res.join('\n')
 // }
+
+// v2
+// const generateShape =int=> Array(int).fill('+'.repeat(int)).join('\n')
 // 2) END===============================================================
 
 
