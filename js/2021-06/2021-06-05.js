@@ -26,8 +26,11 @@
 // function maxProduct(a) {
 //   let maxA1 = Math.max(...a)
 //   a.splice(a.indexOf(maxA1),1)
-//   return maxA1*maxA2 = Math.max(...a)
+//   return maxA1*Math.max(...a)
 // }
+
+// v4
+// const maxProduct =a=> a.splice(a.indexOf(Math.max(...a)),1) * Math.max(...a)
 // 1) END===============================================================
 
 
