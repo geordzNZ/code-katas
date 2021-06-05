@@ -8,6 +8,12 @@
 // TITLE: Product of Largest Pair (7 kyu)
 // LINK:  https://www.codewars.com/kata/5784c89be5553370e000061b
 
+// v1 works, passes first test .. .but is too slow??
+// function maxProduct(a) {
+//   a.sort((a,b)=>b-a)
+//   return a[0]*a[1]
+// }
+
 // 1) END===============================================================
 
 
