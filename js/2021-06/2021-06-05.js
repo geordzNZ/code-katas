@@ -3,12 +3,10 @@
 //   Merit = 1749
 //   Kyu = 4
 //   Clan = 7
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 05/Jun/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Product of Largest Pair (7 kyu)
+// LINK:  https://www.codewars.com/kata/5784c89be5553370e000061b
 
 // 1) END===============================================================
 
