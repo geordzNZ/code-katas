@@ -14,7 +14,13 @@
 //   return a[0]*a[1]
 // }
 
-
+// v2
+// function maxProduct(a) {
+//   let maxA1 = Math.max(...a)
+//   a.splice(a.indexOf(maxA1),1)
+//   let maxA2 = Math.max(...a)
+//   return maxA1*maxA2
+// }
 // 1) END===============================================================
 
 
