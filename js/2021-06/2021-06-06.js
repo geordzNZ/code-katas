@@ -34,6 +34,9 @@
 //   }
 //   return res
 // }
+
+// v2
+// const findOddNames =list=> list.filter(l=> ((l.firstName).split('').reduce((cV,c)=> cV+=c.charCodeAt(0),0))%2===1)
 // 2) END===============================================================
 
 
