@@ -24,6 +24,16 @@
 // TITLE: Coding Meetup #15 - Higher-Order Functions Series - Find the odd names (6 kyu)
 // LINK:  https://www.codewars.com/kata/583a8bde28019d615a000035
 
+// v1
+// function findOddNames(list) {
+//   let sum = 0
+//   let res =[]
+//   for (l of list){
+//     sum = (l.firstName).split('').reduce((cV,c)=> cV+=c.charCodeAt(0),0)
+//     if (sum%2===1) { res.push(l) }
+//   }
+//   return res
+// }
 // 2) END===============================================================
 
 
