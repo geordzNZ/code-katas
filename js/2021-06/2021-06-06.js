@@ -3,12 +3,10 @@
 //   Merit = 1751
 //   Kyu = 4
 //   Clan = 7
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 06/Jun/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Coding Meetup #12 - Higher-Order Functions Series - Find GitHub admins (7 kyu)
+// LINK:  https://www.codewars.com/kata/582dace555a1f4d859000058
 
 // 1) END===============================================================
 
