@@ -8,11 +8,15 @@
 // TITLE: Coding Meetup #12 - Higher-Order Functions Series - Find GitHub admins (7 kyu)
 // LINK:  https://www.codewars.com/kata/582dace555a1f4d859000058
 
+// v1
 // function findAdmin(list, lang) {
 //   let res = []
 //   for (l of list){ if (l.language===lang && l.githubAdmin==='yes') { res.push(l) } }
 //   return res
 // }
+
+// v2
+//const findAdmin =(list,lang)=> list.filter(dev => dev.language == lang && dev.githubAdmin == 'yes')
 // 1) END===============================================================
 
 
