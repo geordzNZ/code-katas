@@ -3,12 +3,10 @@
 //   Merit = 1761
 //   Kyu = 4
 //   Clan = 8
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 07/Jun/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Coding Meetup #14 - Higher-Order Functions Series - Order the food (7 kyu)
+// LINK:  https://www.codewars.com/kata/583952fbc23341c7180002fd
 
 // 1) END===============================================================
 
