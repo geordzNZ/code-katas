@@ -5,8 +5,8 @@
 //   Clan = 8
 
 // 1) START===============================================================
-// TITLE: Coding Meetup #14 - Higher-Order Functions Series - Order the food (7 kyu)
-// LINK:  https://www.codewars.com/kata/583952fbc23341c7180002fd
+// TITLE: Sort the odd (6 kyu)
+// LINK:  https://www.codewars.com/kata/578aa45ee9fd15ff4600090d
 
 // 1) END===============================================================
 
