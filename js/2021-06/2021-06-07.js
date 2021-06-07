@@ -8,6 +8,19 @@
 // TITLE: Sort the odd (6 kyu)
 // LINK:  https://www.codewars.com/kata/578aa45ee9fd15ff4600090d
 
+// v1 
+// function sortArray(array) {
+//   let i = -1
+  
+//   let odds = array.filter(n=> (n%2===1 || n%2===-1)).sort((a,b)=> a-b)
+//   let ans = array.map(n=> {
+//     if (n%2===1 || n%2===-1){
+//       i++
+//       return odds[i]
+//     } else { return n }
+//   })
+//   return ans
+// }
 // 1) END===============================================================
 
 
