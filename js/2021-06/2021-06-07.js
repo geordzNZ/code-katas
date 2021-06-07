@@ -40,6 +40,9 @@
 //   let evens = array.filter(n=> Math.floor(n)%2===0).sort((a,b)=> b-a)
 //   return odds.concat(evens)
 // }
+
+// v2
+// const sortItOut=arr=> arr.filter(n=> Math.floor(n)%2).sort((a,b)=> a-b).concat(arr.filter(n=> Math.floor(n)%2===0).sort((a,b)=> b-a))
 // 2) END===============================================================
 
 
