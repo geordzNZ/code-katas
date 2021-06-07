@@ -34,6 +34,12 @@
 // TITLE: Sorting the Odd way! (7 kyu)
 // LINK:  https://www.codewars.com/kata/57fb79784e2d0639c9000066
 
+// v1
+// function sortItOut(array){
+//   let odds = array.filter(n=> Math.floor(n)%2).sort((a,b)=> a-b)
+//   let evens = array.filter(n=> Math.floor(n)%2===0).sort((a,b)=> b-a)
+//   return odds.concat(evens)
+// }
 // 2) END===============================================================
 
 
