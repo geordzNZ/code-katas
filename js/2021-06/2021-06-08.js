@@ -14,6 +14,9 @@
 //   let evens = [...S].filter((l,i)=> i%2===0)
 //   return evens.join('') + ' ' + odds.join('')
 // }
+
+// v2
+//const sortMyString=S=> [...S].filter((l,i)=> i%2===0).join('') + ' ' + [...S].filter((l,i)=> i%2).join('')
 // 1) END===============================================================
 
 
