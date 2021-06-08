@@ -24,6 +24,22 @@
 // TITLE: https://www.codewars.com/kata/5ae62fcf252e66d44d00008e (8 kyu)
 // LINK:  Expressions Matter
 
+// v1
+// function expressionMatter(a, b, c) {
+//   let a1 = a + b + c
+//   let a2 = a * b * c
+  
+//   let a3 = a + b * c
+//   let a4 = a * b + c
+  
+//   let a5 = (a + b) * c
+//   let a6 = a + (b * c)
+
+//   let a7 = (a * b) + c
+//   let a8 = a * (b + c)
+
+//   return Math.max(a1,a2,a3,a4,a5,a6,a7,a8)
+// }
 // 2) END===============================================================
 
 
