@@ -40,6 +40,14 @@
 
 //   return Math.max(a1,a2,a3,a4,a5,a6,a7,a8)
 // }
+
+// v2
+// function expressionMatter(a, b, c) {
+//   return Math.max(a + b + c, a * b * c,
+//                   a + b * c, a * b + c,
+//                   (a + b) * c, a + (b * c),
+//                   (a * b) + c, a * (b + c))
+// }
 // 2) END===============================================================
 
 
