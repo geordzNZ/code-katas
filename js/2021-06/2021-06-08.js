@@ -3,12 +3,10 @@
 //   Merit = 1771
 //   Kyu = 4
 //   Clan = 7
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 08/Jun/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: https://www.codewars.com/kata/580755730b5a77650500010c (7 kyu)
+// LINK:  Odd-Even String Sort
 
 // 1) END===============================================================
 
