@@ -8,6 +8,12 @@
 // TITLE: https://www.codewars.com/kata/580755730b5a77650500010c (7 kyu)
 // LINK:  Odd-Even String Sort
 
+// v1
+// function sortMyString(S) {
+//   let odds = [...S].filter((l,i)=> i%2)
+//   let evens = [...S].filter((l,i)=> i%2===0)
+//   return evens.join('') + ' ' + odds.join('')
+// }
 // 1) END===============================================================
 
 
