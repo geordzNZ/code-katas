@@ -3,12 +3,10 @@
 //   Merit = 1775
 //   Kyu = 4
 //   Clan = 7
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 09/Jun/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: https://www.codewars.com/kata/5862f663b4e9d6f12b00003b
+// LINK:  Thinkful - Number Drills: Blue and red marbles
 
 // 1) END===============================================================
 
