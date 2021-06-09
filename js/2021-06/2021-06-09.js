@@ -8,6 +8,14 @@
 // TITLE: https://www.codewars.com/kata/5862f663b4e9d6f12b00003b
 // LINK:  Thinkful - Number Drills: Blue and red marbles
 
+// v1
+// function guessBlue(blueStart, redStart, bluePulled, redPulled) {
+//   let bL = blueStart - bluePulled
+//   let rL = redStart - redPulled
+//   let ans = bL/(bL+rL)
+  
+//   return ans
+// }
 // 1) END===============================================================
 
 
