@@ -35,6 +35,8 @@
 // TITLE: Grasshopper - Terminal game combat function (8 kyu)
 // LINK:  https://www.codewars.com/kata/586c1cf4b98de0399300001d/
 
+// v1
+// const combat=(h,d)=> h-d>=0 ? h-d : 0
 // 3) END===============================================================
 
 
