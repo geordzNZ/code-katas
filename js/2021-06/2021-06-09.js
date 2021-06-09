@@ -26,6 +26,8 @@
 // TITLE: Grasshopper - Messi goals function (8 kyu)
 // LINK:  https://www.codewars.com/kata/55f73be6e12baaa5900000d4
 
+// v1
+// const goals=(laLiga,copaDelRey,championsLeague)=> laLiga + copaDelRey + championsLeague
 // 2) END===============================================================
 
 
