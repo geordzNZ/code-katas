@@ -22,7 +22,7 @@
 
 // 2) START===============================================================
 // TITLE: Grasshopper - Terminal game combat function (beta)
-// RANK:  pre-kata: 1781 / post-kata:  /  post rank: 
+// RANK:  pre-kata: 1781 / post-kata: 1785 /  post rank: 1787
 // LINK:  https://www.codewars.com/kata/563a5f4366fbf8cc6e00008b
 
 // v1
