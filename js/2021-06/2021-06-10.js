@@ -21,8 +21,8 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Grasshopper - Terminal game combat function (beta)
+// LINK:  https://www.codewars.com/kata/563a5f4366fbf8cc6e00008b
 
 // 2) END===============================================================
 
