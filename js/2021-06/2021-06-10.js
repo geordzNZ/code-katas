@@ -8,6 +8,15 @@
 // TITLE: Grasshopper - Terminal Game Turn Function (8 kyu)
 // LINK:  https://www.codewars.com/kata/56019d3b2c39ccde76000086
 
+// v1
+// function doTurn () {
+//   let r = rollDice()
+//   let m = move()
+//   let c = combat()
+//   let g = getCoins()
+//   let b = buyHealth()
+//   let p = printStatus()
+// }
 // 1) END===============================================================
 
 
