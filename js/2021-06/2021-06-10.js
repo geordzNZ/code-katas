@@ -3,12 +3,10 @@
 //   Merit = 1779
 //   Kyu = 4
 //   Clan = 7
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 10/Jun/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Grasshopper - Terminal Game Turn Function (8 kyu)
+// LINK:  https://www.codewars.com/kata/56019d3b2c39ccde76000086
 
 // 1) END===============================================================
 
