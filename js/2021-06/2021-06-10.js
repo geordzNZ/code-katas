@@ -31,8 +31,8 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Be Concise I - The Ternary Operator (8 kyu)
+// LINK:  https://www.codewars.com/kata/56f3f6a82010832b02000f38
 
 // 3) END===============================================================
 
