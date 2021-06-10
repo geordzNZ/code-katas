@@ -46,6 +46,8 @@
 // TITLE: Be Concise II - I Need Squares (8 kyu)
 // LINK:  https://www.codewars.com/kata/56f4f7cfaf5b1f8cd100060e
 
+// v1
+//const squaresOnly=a=>a.filter((n)=>Math.sqrt(n)%1===0)
 // 4) END===============================================================
 
 
