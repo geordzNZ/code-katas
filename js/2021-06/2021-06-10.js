@@ -43,8 +43,8 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Be Concise II - I Need Squares (8 kyu)
+// LINK:  https://www.codewars.com/kata/56f4f7cfaf5b1f8cd100060e
 
 // 4) END===============================================================
 
