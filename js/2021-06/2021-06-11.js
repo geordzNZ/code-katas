@@ -3,12 +3,12 @@
 //   Merit = 1791
 //   Kyu = 4
 //   Clan = 9
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 11/Jun/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence
+// LINK:  https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed
+
+
 
 // 1) END===============================================================
 
