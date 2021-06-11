@@ -11,6 +11,20 @@
 // const replace=s=> s.replace(/[aeiou]/ig,'!')
 // 1) END===============================================================
 
+// v1 partially working, except for the object generator??
+// function nextItem(xs, item) {
+ 
+//   let arrXS = xs
+//    if (typeof xs === 'string'){ 
+//      let arrXS = xs.split('') 
+//    }
+//    for (let i=0; i<arrXS.length; i++){
+//        if (xs[i] === item) { 
+//          return xs[i+1] 
+//        }
+//      }
+//    return undefined
+//  }
 
 // 2) START===============================================================
 // TITLE: What's up next?
