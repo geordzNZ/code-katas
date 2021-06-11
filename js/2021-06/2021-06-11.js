@@ -26,6 +26,16 @@
 //    return undefined
 //  }
 
+// V2 - someone elses code
+// function nextItem(xs, item) {
+//   var found = false;
+//   for (var x of xs) {
+//     if (found) return x;
+//     if (x == item) found = true;
+//   }
+//   return undefined;
+// }
+
 // 2) START===============================================================
 // TITLE: What's up next?
 // LINK:  https://www.codewars.com/kata/542ebbdb494db239f8000046
