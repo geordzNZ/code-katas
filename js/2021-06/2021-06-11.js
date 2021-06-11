@@ -77,6 +77,9 @@
 //   let days = ["","Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"] 
 //   return days[num] || "Wrong, please enter a number between 1 and 7"
 // }
+
+//v4
+// const whatday =num=> ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"][num-1] || "Wrong, please enter a number between 1 and 7"
 // 3) END===============================================================
 
 
