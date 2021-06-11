@@ -71,6 +71,12 @@
 //          num===6 ? "Friday" :
 //          num===7 ? "Saturday" : "Wrong, please enter a number between 1 and 7"
 // }
+
+// v3
+// function whatday(num) { 
+//   let days = ["","Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"] 
+//   return days[num] || "Wrong, please enter a number between 1 and 7"
+// }
 // 3) END===============================================================
 
 
