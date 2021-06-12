@@ -62,6 +62,9 @@
   
 //   wealth.fill(totalWealthPP)
 // }
+
+// v3
+// const redistributeWealth =wealth=> wealth.fill(wealth.reduce((t,w)=>t+=w,0)/wealth.length)
 // 3) END===============================================================
 
 
