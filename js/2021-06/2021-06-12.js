@@ -54,6 +54,14 @@
 //     wealth[i] = totalWealthPP
 //   }
 // }
+
+// v2
+// function redistributeWealth(wealth) {
+//   let totalWealth = wealth.reduce((t,w)=>t+=w,0)
+//   let totalWealthPP = totalWealth/wealth.length
+  
+//   wealth.fill(totalWealthPP)
+// }
 // 3) END===============================================================
 
 
