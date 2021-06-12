@@ -3,12 +3,10 @@
 //   Merit = 1795
 //   Kyu = 4
 //   Clan = 9
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 12/Jun/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Find the Integral (8 kyu)
+// LINK:  https://www.codewars.com/kata/59811fd8a070625d4c000013
 
 // 1) END===============================================================
 
