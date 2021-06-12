@@ -45,6 +45,15 @@
 // TITLE: Wealth equality, finally! (7kyu)
 // LINK:  https://www.codewars.com/kata/5815f7e789063238b30001aa
 
+// v1
+// function redistributeWealth(wealth) {
+//   let totalWealth = wealth.reduce((t,w)=>t+=w,0)
+//   let totalWealthPP = totalWealth/wealth.length
+  
+//   for (let i=0; i<wealth.length; i++){
+//     wealth[i] = totalWealthPP
+//   }
+// }
 // 3) END===============================================================
 
 
