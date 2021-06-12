@@ -8,6 +8,13 @@
 // TITLE: Find the Integral (8 kyu)
 // LINK:  https://www.codewars.com/kata/59811fd8a070625d4c000013
 
+// v1
+// function integrate(coefficient, exponent) {
+//   let n1 = coefficient/(exponent+1)
+//   let n2 = exponent+1
+//   return n1+"x^"+n2
+// }
+
 // 1) END===============================================================
 
 
