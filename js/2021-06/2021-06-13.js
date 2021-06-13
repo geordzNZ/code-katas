@@ -32,6 +32,9 @@
 //   if (this.length===0 || this.length>1){ return false}
 //   return /[aeiou]/i.test(this)
 // };
+
+// v2
+// String.prototype.vowel = function() { return /^[aeiou]$/i.test(this) }
 // 2) END===============================================================
 
 
