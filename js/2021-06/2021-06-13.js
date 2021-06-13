@@ -27,6 +27,11 @@
 // TITLE: Regexp Basics - is it a vowel? (7 kyu)
 // LINK:  https://www.codewars.com/kata/567bed99ee3451292c000025
 
+// v1
+// String.prototype.vowel = function() {
+//   if (this.length===0 || this.length>1){ return false}
+//   return /[aeiou]/i.test(this)
+// };
 // 2) END===============================================================
 
 
