@@ -17,6 +17,9 @@
 //   }
 //   return x.toLowerCase()===bwX.toLowerCase()
 // }
+
+// v2
+// const isPalindrome =x=> x.toLowerCase() === x.split('').reverse().join('').toLowerCase()
 // 1) END===============================================================
 
 
