@@ -8,6 +8,15 @@
 // TITLE: Is it a palindrome? (8 kyu)
 // LINK:  https://www.codewars.com/kata/57a1fd2ce298a731b20006a4
 
+// v1
+// function isPalindrome(x) {
+//   let bwX = ''
+  
+//   for (let i=x.length-1; i>=0; i--){
+//     bwX += x[i]
+//   }
+//   return x.toLowerCase()===bwX.toLowerCase()
+// }
 // 1) END===============================================================
 
 
