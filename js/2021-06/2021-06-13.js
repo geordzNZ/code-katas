@@ -3,12 +3,10 @@
 //   Merit = 1801
 //   Kyu = 4
 //   Clan = 9
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 13/Jun/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Is it a palindrome? (8 kyu)
+// LINK:  https://www.codewars.com/kata/57a1fd2ce298a731b20006a4
 
 // 1) END===============================================================
 
