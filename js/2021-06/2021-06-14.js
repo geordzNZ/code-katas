@@ -8,6 +8,8 @@
 // TITLE: Regexp Basics - is it a hexadecimal number? (7 kyu)
 // LINK:  https://www.codewars.com/kata/567c9f56d83baeed8300000f/
 
+// v1
+// String.prototype.hexNumber = function() { return /^(0x)?[A-F0-9]+$/i.test(this) }
 // 1) END===============================================================
 
 
