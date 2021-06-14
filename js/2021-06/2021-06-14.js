@@ -3,12 +3,10 @@
 //   Merit = 1807
 //   Kyu = 4
 //   Clan = 9
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 14/Jun/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Regexp Basics - is it a hexadecimal number? (7 kyu)
+// LINK:  https://www.codewars.com/kata/567c9f56d83baeed8300000f/
 
 // 1) END===============================================================
 
