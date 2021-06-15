@@ -13,7 +13,10 @@
 //   return /^(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])$/.test(this)
 // }
 
-
+// v2
+// String.prototype.eightBitNumber = function () {
+//   return String(+this)==this && +this>=0 && +this<=255;
+// };
 // 1) END===============================================================
 
 
