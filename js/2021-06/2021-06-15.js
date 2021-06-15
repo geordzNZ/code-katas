@@ -21,8 +21,8 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Regexp Basics - is it a six bit unsigned number? (7 kyu)
+// LINK:  https://www.codewars.com/kata/567e8dbb9b6f4da558000030
 
 // 2) END===============================================================
 
