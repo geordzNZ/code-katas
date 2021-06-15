@@ -3,12 +3,10 @@
 //   Merit = 1817
 //   Kyu = 4
 //   Clan = 9
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 15/Jun/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Regexp Basics - is it a eight bit unsigned number? (7 kyu)
+// LINK:  https://www.codewars.com/kata/567e8f7b4096f2b4b1000005
 
 // 1) END===============================================================
 
