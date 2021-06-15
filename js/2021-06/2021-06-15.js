@@ -28,6 +28,11 @@
 // String.prototype.sixBitNumber = function() {
 //   return /^(6[0-3]|[1-5]?[0-9])$/.test(this)
 // }
+
+// v2
+// String.prototype.sixBitNumber = function() {
+//   return String(+this)==this &&  +this>=0 && +this<=63
+// }
 // 2) END===============================================================
 
 
