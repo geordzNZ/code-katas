@@ -24,6 +24,10 @@
 // TITLE: Regexp Basics - is it a six bit unsigned number? (7 kyu)
 // LINK:  https://www.codewars.com/kata/567e8dbb9b6f4da558000030
 
+// v1
+// String.prototype.sixBitNumber = function() {
+//   return /^(6[0-3]|[1-5]?[0-9])$/.test(this)
+// }
 // 2) END===============================================================
 
 
