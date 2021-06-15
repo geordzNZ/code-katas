@@ -40,6 +40,12 @@
 // TITLE: Count by X (8 kyu)
 // LINK:  https://www.codewars.com/kata/5513795bd3fafb56c200049e
 
+// v1
+// function countBy(x, n) {
+//   let res = [];
+//   for (let i=1; i<=n; i++ ){ res.push(i*x) }  
+//   return res;
+// }
 // 3) END===============================================================
 
 
