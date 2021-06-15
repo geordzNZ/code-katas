@@ -8,6 +8,12 @@
 // TITLE: Regexp Basics - is it a eight bit unsigned number? (7 kyu)
 // LINK:  https://www.codewars.com/kata/567e8f7b4096f2b4b1000005
 
+// v1
+// String.prototype.eightBitNumber = function() {
+//   return /^(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])$/.test(this)
+// }
+
+
 // 1) END===============================================================
 
 
