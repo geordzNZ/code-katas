@@ -8,6 +8,12 @@
 // TITLE: Hex to Decimal (8 kyu)
 // LINK:  https://www.codewars.com/kata/57a4d500e298a7952100035d/
 
+// v1 
+// function hexToDec(hexString){
+//   let decNum = parseInt(hexString, 16)
+  
+//   return decNum
+// }
 // 1) END===============================================================
 
 
