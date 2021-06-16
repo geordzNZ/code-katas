@@ -54,8 +54,8 @@
 
 
 // 4) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Training JS #8: Conditional statement--switch (8 kyu)
+// LINK:  https://www.codewars.com/kata/572059afc2f4612825000d8a
 
 // 4) END===============================================================
 
