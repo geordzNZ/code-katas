@@ -24,6 +24,8 @@
 // TITLE: Bin to Decimal (8 kyu)
 // LINK:  https://www.codewars.com/kata/57a5c31ce298a7e6b7000334
 
+// v1
+// const binToDec =b=> parseInt(b,2)
 // 2) END===============================================================
 
 
