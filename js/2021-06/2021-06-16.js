@@ -3,12 +3,10 @@
 //   Merit = 1823
 //   Kyu = 4
 //   Clan = 9
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 16/Jun/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Hex to Decimal (8 kyu)
+// LINK:  https://www.codewars.com/kata/57a4d500e298a7952100035d/
 
 // 1) END===============================================================
 
