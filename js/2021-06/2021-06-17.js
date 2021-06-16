@@ -13,6 +13,8 @@
 //   return `This ${obj.color} ${obj.name} has ${obj.legs} legs.`
 // }
 
+// v2
+//const animal =obj=> `This ${obj.color} ${obj.name} has ${obj.legs} legs.`
 // 1) END===============================================================
 
 
