@@ -31,8 +31,8 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Training JS #2: Basic data types--Number (8 kyu)
+// LINK:  https://www.codewars.com/kata/571edd157e8954bab500032d/
 
 // 3) END===============================================================
 
