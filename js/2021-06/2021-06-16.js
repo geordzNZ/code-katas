@@ -33,6 +33,17 @@
 // TITLE: ToLeetSpeak (7 kyu)
 // LINK:  https://www.codewars.com/kata/57c1ab3949324c321600013f
 
+// v1
+// function toLeetSpeak(str) {
+//   let res =''
+//   let alphabet = {A:'@',B:'8',C:'(',D:'D',E:'3',F:'F',G:'6',H:'#',I:'!',J:'J',K:'K',L:'1',M:'M',N:'N',O:'0',P:'P',Q:'Q',R:'R',S:'$',T:'7',U:'U',V:'V',W:'W',X:'X',Y:'Y',Z:'2'}  
+  
+//   for (let s of str){
+//     if (/\w/i.test(s)) { res+=alphabet[s] }
+//     else { res+=s }
+//   }
+//   return res
+// }
 // 3) END===============================================================
 
 
