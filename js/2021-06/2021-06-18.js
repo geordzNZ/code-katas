@@ -3,12 +3,10 @@
 //   Merit = 1837
 //   Kyu = 4
 //   Clan = 9
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 18/Jun/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Training JS #3: Basic data types--String (8 kyu)
+// LINK:  https://www.codewars.com/kata/571edea4b625edcb51000d8e
 
 // 1) END===============================================================
 
