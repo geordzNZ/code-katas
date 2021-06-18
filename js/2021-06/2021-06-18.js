@@ -132,8 +132,14 @@
 
 // fix this code
 // function trueOrFalse(val){
-//   if ()    return ?;             
+//   if ()    return ?;
 //   else     return ?;
+// }
+
+// v1 fixed code
+// function trueOrFalse(val){
+//   if (!val) { return 'false'}
+//   else { return 'true' }
 // }
 // 3) END===============================================================
 
