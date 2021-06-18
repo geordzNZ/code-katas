@@ -127,8 +127,8 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Training JS #6: Basic data types--Boolean and conditional statements if..else (8 kyu)
+// LINK:  https://www.codewars.com/kata/571f832f07363d295d001ba8/
 
 // 3) END===============================================================
 
