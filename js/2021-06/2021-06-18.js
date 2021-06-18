@@ -141,6 +141,9 @@
 //   if (!val) { return 'false'}
 //   else { return 'true' }
 // }
+
+// v2 fixed code
+//const trueOrFalse =val=> (!val) ? 'false' : 'true'
 // 3) END===============================================================
 
 
