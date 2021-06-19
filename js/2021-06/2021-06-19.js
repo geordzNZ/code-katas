@@ -51,6 +51,17 @@
 //   }
 //   return ans
 // }
+
+// v2
+// function padIt(str,n){
+//   let ans = str
+//   i=1
+//   while ( i<=n){
+//     ans = i%2==1 ? '*' + ans : ans + '*'
+//     i++
+//   }
+//   return ans
+// }
 // 2) END===============================================================
 
 
