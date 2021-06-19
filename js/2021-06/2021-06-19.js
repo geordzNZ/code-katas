@@ -8,6 +8,19 @@
 // TITLE: Training JS #7: if..else and ternary operator (8 kyu)
 // LINK:  https://www.codewars.com/kata/57202aefe8d6c514300001fd
 
+// v1
+// function saleHotdogs(n){
+//   let ans = 0
+//   if (n<5) { 
+//     ans = n * 100 
+//   } else if (n>=5 && n<10) {
+//     ans = n * 95
+//   } else { 
+//      ans = n * 90 
+//   }
+  
+//   return ans  
+// }
 // 1) END===============================================================
 
 
