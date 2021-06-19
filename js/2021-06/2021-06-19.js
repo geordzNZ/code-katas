@@ -42,6 +42,15 @@
 // TITLE: Training JS #9: loop statement --while and do..while (8 kyu)
 // LINK:  https://www.codewars.com/kata/57216d4bcdd71175d6000560
 
+// v1
+// function padIt(str,n){
+//   let ans = str
+//   for (let i=1; i<=n; i++){
+//     if (i%2==1) { ans = '*' + ans }
+//     else { ans = ans + '*' }
+//   }
+//   return ans
+// }
 // 2) END===============================================================
 
 
