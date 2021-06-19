@@ -3,12 +3,10 @@
 //   Merit = 1843
 //   Kyu = 4
 //   Clan = 9
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 19/Jun/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Training JS #7: if..else and ternary operator (8 kyu)
+// LINK:  https://www.codewars.com/kata/57202aefe8d6c514300001fd
 
 // 1) END===============================================================
 
