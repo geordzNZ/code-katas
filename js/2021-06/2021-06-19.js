@@ -39,8 +39,8 @@
 
 
 // 2) START===============================================================
-// TITLE: Training JS #8: Conditional statement--switch (8 kyu)
-// LINK:  https://www.codewars.com/kata/572059afc2f4612825000d8a
+// TITLE: Training JS #9: loop statement --while and do..while (8 kyu)
+// LINK:  https://www.codewars.com/kata/57216d4bcdd71175d6000560
 
 // 2) END===============================================================
 
