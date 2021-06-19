@@ -21,6 +21,17 @@
   
 //   return ans  
 // }
+
+// v2
+// function saleHotdogs(n){
+//   let ans = 0
+
+//   if (n<5) { ans = 100 }
+//   else if (n>=5 && n<10) { ans = 95 }
+//   else { ans = 90 }
+  
+//   return ans * n
+// }
 // 1) END===============================================================
 
 
