@@ -3,12 +3,10 @@
 //   Merit = 1847
 //   Kyu = 4
 //   Clan = 9
-// Comments:
-//   Updates to js file = comment = git commit -am "#X kata for 20/Jun/2021"
 
 // 1) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Training JS #10: loop statement --for (8 kyu)
+// LINK:  https://www.codewars.com/kata/5721a78c283129e416000999
 
 // 1) END===============================================================
 
