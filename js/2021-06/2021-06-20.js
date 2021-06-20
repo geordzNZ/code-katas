@@ -49,8 +49,8 @@
 
 
 // 3) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Training JS #12: loop statement --for..in and for..of
+// LINK:  https://www.codewars.com/kata/5722b3f0bd5583cf44001000
 
 // 3) END===============================================================
 
