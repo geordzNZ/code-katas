@@ -52,6 +52,15 @@
 // TITLE: Training JS #12: loop statement --for..in and for..of
 // LINK:  https://www.codewars.com/kata/5722b3f0bd5583cf44001000
 
+// v1
+// function giveMeFive(obj){
+//   let ans = []
+//   for (o in obj){
+//     if (o.length==5) { ans.push(o) }
+//     if (obj[o].length==5) { ans.push(obj[o]) }
+//   }
+//   return ans
+// }
 // 3) END===============================================================
 
 
