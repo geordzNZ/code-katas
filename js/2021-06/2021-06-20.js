@@ -31,8 +31,8 @@
 
 
 // 2) START===============================================================
-// TITLE: 
-// LINK:  
+// TITLE: Training JS #11: loop statement --break,continue (8 kyu)
+// LINK: https://www.codewars.com/kata/5721c189cdd71194c1000b9b/train/javascript 
 
 // 2) END===============================================================
 
